@@ -1,0 +1,27 @@
+{
+  "shape_limpio": [
+    1800,
+    24
+  ],
+  "shape_transformado": [
+    1800,
+    24
+  ],
+  "balance_clases": {
+    "1": 1.0
+  },
+  "balance_flag": "ALERTA",
+  "nulos": {
+    "limpio": 0,
+    "transformado": 0
+  },
+  "duplicados": {
+    "limpio": 0,
+    "transformado": 0
+  },
+  "rangos_fuera_limite_limpio": {},
+  "categorias_raras_limpio": {},
+  "leakage_features": [],
+  "varianza_cero_features": [],
+  "corr_altas_pairs": []
+}
