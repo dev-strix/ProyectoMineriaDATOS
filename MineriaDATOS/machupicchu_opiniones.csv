@@ -1,0 +1,61 @@
+id,fecha,fuente,lugar,subzona,opinion,puntaje,sentimiento
+1,2023-09-08,Google Maps,Machu Picchu,Ciudadela,El precio es elevado para lo que ofrecen.,2,negativo
+2,2024-08-27,Instagram,Machu Picchu,Machu Picchu,El precio es elevado para lo que ofrecen.,1,negativo
+3,2024-06-01,Blog,Machu Picchu,Machu Picchu,La organización del ingreso fue ágil y el personal muy amable.,4,positivo
+4,2023-08-14,Instagram,Machu Picchu,Aguas Calientes,El guía se apuró mucho y no respondió preguntas.,2,negativo
+5,2023-12-15,Twitter,Machu Picchu,Ciudadela,"El lugar es interesante, aunque similar a lo que esperaba por fotos.",3,neutral
+6,2024-01-25,TripAdvisor,Machu Picchu,Huayna Picchu,"A pesar de la altura, el recorrido es llevadero y muy seguro.",4,positivo
+7,2025-01-17,Instagram,Machu Picchu,Aguas Calientes,"El audio del guía fue claro, aunque sin muchos detalles.",3,neutral
+8,2025-04-29,Encuesta,Machu Picchu,Aguas Calientes,"Las fotos no le hacen justicia, es mágico.",5,positivo
+9,2023-02-16,Encuesta,Machu Picchu,Ciudadela,"El audio del guía fue claro, aunque sin muchos detalles.",3,neutral
+10,2024-01-25,Twitter,Machu Picchu,Puerta del Sol,La caminata es moderada; conviene ir con calzado cómodo.,3,neutral
+11,2023-12-30,Google Maps,Machu Picchu,Montaña Machu Picchu,El servicio de buses fue caótico y demoró demasiado.,2,negativo
+12,2024-06-30,Encuesta,Machu Picchu,Ciudadela,La caminata es moderada; conviene ir con calzado cómodo.,3,neutral
+13,2025-08-05,Encuesta,Machu Picchu,Montaña Machu Picchu,Vale cada sol del boleto; una maravilla del mundo de verdad.,5,positivo
+14,2025-05-13,TripAdvisor,Machu Picchu,Ciudadela,El guía se apuró mucho y no respondió preguntas.,2,negativo
+15,2023-03-09,Google Maps,Machu Picchu,Aguas Calientes,"A pesar de la altura, el recorrido es llevadero y muy seguro.",5,positivo
+16,2024-02-10,Encuesta,Machu Picchu,Puerta del Sol,El servicio de buses fue caótico y demoró demasiado.,2,negativo
+17,2025-02-01,Blog,Machu Picchu,Aguas Calientes,Muy limpio y bien señalizado; respetan el patrimonio.,4,positivo
+18,2024-01-06,Google Maps,Machu Picchu,Ciudadela,"El audio del guía fue claro, aunque sin muchos detalles.",3,neutral
+19,2025-05-31,TripAdvisor,Machu Picchu,Ciudadela,No aceptan efectivo en algunos puntos y no lo informan.,1,negativo
+20,2024-09-02,TripAdvisor,Machu Picchu,Puerta del Sol,Mala organización en los accesos; se pierde tiempo.,2,negativo
+21,2025-09-21,Blog,Machu Picchu,Machu Picchu,"El audio del guía fue claro, aunque sin muchos detalles.",3,neutral
+22,2025-02-26,Encuesta,Machu Picchu,Huayna Picchu,El precio es elevado para lo que ofrecen.,2,negativo
+23,2024-04-09,TripAdvisor,Machu Picchu,Montaña Machu Picchu,Muy limpio y bien señalizado; respetan el patrimonio.,4,positivo
+24,2024-06-03,TripAdvisor,Machu Picchu,Montaña Machu Picchu,Varias áreas cerradas sin explicación.,1,negativo
+25,2023-06-06,Twitter,Machu Picchu,Ciudadela,La señal de celular es irregular; mejor descargar mapas.,3,neutral
+26,2024-05-15,TripAdvisor,Machu Picchu,Machu Picchu,El camino estaba resbaloso y no había advertencias.,2,negativo
+27,2023-09-04,Blog,Machu Picchu,Machu Picchu,El clima cambiante exige llevar impermeable.,3,neutral
+28,2023-05-12,Encuesta,Machu Picchu,Puerta del Sol,Vale cada sol del boleto; una maravilla del mundo de verdad.,4,positivo
+29,2025-09-14,Google Maps,Machu Picchu,Aguas Calientes,Mala organización en los accesos; se pierde tiempo.,2,negativo
+30,2024-02-13,Encuesta,Machu Picchu,Montaña Machu Picchu,El guía se apuró mucho y no respondió preguntas.,2,negativo
+31,2023-05-04,Google Maps,Machu Picchu,Ciudadela,Las indicaciones son suficientes para no perderse.,3,neutral
+32,2024-08-25,Google Maps,Machu Picchu,Machu Picchu,"A pesar de la altura, el recorrido es llevadero y muy seguro.",4,positivo
+33,2025-07-16,TripAdvisor,Machu Picchu,Huayna Picchu,"La vista desde Ciudadela fue impresionante, una experiencia inolvidable.",4,positivo
+34,2024-11-16,Instagram,Machu Picchu,Ciudadela,El amanecer desde Ciudadela me dejó sin palabras.,5,positivo
+35,2023-09-06,Instagram,Machu Picchu,Puerta del Sol,Mala organización en los accesos; se pierde tiempo.,2,negativo
+36,2023-12-29,Instagram,Machu Picchu,Puerta del Sol,La organización del ingreso fue ágil y el personal muy amable.,5,positivo
+37,2023-03-04,Instagram,Machu Picchu,Montaña Machu Picchu,"El lugar es interesante, aunque similar a lo que esperaba por fotos.",3,neutral
+38,2023-07-14,Blog,Machu Picchu,Puerta del Sol,La caminata es moderada; conviene ir con calzado cómodo.,3,neutral
+39,2024-04-18,Google Maps,Machu Picchu,Machu Picchu,"Las fotos no le hacen justicia, es mágico.",5,positivo
+40,2024-10-29,Blog,Machu Picchu,Machu Picchu,La señal de celular es irregular; mejor descargar mapas.,3,neutral
+41,2024-05-12,Instagram,Machu Picchu,Ciudadela,El tour guiado fue excelente y aprendí muchísimo sobre la cultura Inca.,5,positivo
+42,2023-01-03,Instagram,Machu Picchu,Huayna Picchu,"El lugar es interesante, aunque similar a lo que esperaba por fotos.",3,neutral
+43,2023-06-08,Google Maps,Machu Picchu,Huayna Picchu,El clima cambiante exige llevar impermeable.,3,neutral
+44,2025-02-04,Twitter,Machu Picchu,Machu Picchu,"La vista desde Aguas Calientes fue impresionante, una experiencia inolvidable.",4,positivo
+45,2023-02-28,Blog,Machu Picchu,Machu Picchu,La logística del bus y las entradas funcionó perfecto.,4,positivo
+46,2024-11-22,Google Maps,Machu Picchu,Puerta del Sol,La organización del ingreso fue ágil y el personal muy amable.,4,positivo
+47,2024-09-26,TripAdvisor,Machu Picchu,Puerta del Sol,La logística del bus y las entradas funcionó perfecto.,4,positivo
+48,2025-08-15,Twitter,Machu Picchu,Ciudadela,La experiencia se vio arruinada por la lluvia y la falta de refugios.,2,negativo
+49,2024-02-10,Google Maps,Machu Picchu,Montaña Machu Picchu,El servicio de buses fue caótico y demoró demasiado.,2,negativo
+50,2025-08-09,TripAdvisor,Machu Picchu,Machu Picchu,Varias áreas cerradas sin explicación.,2,negativo
+51,2023-03-17,Blog,Machu Picchu,Ciudadela,"El audio del guía fue claro, aunque sin muchos detalles.",3,neutral
+52,2025-06-21,TripAdvisor,Machu Picchu,Ciudadela,Varias áreas cerradas sin explicación.,2,negativo
+53,2025-05-03,Blog,Machu Picchu,Montaña Machu Picchu,El clima cambiante exige llevar impermeable.,3,neutral
+54,2024-11-14,Blog,Machu Picchu,Huayna Picchu,"El audio del guía fue claro, aunque sin muchos detalles.",3,neutral
+55,2023-04-29,TripAdvisor,Machu Picchu,Montaña Machu Picchu,El precio es elevado para lo que ofrecen.,2,negativo
+56,2024-09-11,Google Maps,Machu Picchu,Montaña Machu Picchu,Mala organización en los accesos; se pierde tiempo.,2,negativo
+57,2024-06-01,Instagram,Machu Picchu,Huayna Picchu,Compré el boleto con anticipación; el proceso fue estándar.,3,neutral
+58,2025-04-29,Twitter,Machu Picchu,Machu Picchu,La organización del ingreso fue ágil y el personal muy amable.,5,positivo
+59,2023-06-15,Encuesta,Machu Picchu,Puerta del Sol,"A pesar de la altura, el recorrido es llevadero y muy seguro.",5,positivo
+60,2023-04-25,TripAdvisor,Machu Picchu,Montaña Machu Picchu,Pocas sombras y señalización confusa.,1,negativo
