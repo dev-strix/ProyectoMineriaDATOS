@@ -1,0 +1,1201 @@
+post_id,platform,author,text,sentiment,created_at
+1,Twitter,user115,"Pésima experiencia con @equipoY, no lo recomiendo y gracias a @creatorAna",negative,2024-05-15 02:58:00
+2,Twitter,user433,"Gracias @soporteX por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-04-20 22:10:00
+3,YouTube,user559,"Recomiendo a @devTips, contenido de calidad y muy útil #promo",positive,2024-04-17 23:49:00
+4,TikTok,user433,"Recomiendo a @soporteX, contenido de calidad y muy útil y gracias a @cineFan #promo",positive,2024-04-17 20:36:00
+5,Twitter,user271,"Malo el soporte de @fitLife, aún espero respuesta #promo",negative,2024-07-04 21:27:00
+6,Instagram,user371,"No funciona lo que vende @brandY, una estafa y gracias a @reviewGuru",negative,2024-05-27 03:26:00
+7,TikTok,user390,"Pésima experiencia con @ofertasHoy, no lo recomiendo #promo https://t.co/demo",negative,2024-04-09 23:19:00
+8,Instagram,user74,"Pésima experiencia con @equipoY, no lo recomiendo #promo",negative,2024-05-17 23:29:00
+9,Instagram,user571,"Pésima experiencia con @brandY, no lo recomiendo",negative,2024-05-05 02:15:00
+10,TikTok,user217,"Buenísimo el video de @gamerMax, 10/10 https://t.co/demo",positive,2024-02-28 04:45:00
+11,TikTok,user253,"Muy decepcionado con @cineFan, cero seriedad #promo",negative,2024-03-23 17:23:00
+12,Twitter,user506,Viendo el directo de @creatorAna ahora,neutral,2024-05-08 02:10:00
+13,YouTube,user395,"Muy decepcionado con @musicBeat, cero seriedad y gracias a @devTips https://t.co/demo",negative,2024-06-28 03:54:00
+14,TikTok,user550,Nuevo post de @reviewGuru sobre tendencias y gracias a @creatorMia #promo,neutral,2024-04-17 08:59:00
+15,Instagram,user513,"No funciona lo que vende @creatorAna, una estafa y gracias a @modaTrends https://t.co/demo",negative,2024-04-06 12:45:00
+16,Twitter,user166,"Malo el soporte de @gamerMax, aún espero respuesta y gracias a @ofertasHoy",negative,2024-04-30 10:29:00
+17,Twitter,user246,Increíble servicio de @devTips! Me encantó la experiencia y gracias a @gamerMax,positive,2024-04-05 18:10:00
+18,Instagram,user129,"Pésima experiencia con @fitLife, no lo recomiendo y gracias a @cienciaHoy #promo https://t.co/demo",negative,2024-04-15 18:24:00
+19,TikTok,user206,"Qué gran atención de @modaTrends, todo rápido y claro",positive,2024-04-25 08:27:00
+20,Twitter,user231,"La promo de @devTips está genial, ahorré bastante y gracias a @equipoY #promo",positive,2024-03-21 02:00:00
+21,Twitter,user235,Nuevo post de @reviewGuru sobre tendencias #promo,neutral,2024-05-29 18:24:00
+22,YouTube,user136,"Buenísimo el video de @gamerMax, 10/10 y gracias a @creatorAna https://t.co/demo",positive,2024-03-17 14:01:00
+23,Twitter,user479,"Malo el soporte de @cienciaHoy, aún espero respuesta y gracias a @reviewGuru https://t.co/demo",negative,2024-03-14 06:32:00
+24,YouTube,user195,"Recomiendo a @creatorMia, contenido de calidad y muy útil https://t.co/demo",positive,2024-05-03 18:47:00
+25,Twitter,user101,"Malo el soporte de @fitLife, aún espero respuesta",negative,2024-05-25 05:40:00
+26,YouTube,user417,"Malo el soporte de @viajesPro, aún espero respuesta y gracias a @brandX https://t.co/demo",negative,2024-05-02 15:31:00
+27,YouTube,user293,"Muy decepcionado con @saludPlus, cero seriedad #promo https://t.co/demo",negative,2024-04-21 07:25:00
+28,Twitter,user60,"Malo el soporte de @brandY, aún espero respuesta",negative,2024-04-15 05:22:00
+29,Twitter,user59,Comparando precios con @brandZ y gracias a @canalZ #promo,neutral,2024-04-09 19:26:00
+30,Twitter,user253,"No funciona lo que vende @cineFan, una estafa",negative,2024-06-09 06:58:00
+31,Instagram,user322,"Qué gran atención de @creatorLuis, todo rápido y claro #promo",positive,2024-05-08 02:28:00
+32,YouTube,user10,"Malo el soporte de @devTips, aún espero respuesta y gracias a @soporteX https://t.co/demo",negative,2024-04-12 11:54:00
+33,Instagram,user71,"Buenísimo el video de @creatorMia, 10/10",positive,2024-04-02 22:19:00
+34,Twitter,user542,El envío de @fitLife fue lentísimo y llegó mal #promo,negative,2024-05-20 09:01:00
+35,Twitter,user119,El envío de @creatorLuis fue lentísimo y llegó mal y gracias a @equipoY https://t.co/demo,negative,2024-06-07 21:38:00
+36,YouTube,user271,Increíble servicio de @brandY! Me encantó la experiencia https://t.co/demo,positive,2024-06-03 11:23:00
+37,TikTok,user134,"La promo de @musicBeat está genial, ahorré bastante https://t.co/demo",positive,2024-03-28 23:35:00
+38,Twitter,user153,Comparando precios con @devTips y gracias a @creatorLuis #promo https://t.co/demo,neutral,2024-04-14 01:21:00
+39,Instagram,user367,"Malo el soporte de @modaTrends, aún espero respuesta",negative,2024-04-09 21:11:00
+40,Instagram,user159,Probando el filtro de @creatorMia y gracias a @ofertasHoy,neutral,2024-04-19 22:51:00
+41,TikTok,user255,Increíble servicio de @hogarIdeas! Me encantó la experiencia #promo,positive,2024-05-29 06:48:00
+42,TikTok,user472,"Gracias @equipoY por el apoyo, quedé feliz con todo y gracias a @soporteX #promo https://t.co/demo",positive,2024-06-23 02:22:00
+43,TikTok,user286,"No funciona lo que vende @viajesPro, una estafa",negative,2024-05-10 03:56:00
+44,Instagram,user268,"Malo el soporte de @canalZ, aún espero respuesta y gracias a @musicBeat #promo",negative,2024-04-03 14:53:00
+45,Twitter,user524,"Gracias @devTips por el apoyo, quedé feliz con todo y gracias a @saludPlus #promo",positive,2024-04-24 18:22:00
+46,TikTok,user202,"Recomiendo a @modaTrends, contenido de calidad y muy útil https://t.co/demo",positive,2024-07-03 10:15:00
+47,TikTok,user520,"Ojo con @reviewGuru, publicidad engañosa https://t.co/demo",negative,2024-04-29 22:41:00
+48,Instagram,user389,"Ojo con @noticiasTech, publicidad engañosa #promo https://t.co/demo",negative,2024-04-15 14:40:00
+49,TikTok,user594,"No funciona lo que vende @musicBeat, una estafa y gracias a @foodLover",negative,2024-04-17 05:47:00
+50,TikTok,user87,"Muy decepcionado con @cienciaHoy, cero seriedad y gracias a @equipoY https://t.co/demo",negative,2024-05-09 06:47:00
+51,Twitter,user151,"La promo de @gamerMax está genial, ahorré bastante #promo",positive,2024-03-29 21:29:00
+52,Instagram,user590,"Ojo con @viajesPro, publicidad engañosa #promo",negative,2024-04-08 03:38:00
+53,Instagram,user436,"La promo de @hogarIdeas está genial, ahorré bastante",positive,2024-06-02 04:08:00
+54,Instagram,user468,Comparando precios con @modaTrends,neutral,2024-05-08 15:06:00
+55,YouTube,user517,Probando el filtro de @fitLife,neutral,2024-04-29 08:50:00
+56,TikTok,user254,Probando el filtro de @foodLover #promo https://t.co/demo,neutral,2024-06-05 09:45:00
+57,TikTok,user241,Increíble servicio de @fitLife! Me encantó la experiencia y gracias a @equipoY #promo https://t.co/demo,positive,2024-04-01 07:18:00
+58,YouTube,user66,"Buenísimo el video de @fitLife, 10/10 #promo",positive,2024-04-14 19:56:00
+59,YouTube,user21,El envío de @ofertasHoy fue lentísimo y llegó mal,negative,2024-05-07 14:18:00
+60,Instagram,user552,"Ojo con @canalZ, publicidad engañosa #promo",negative,2024-05-06 13:48:00
+61,YouTube,user170,Comparando precios con @fotografia y gracias a @viajesPro,neutral,2024-03-11 02:51:00
+62,Instagram,user439,Nuevo post de @creatorMia sobre tendencias y gracias a @ofertasHoy #promo https://t.co/demo,neutral,2024-04-11 12:56:00
+63,YouTube,user285,"Buenísimo el video de @brandZ, 10/10 y gracias a @devTips #promo",positive,2024-04-20 07:39:00
+64,Twitter,user71,Viendo el directo de @equipoY ahora https://t.co/demo,neutral,2024-05-11 16:09:00
+65,Instagram,user118,El envío de @canalZ fue lentísimo y llegó mal y gracias a @cienciaHoy,negative,2024-05-05 05:35:00
+66,Twitter,user319,"Muy decepcionado con @noticiasTech, cero seriedad https://t.co/demo",negative,2024-04-23 06:46:00
+67,Instagram,user78,"Qué gran atención de @noticiasTech, todo rápido y claro #promo",positive,2024-02-28 01:24:00
+68,YouTube,user356,"Muy decepcionado con @brandZ, cero seriedad #promo",negative,2024-04-25 16:43:00
+69,YouTube,user109,Probando el filtro de @cienciaHoy #promo,neutral,2024-04-28 22:12:00
+70,YouTube,user277,"Muy decepcionado con @saludPlus, cero seriedad y gracias a @equipoY https://t.co/demo",negative,2024-08-22 15:23:00
+71,YouTube,user250,"Ojo con @modaTrends, publicidad engañosa y gracias a @gamerMax https://t.co/demo",negative,2024-04-18 07:14:00
+72,TikTok,user364,"Qué gran atención de @fotografia, todo rápido y claro",positive,2024-05-07 06:31:00
+73,Instagram,user88,"Muy decepcionado con @gamerMax, cero seriedad",negative,2024-06-13 16:45:00
+74,Twitter,user459,"Buenísimo el video de @equipoY, 10/10 #promo",positive,2024-05-26 16:09:00
+75,TikTok,user567,"La promo de @saludPlus está genial, ahorré bastante y gracias a @hogarIdeas #promo https://t.co/demo",positive,2024-06-25 07:52:00
+76,Instagram,user124,"La promo de @saludPlus está genial, ahorré bastante https://t.co/demo",positive,2024-03-12 16:31:00
+77,TikTok,user284,Actualización de @soporteX disponible y gracias a @creatorMia #promo,neutral,2024-03-23 04:19:00
+78,Twitter,user281,Actualización de @fitLife disponible #promo,neutral,2024-04-06 16:45:00
+79,Twitter,user106,"Ojo con @gamerMax, publicidad engañosa #promo https://t.co/demo",negative,2024-03-08 16:18:00
+80,Twitter,user117,"La promo de @brandZ está genial, ahorré bastante #promo https://t.co/demo",positive,2024-04-28 19:12:00
+81,Twitter,user312,Comparando precios con @creatorAna,neutral,2024-03-25 07:42:00
+82,YouTube,user536,El envío de @musicBeat fue lentísimo y llegó mal https://t.co/demo,negative,2024-07-02 21:11:00
+83,Twitter,user62,Leyendo comentarios de @soporteX y gracias a @hogarIdeas #promo https://t.co/demo,neutral,2024-03-30 18:50:00
+84,Instagram,user77,"Qué gran atención de @musicBeat, todo rápido y claro #promo https://t.co/demo",positive,2024-04-14 09:39:00
+85,Twitter,user465,"No funciona lo que vende @canalZ, una estafa https://t.co/demo",negative,2024-05-29 03:55:00
+86,Instagram,user558,"Pésima experiencia con @canalZ, no lo recomiendo y gracias a @creatorMia",negative,2024-03-16 19:25:00
+87,YouTube,user296,"Recomiendo a @hogarIdeas, contenido de calidad y muy útil",positive,2024-03-06 16:51:00
+88,Twitter,user449,"No funciona lo que vende @cineFan, una estafa y gracias a @canalZ #promo https://t.co/demo",negative,2024-05-03 23:00:00
+89,Twitter,user590,Actualización de @modaTrends disponible https://t.co/demo,neutral,2024-05-05 17:42:00
+90,TikTok,user453,"Buenísimo el video de @devTips, 10/10 #promo https://t.co/demo",positive,2024-05-27 11:52:00
+91,TikTok,user419,"Gracias @creatorAna por el apoyo, quedé feliz con todo y gracias a @saludPlus #promo",positive,2024-05-16 13:40:00
+92,Twitter,user564,El envío de @reviewGuru fue lentísimo y llegó mal y gracias a @cineFan,negative,2024-05-07 00:02:00
+93,YouTube,user556,"La promo de @soporteX está genial, ahorré bastante",positive,2024-04-02 01:45:00
+94,TikTok,user209,"Ojo con @noticiasTech, publicidad engañosa #promo https://t.co/demo",negative,2024-05-04 21:30:00
+95,Instagram,user246,"La promo de @brandX está genial, ahorré bastante #promo",positive,2024-05-07 03:52:00
+96,Twitter,user473,"Ojo con @creatorLuis, publicidad engañosa #promo",negative,2024-04-01 14:10:00
+97,YouTube,user495,"Gracias @fitLife por el apoyo, quedé feliz con todo",positive,2024-07-19 04:39:00
+98,TikTok,user72,Actualización de @cineFan disponible,neutral,2024-05-14 09:39:00
+99,YouTube,user306,Comparando precios con @musicBeat #promo,neutral,2024-03-24 12:52:00
+100,TikTok,user467,Viendo el directo de @hogarIdeas ahora #promo,neutral,2024-05-27 01:29:00
+101,YouTube,user326,"Ojo con @viajesPro, publicidad engañosa",negative,2024-06-04 05:11:00
+102,Twitter,user508,"Recomiendo a @devTips, contenido de calidad y muy útil",positive,2024-05-12 17:57:00
+103,Twitter,user468,"No funciona lo que vende @cineFan, una estafa #promo",negative,2024-04-17 09:02:00
+104,YouTube,user347,"No funciona lo que vende @reviewGuru, una estafa #promo https://t.co/demo",negative,2024-03-31 16:39:00
+105,Twitter,user555,"No funciona lo que vende @equipoY, una estafa #promo https://t.co/demo",negative,2024-04-23 03:05:00
+106,Twitter,user445,Nuevo post de @hogarIdeas sobre tendencias,neutral,2024-05-09 01:34:00
+107,Twitter,user333,"Buenísimo el video de @ofertasHoy, 10/10 y gracias a @fitLife #promo",positive,2024-04-26 06:08:00
+108,Instagram,user175,"La promo de @viajesPro está genial, ahorré bastante #promo",positive,2024-06-28 07:55:00
+109,TikTok,user473,"Malo el soporte de @modaTrends, aún espero respuesta #promo https://t.co/demo",negative,2024-05-20 18:39:00
+110,Twitter,user162,"La promo de @ofertasHoy está genial, ahorré bastante y gracias a @musicBeat",positive,2024-03-27 10:18:00
+111,YouTube,user204,Viendo el directo de @creatorAna ahora #promo https://t.co/demo,neutral,2024-03-21 23:52:00
+112,Twitter,user303,Probando el filtro de @modaTrends y gracias a @devTips,neutral,2024-05-14 01:40:00
+113,TikTok,user509,Comparando precios con @equipoY #promo https://t.co/demo,neutral,2024-04-17 08:33:00
+114,Twitter,user141,Nuevo post de @cienciaHoy sobre tendencias y gracias a @musicBeat #promo https://t.co/demo,neutral,2024-05-24 04:29:00
+115,TikTok,user93,"Gracias @cineFan por el apoyo, quedé feliz con todo y gracias a @devTips https://t.co/demo",positive,2024-05-14 17:07:00
+116,Instagram,user280,"Recomiendo a @gamerMax, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-04-23 02:34:00
+117,Instagram,user145,Leyendo comentarios de @saludPlus,neutral,2024-03-28 12:29:00
+118,YouTube,user93,Increíble servicio de @fitLife! Me encantó la experiencia,positive,2024-03-09 19:57:00
+119,TikTok,user391,"Buenísimo el video de @equipoY, 10/10 y gracias a @devTips #promo",positive,2024-05-04 22:06:00
+120,YouTube,user65,Leyendo comentarios de @noticiasTech #promo,neutral,2024-03-16 10:23:00
+121,Twitter,user505,"Gracias @fitLife por el apoyo, quedé feliz con todo #promo",positive,2024-03-27 23:46:00
+122,YouTube,user554,"Pésima experiencia con @saludPlus, no lo recomiendo",negative,2024-05-01 21:00:00
+123,TikTok,user418,"Gracias @ofertasHoy por el apoyo, quedé feliz con todo",positive,2024-04-28 03:23:00
+124,TikTok,user377,"Gracias @canalZ por el apoyo, quedé feliz con todo",positive,2024-03-19 03:07:00
+125,Twitter,user218,"Gracias @reviewGuru por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-06-10 18:55:00
+126,Instagram,user213,Actualización de @equipoY disponible,neutral,2024-06-08 09:27:00
+127,Instagram,user149,"Malo el soporte de @creatorMia, aún espero respuesta #promo https://t.co/demo",negative,2024-05-16 08:07:00
+128,Twitter,user332,"Gracias @brandY por el apoyo, quedé feliz con todo",positive,2024-05-16 16:15:00
+129,TikTok,user460,"Ojo con @creatorAna, publicidad engañosa https://t.co/demo",negative,2024-05-16 22:29:00
+130,TikTok,user534,"Malo el soporte de @brandX, aún espero respuesta",negative,2024-11-23 03:41:00
+131,YouTube,user503,"Recomiendo a @brandZ, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-06-04 21:36:00
+132,TikTok,user600,"La promo de @fotografia está genial, ahorré bastante y gracias a @foodLover https://t.co/demo",positive,2024-05-22 23:57:00
+133,Instagram,user118,"Buenísimo el video de @equipoY, 10/10 y gracias a @gamerMax #promo",positive,2024-03-30 10:40:00
+134,TikTok,user438,"Pésima experiencia con @ofertasHoy, no lo recomiendo #promo https://t.co/demo",negative,2024-04-17 02:54:00
+135,YouTube,user96,"Recomiendo a @saludPlus, contenido de calidad y muy útil",positive,2024-08-13 19:10:00
+136,TikTok,user576,El envío de @cineFan fue lentísimo y llegó mal,negative,2024-02-29 01:45:00
+137,TikTok,user295,"La promo de @devTips está genial, ahorré bastante y gracias a @hogarIdeas #promo",positive,2024-04-09 11:57:00
+138,TikTok,user570,"La promo de @canalZ está genial, ahorré bastante y gracias a @musicBeat",positive,2024-06-10 21:13:00
+139,Twitter,user571,"No funciona lo que vende @modaTrends, una estafa y gracias a @creatorMia #promo",negative,2024-04-01 11:35:00
+140,Twitter,user360,"La promo de @creatorLuis está genial, ahorré bastante #promo",positive,2024-05-23 01:02:00
+141,Instagram,user94,"Recomiendo a @musicBeat, contenido de calidad y muy útil y gracias a @noticiasTech",positive,2024-04-27 19:22:00
+142,Twitter,user87,Increíble servicio de @fotografia! Me encantó la experiencia #promo,positive,2024-04-03 16:34:00
+143,YouTube,user453,Increíble servicio de @foodLover! Me encantó la experiencia y gracias a @creatorAna #promo,positive,2024-02-25 16:36:00
+144,TikTok,user540,"La promo de @viajesPro está genial, ahorré bastante y gracias a @soporteX #promo https://t.co/demo",positive,2024-05-03 04:41:00
+145,TikTok,user262,"Buenísimo el video de @brandX, 10/10 #promo https://t.co/demo",positive,2024-03-29 07:51:00
+146,TikTok,user513,Increíble servicio de @saludPlus! Me encantó la experiencia #promo https://t.co/demo,positive,2024-04-21 10:41:00
+147,YouTube,user590,"No funciona lo que vende @hogarIdeas, una estafa #promo https://t.co/demo",negative,2024-05-15 11:05:00
+148,YouTube,user176,Nuevo post de @ofertasHoy sobre tendencias #promo,neutral,2024-05-31 13:40:00
+149,Twitter,user537,"Qué gran atención de @noticiasTech, todo rápido y claro y gracias a @ofertasHoy https://t.co/demo",positive,2024-04-09 21:36:00
+150,Instagram,user117,Actualización de @ofertasHoy disponible,neutral,2024-04-03 08:03:00
+151,Instagram,user106,"La promo de @creatorMia está genial, ahorré bastante y gracias a @modaTrends #promo",positive,2024-03-16 21:26:00
+152,YouTube,user506,Probando el filtro de @devTips,neutral,2024-06-02 21:19:00
+153,TikTok,user331,"Buenísimo el video de @brandZ, 10/10 #promo https://t.co/demo",positive,2024-08-02 01:55:00
+154,Twitter,user361,Increíble servicio de @musicBeat! Me encantó la experiencia y gracias a @noticiasTech #promo,positive,2024-06-07 03:04:00
+155,YouTube,user520,"No funciona lo que vende @fitLife, una estafa #promo",negative,2024-06-18 22:14:00
+156,TikTok,user193,"Pésima experiencia con @foodLover, no lo recomiendo #promo",negative,2024-04-01 11:43:00
+157,Instagram,user87,"Buenísimo el video de @hogarIdeas, 10/10",positive,2024-05-13 12:25:00
+158,TikTok,user382,"Qué gran atención de @reviewGuru, todo rápido y claro",positive,2024-05-27 02:14:00
+159,Twitter,user338,El envío de @viajesPro fue lentísimo y llegó mal y gracias a @hogarIdeas,negative,2024-02-02 05:07:00
+160,Twitter,user342,El envío de @creatorLuis fue lentísimo y llegó mal y gracias a @modaTrends https://t.co/demo,negative,2024-03-22 20:18:00
+161,TikTok,user87,El envío de @cienciaHoy fue lentísimo y llegó mal,negative,2024-07-07 23:23:00
+162,Twitter,user540,"Muy decepcionado con @cineFan, cero seriedad #promo https://t.co/demo",negative,2024-03-11 07:18:00
+163,YouTube,user350,"Gracias @creatorLuis por el apoyo, quedé feliz con todo y gracias a @creatorAna",positive,2024-06-27 17:58:00
+164,TikTok,user39,Viendo el directo de @fotografia ahora #promo https://t.co/demo,neutral,2024-03-11 23:38:00
+165,YouTube,user170,"Qué gran atención de @ofertasHoy, todo rápido y claro",positive,2024-03-24 15:19:00
+166,Instagram,user240,"Gracias @gamerMax por el apoyo, quedé feliz con todo",positive,2024-05-14 15:45:00
+167,YouTube,user289,"Pésima experiencia con @cineFan, no lo recomiendo https://t.co/demo",negative,2024-04-28 08:32:00
+168,YouTube,user54,Nuevo post de @fitLife sobre tendencias https://t.co/demo,neutral,2024-04-12 02:51:00
+169,TikTok,user165,"Gracias @foodLover por el apoyo, quedé feliz con todo #promo",positive,2024-07-04 15:23:00
+170,Twitter,user358,"La promo de @viajesPro está genial, ahorré bastante #promo https://t.co/demo",positive,2024-03-16 07:39:00
+171,TikTok,user29,Leyendo comentarios de @hogarIdeas y gracias a @creatorLuis #promo https://t.co/demo,neutral,2024-04-20 16:07:00
+172,YouTube,user143,Increíble servicio de @brandX! Me encantó la experiencia y gracias a @equipoY,positive,2024-05-19 20:46:00
+173,YouTube,user541,"Gracias @noticiasTech por el apoyo, quedé feliz con todo y gracias a @brandY #promo",positive,2024-05-06 21:15:00
+174,Twitter,user469,"La promo de @gamerMax está genial, ahorré bastante",positive,2024-04-04 04:54:00
+175,YouTube,user299,"Gracias @ofertasHoy por el apoyo, quedé feliz con todo #promo",positive,2024-04-05 17:52:00
+176,Twitter,user370,Comparando precios con @fitLife https://t.co/demo,neutral,2024-05-30 16:02:00
+177,YouTube,user45,Leyendo comentarios de @canalZ y gracias a @brandZ #promo,neutral,2024-06-01 21:26:00
+178,TikTok,user107,"La promo de @ofertasHoy está genial, ahorré bastante y gracias a @modaTrends #promo",positive,2024-05-07 15:51:00
+179,Instagram,user491,Leyendo comentarios de @brandZ #promo https://t.co/demo,neutral,2024-03-28 01:29:00
+180,Twitter,user205,"La promo de @noticiasTech está genial, ahorré bastante",positive,2024-04-06 01:14:00
+181,TikTok,user196,"Qué gran atención de @brandY, todo rápido y claro y gracias a @creatorLuis",positive,2024-04-25 13:39:00
+182,YouTube,user451,"Buenísimo el video de @creatorMia, 10/10 #promo",positive,2024-04-30 09:06:00
+183,YouTube,user85,"Gracias @fotografia por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-05-17 22:33:00
+184,TikTok,user303,"Buenísimo el video de @hogarIdeas, 10/10 y gracias a @musicBeat #promo https://t.co/demo",positive,2024-04-18 12:02:00
+185,TikTok,user446,"Malo el soporte de @brandY, aún espero respuesta #promo",negative,2024-05-29 23:11:00
+186,Twitter,user164,"Qué gran atención de @fotografia, todo rápido y claro #promo https://t.co/demo",positive,2024-05-29 22:01:00
+187,TikTok,user376,Increíble servicio de @devTips! Me encantó la experiencia,positive,2024-06-20 12:41:00
+188,Twitter,user455,El envío de @foodLover fue lentísimo y llegó mal https://t.co/demo,negative,2024-04-26 03:52:00
+189,Instagram,user27,"Muy decepcionado con @viajesPro, cero seriedad y gracias a @canalZ https://t.co/demo",negative,2024-05-08 20:53:00
+190,YouTube,user293,Increíble servicio de @creatorLuis! Me encantó la experiencia,positive,2024-04-21 02:59:00
+191,TikTok,user328,"Muy decepcionado con @fitLife, cero seriedad y gracias a @noticiasTech",negative,2024-03-29 23:54:00
+192,TikTok,user179,"Pésima experiencia con @creatorAna, no lo recomiendo #promo",negative,2024-07-31 12:19:00
+193,TikTok,user568,"Pésima experiencia con @fitLife, no lo recomiendo #promo https://t.co/demo",negative,2024-06-13 16:20:00
+194,YouTube,user539,Nuevo post de @devTips sobre tendencias y gracias a @reviewGuru,neutral,2024-05-28 23:12:00
+195,TikTok,user530,"Qué gran atención de @fitLife, todo rápido y claro https://t.co/demo",positive,2024-04-25 17:09:00
+196,Twitter,user57,"Pésima experiencia con @noticiasTech, no lo recomiendo y gracias a @saludPlus #promo",negative,2024-03-26 17:42:00
+197,Twitter,user291,"La promo de @cienciaHoy está genial, ahorré bastante y gracias a @modaTrends #promo",positive,2024-06-05 17:09:00
+198,Instagram,user173,"Qué gran atención de @fotografia, todo rápido y claro #promo",positive,2024-04-20 01:24:00
+199,Twitter,user30,"La promo de @cienciaHoy está genial, ahorré bastante y gracias a @soporteX",positive,2024-05-12 21:48:00
+200,YouTube,user32,Actualización de @fitLife disponible #promo https://t.co/demo,neutral,2024-04-06 23:22:00
+201,TikTok,user416,"Malo el soporte de @hogarIdeas, aún espero respuesta y gracias a @cineFan #promo https://t.co/demo",negative,2024-05-05 20:42:00
+202,TikTok,user148,Leyendo comentarios de @reviewGuru #promo https://t.co/demo,neutral,2024-04-08 12:38:00
+203,Twitter,user528,Increíble servicio de @musicBeat! Me encantó la experiencia y gracias a @equipoY #promo https://t.co/demo,positive,2024-04-09 13:06:00
+204,Instagram,user429,Actualización de @creatorMia disponible https://t.co/demo,neutral,2024-05-04 05:26:00
+205,YouTube,user511,"Ojo con @noticiasTech, publicidad engañosa y gracias a @cineFan",negative,2024-03-10 07:20:00
+206,TikTok,user598,"Buenísimo el video de @noticiasTech, 10/10",positive,2024-03-12 09:45:00
+207,Twitter,user550,Viendo el directo de @cineFan ahora,neutral,2024-04-01 12:29:00
+208,YouTube,user47,"Gracias @fitLife por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-04-18 15:22:00
+209,TikTok,user564,Leyendo comentarios de @fotografia #promo https://t.co/demo,neutral,2024-05-31 12:44:00
+210,TikTok,user348,Comparando precios con @soporteX https://t.co/demo,neutral,2024-04-20 04:40:00
+211,YouTube,user342,"Muy decepcionado con @creatorLuis, cero seriedad #promo",negative,2024-04-25 10:52:00
+212,YouTube,user167,Actualización de @saludPlus disponible,neutral,2024-04-15 16:43:00
+213,TikTok,user577,El envío de @brandX fue lentísimo y llegó mal y gracias a @creatorLuis,negative,2024-05-08 23:29:00
+214,YouTube,user28,"La promo de @cienciaHoy está genial, ahorré bastante",positive,2024-03-28 05:49:00
+215,YouTube,user537,"Gracias @modaTrends por el apoyo, quedé feliz con todo y gracias a @saludPlus #promo https://t.co/demo",positive,2024-04-21 10:42:00
+216,Instagram,user429,"Buenísimo el video de @soporteX, 10/10",positive,2024-05-11 02:07:00
+217,Instagram,user142,"Ojo con @modaTrends, publicidad engañosa #promo https://t.co/demo",negative,2024-05-04 18:11:00
+218,TikTok,user351,"No funciona lo que vende @saludPlus, una estafa",negative,2024-04-26 06:33:00
+219,TikTok,user253,El envío de @equipoY fue lentísimo y llegó mal,negative,2024-04-26 16:41:00
+220,YouTube,user325,"Recomiendo a @saludPlus, contenido de calidad y muy útil y gracias a @devTips https://t.co/demo",positive,2024-05-15 13:28:00
+221,Instagram,user354,"Qué gran atención de @noticiasTech, todo rápido y claro y gracias a @gamerMax",positive,2024-08-04 07:18:00
+222,TikTok,user207,Actualización de @hogarIdeas disponible y gracias a @fotografia https://t.co/demo,neutral,2024-03-30 01:43:00
+223,Instagram,user544,"Malo el soporte de @brandY, aún espero respuesta https://t.co/demo",negative,2024-08-06 04:41:00
+224,Instagram,user6,"Buenísimo el video de @gamerMax, 10/10 https://t.co/demo",positive,2024-03-29 09:44:00
+225,Twitter,user61,"Muy decepcionado con @equipoY, cero seriedad https://t.co/demo",negative,2024-02-23 05:58:00
+226,Instagram,user428,Probando el filtro de @brandY #promo,neutral,2024-04-07 09:52:00
+227,Twitter,user39,Increíble servicio de @fotografia! Me encantó la experiencia #promo,positive,2024-05-09 21:53:00
+228,YouTube,user557,Comparando precios con @creatorLuis #promo https://t.co/demo,neutral,2024-07-20 05:32:00
+229,TikTok,user470,"No funciona lo que vende @brandX, una estafa y gracias a @reviewGuru",negative,2024-03-26 05:59:00
+230,YouTube,user416,"Ojo con @brandZ, publicidad engañosa #promo https://t.co/demo",negative,2024-05-15 11:02:00
+231,Twitter,user255,"Buenísimo el video de @equipoY, 10/10 https://t.co/demo",positive,2024-03-14 19:33:00
+232,TikTok,user12,"Pésima experiencia con @hogarIdeas, no lo recomiendo y gracias a @creatorAna #promo https://t.co/demo",negative,2024-07-17 23:25:00
+233,TikTok,user515,El envío de @cienciaHoy fue lentísimo y llegó mal #promo,negative,2024-06-14 16:19:00
+234,YouTube,user157,El envío de @fotografia fue lentísimo y llegó mal,negative,2024-04-09 18:20:00
+235,Instagram,user224,"Malo el soporte de @fotografia, aún espero respuesta https://t.co/demo",negative,2024-03-04 19:15:00
+236,Twitter,user115,Viendo el directo de @foodLover ahora #promo https://t.co/demo,neutral,2024-06-23 17:45:00
+237,Twitter,user453,"Muy decepcionado con @hogarIdeas, cero seriedad",negative,2024-04-21 01:53:00
+238,Instagram,user465,"Muy decepcionado con @musicBeat, cero seriedad y gracias a @gamerMax https://t.co/demo",negative,2024-06-17 00:44:00
+239,TikTok,user406,Viendo el directo de @saludPlus ahora #promo https://t.co/demo,neutral,2024-04-26 02:10:00
+240,Twitter,user555,Probando el filtro de @brandZ y gracias a @musicBeat #promo https://t.co/demo,neutral,2024-04-27 21:53:00
+241,TikTok,user431,Probando el filtro de @viajesPro https://t.co/demo,neutral,2024-04-10 23:18:00
+242,Instagram,user553,"Malo el soporte de @ofertasHoy, aún espero respuesta y gracias a @devTips #promo https://t.co/demo",negative,2024-05-20 07:36:00
+243,Twitter,user4,Leyendo comentarios de @musicBeat #promo https://t.co/demo,neutral,2024-04-30 07:50:00
+244,YouTube,user254,"Gracias @canalZ por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-05-16 22:32:00
+245,Twitter,user430,Increíble servicio de @brandZ! Me encantó la experiencia #promo,positive,2024-03-08 01:39:00
+246,Twitter,user251,"La promo de @equipoY está genial, ahorré bastante y gracias a @brandY #promo",positive,2024-06-19 07:59:00
+247,TikTok,user590,El envío de @modaTrends fue lentísimo y llegó mal y gracias a @creatorLuis,negative,2024-07-03 14:06:00
+248,TikTok,user308,"Qué gran atención de @devTips, todo rápido y claro",positive,2024-04-30 16:55:00
+249,TikTok,user49,Probando el filtro de @modaTrends #promo,neutral,2024-07-30 05:05:00
+250,YouTube,user308,"Buenísimo el video de @fitLife, 10/10 y gracias a @equipoY #promo",positive,2024-07-13 15:48:00
+251,YouTube,user60,Comparando precios con @fitLife y gracias a @equipoY #promo https://t.co/demo,neutral,2024-05-21 02:41:00
+252,TikTok,user461,"Gracias @saludPlus por el apoyo, quedé feliz con todo y gracias a @viajesPro",positive,2024-06-23 02:29:00
+253,Instagram,user193,El envío de @reviewGuru fue lentísimo y llegó mal #promo,negative,2024-06-09 04:00:00
+254,Instagram,user491,"Pésima experiencia con @hogarIdeas, no lo recomiendo #promo https://t.co/demo",negative,2024-03-02 09:39:00
+255,YouTube,user390,El envío de @ofertasHoy fue lentísimo y llegó mal y gracias a @fitLife,negative,2024-04-16 16:01:00
+256,Instagram,user328,Increíble servicio de @cineFan! Me encantó la experiencia #promo https://t.co/demo,positive,2024-05-24 08:54:00
+257,YouTube,user567,"Recomiendo a @soporteX, contenido de calidad y muy útil y gracias a @fotografia",positive,2024-07-06 22:20:00
+258,TikTok,user346,Leyendo comentarios de @gamerMax #promo https://t.co/demo,neutral,2024-03-12 12:01:00
+259,Instagram,user174,"Pésima experiencia con @gamerMax, no lo recomiendo",negative,2024-03-04 02:00:00
+260,Twitter,user537,Leyendo comentarios de @brandZ y gracias a @brandX #promo,neutral,2024-04-23 07:53:00
+261,Instagram,user70,"Buenísimo el video de @foodLover, 10/10",positive,2024-02-24 21:02:00
+262,YouTube,user495,"La promo de @fitLife está genial, ahorré bastante #promo",positive,2024-04-22 18:17:00
+263,Twitter,user294,"No funciona lo que vende @hogarIdeas, una estafa https://t.co/demo",negative,2024-05-10 03:17:00
+264,Instagram,user537,"La promo de @fotografia está genial, ahorré bastante y gracias a @ofertasHoy #promo https://t.co/demo",positive,2024-03-25 12:44:00
+265,YouTube,user416,"Pésima experiencia con @hogarIdeas, no lo recomiendo y gracias a @brandZ",negative,2024-04-23 01:04:00
+266,YouTube,user96,"Buenísimo el video de @fitLife, 10/10 y gracias a @brandX https://t.co/demo",positive,2024-06-04 14:48:00
+267,Twitter,user340,Viendo el directo de @brandY ahora y gracias a @saludPlus,neutral,2024-04-07 01:35:00
+268,TikTok,user77,Leyendo comentarios de @devTips y gracias a @reviewGuru #promo https://t.co/demo,neutral,2024-03-29 04:55:00
+269,Twitter,user408,"Gracias @devTips por el apoyo, quedé feliz con todo",positive,2024-04-22 18:27:00
+270,YouTube,user340,Leyendo comentarios de @creatorLuis,neutral,2024-03-22 01:49:00
+271,YouTube,user101,"Recomiendo a @brandZ, contenido de calidad y muy útil",positive,2024-07-24 11:08:00
+272,TikTok,user31,Probando el filtro de @musicBeat y gracias a @devTips,neutral,2024-04-27 23:12:00
+273,YouTube,user600,"Recomiendo a @fotografia, contenido de calidad y muy útil https://t.co/demo",positive,2024-04-01 05:15:00
+274,Instagram,user390,El envío de @reviewGuru fue lentísimo y llegó mal y gracias a @brandX,negative,2024-05-04 09:12:00
+275,Instagram,user105,"Buenísimo el video de @cineFan, 10/10 https://t.co/demo",positive,2024-04-21 03:03:00
+276,Twitter,user363,"Ojo con @reviewGuru, publicidad engañosa y gracias a @musicBeat #promo https://t.co/demo",negative,2024-04-17 19:05:00
+277,Instagram,user249,"Pésima experiencia con @creatorMia, no lo recomiendo y gracias a @noticiasTech #promo https://t.co/demo",negative,2024-04-07 14:50:00
+278,YouTube,user283,"Recomiendo a @brandZ, contenido de calidad y muy útil y gracias a @canalZ",positive,2024-04-05 21:02:00
+279,YouTube,user201,Increíble servicio de @noticiasTech! Me encantó la experiencia #promo,positive,2024-03-09 11:14:00
+280,TikTok,user451,"La promo de @cienciaHoy está genial, ahorré bastante y gracias a @reviewGuru",positive,2024-06-23 16:21:00
+281,Instagram,user322,Actualización de @reviewGuru disponible,neutral,2024-05-18 08:16:00
+282,YouTube,user334,"Recomiendo a @viajesPro, contenido de calidad y muy útil y gracias a @fotografia #promo",positive,2024-05-08 06:08:00
+283,Twitter,user564,Leyendo comentarios de @musicBeat y gracias a @noticiasTech https://t.co/demo,neutral,2024-04-21 13:57:00
+284,Instagram,user512,El envío de @equipoY fue lentísimo y llegó mal,negative,2024-03-24 02:31:00
+285,YouTube,user460,"Muy decepcionado con @fitLife, cero seriedad",negative,2024-03-31 01:15:00
+286,Twitter,user369,"Qué gran atención de @equipoY, todo rápido y claro #promo",positive,2024-03-11 19:13:00
+287,TikTok,user410,Nuevo post de @cineFan sobre tendencias y gracias a @canalZ #promo,neutral,2024-04-03 19:02:00
+288,Instagram,user595,"Buenísimo el video de @viajesPro, 10/10",positive,2024-03-21 11:46:00
+289,YouTube,user26,Increíble servicio de @cineFan! Me encantó la experiencia y gracias a @creatorLuis #promo https://t.co/demo,positive,2024-07-10 07:03:00
+290,YouTube,user534,"Buenísimo el video de @creatorAna, 10/10 #promo https://t.co/demo",positive,2024-06-01 01:31:00
+291,Twitter,user118,Nuevo post de @cienciaHoy sobre tendencias #promo,neutral,2024-04-28 08:19:00
+292,Instagram,user529,"Muy decepcionado con @reviewGuru, cero seriedad #promo",negative,2024-03-27 21:29:00
+293,Instagram,user189,"Ojo con @cineFan, publicidad engañosa y gracias a @cienciaHoy",negative,2024-03-22 14:39:00
+294,Twitter,user399,El envío de @soporteX fue lentísimo y llegó mal https://t.co/demo,negative,2024-04-19 03:28:00
+295,Instagram,user550,"Buenísimo el video de @soporteX, 10/10 y gracias a @hogarIdeas",positive,2024-06-03 21:48:00
+296,YouTube,user321,"Malo el soporte de @devTips, aún espero respuesta y gracias a @musicBeat",negative,2024-07-21 10:09:00
+297,Instagram,user87,"Recomiendo a @equipoY, contenido de calidad y muy útil y gracias a @viajesPro",positive,2024-03-12 14:16:00
+298,YouTube,user142,"Qué gran atención de @gamerMax, todo rápido y claro",positive,2024-05-18 05:54:00
+299,Instagram,user569,"Pésima experiencia con @creatorLuis, no lo recomiendo y gracias a @gamerMax",negative,2024-04-03 00:19:00
+300,Instagram,user497,"La promo de @viajesPro está genial, ahorré bastante #promo",positive,2024-04-08 14:11:00
+301,YouTube,user455,Increíble servicio de @devTips! Me encantó la experiencia #promo https://t.co/demo,positive,2024-04-27 07:40:00
+302,TikTok,user551,"La promo de @musicBeat está genial, ahorré bastante",positive,2024-03-28 03:51:00
+303,Twitter,user587,"Recomiendo a @fitLife, contenido de calidad y muy útil",positive,2024-04-17 15:03:00
+304,Instagram,user560,Leyendo comentarios de @creatorAna https://t.co/demo,neutral,2024-03-26 01:06:00
+305,TikTok,user461,"Buenísimo el video de @brandZ, 10/10 #promo",positive,2024-04-05 07:09:00
+306,YouTube,user360,"Gracias @creatorLuis por el apoyo, quedé feliz con todo",positive,2024-05-26 18:10:00
+307,Instagram,user288,"Recomiendo a @hogarIdeas, contenido de calidad y muy útil y gracias a @canalZ",positive,2024-04-29 23:11:00
+308,Instagram,user98,Nuevo post de @cineFan sobre tendencias https://t.co/demo,neutral,2024-05-26 04:31:00
+309,Instagram,user256,"No funciona lo que vende @equipoY, una estafa #promo",negative,2024-04-02 21:25:00
+310,YouTube,user425,"Malo el soporte de @cienciaHoy, aún espero respuesta",negative,2024-05-18 12:35:00
+311,YouTube,user466,"Qué gran atención de @brandX, todo rápido y claro y gracias a @gamerMax",positive,2024-03-06 02:09:00
+312,YouTube,user548,"Gracias @cineFan por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-04-27 18:40:00
+313,Instagram,user592,El envío de @gamerMax fue lentísimo y llegó mal https://t.co/demo,negative,2024-05-21 21:22:00
+314,Twitter,user471,"Buenísimo el video de @creatorMia, 10/10",positive,2024-03-05 23:30:00
+315,TikTok,user136,Increíble servicio de @canalZ! Me encantó la experiencia #promo https://t.co/demo,positive,2024-04-03 22:08:00
+316,Twitter,user170,"Qué gran atención de @noticiasTech, todo rápido y claro #promo",positive,2024-04-27 03:14:00
+317,Instagram,user2,"Muy decepcionado con @creatorLuis, cero seriedad y gracias a @hogarIdeas #promo https://t.co/demo",negative,2024-06-06 11:43:00
+318,YouTube,user124,"Malo el soporte de @gamerMax, aún espero respuesta y gracias a @brandZ https://t.co/demo",negative,2024-04-05 10:41:00
+319,TikTok,user377,"Qué gran atención de @creatorLuis, todo rápido y claro #promo",positive,2024-05-16 00:17:00
+320,YouTube,user169,"Qué gran atención de @soporteX, todo rápido y claro",positive,2024-06-27 15:06:00
+321,Twitter,user223,Nuevo post de @creatorLuis sobre tendencias #promo,neutral,2024-05-18 10:44:00
+322,Instagram,user144,"Gracias @brandZ por el apoyo, quedé feliz con todo",positive,2024-04-18 23:34:00
+323,TikTok,user28,"La promo de @fotografia está genial, ahorré bastante y gracias a @viajesPro #promo https://t.co/demo",positive,2024-05-10 08:10:00
+324,YouTube,user507,"Qué gran atención de @gamerMax, todo rápido y claro",positive,2024-04-04 12:19:00
+325,Instagram,user325,"Buenísimo el video de @devTips, 10/10",positive,2024-04-29 02:29:00
+326,Twitter,user18,Increíble servicio de @soporteX! Me encantó la experiencia https://t.co/demo,positive,2024-04-20 09:46:00
+327,YouTube,user514,Increíble servicio de @viajesPro! Me encantó la experiencia https://t.co/demo,positive,2024-05-09 02:51:00
+328,Twitter,user318,"Pésima experiencia con @soporteX, no lo recomiendo #promo",negative,2024-04-11 22:10:00
+329,TikTok,user68,"Pésima experiencia con @saludPlus, no lo recomiendo y gracias a @brandZ https://t.co/demo",negative,2024-05-11 20:53:00
+330,TikTok,user57,"No funciona lo que vende @modaTrends, una estafa y gracias a @brandX",negative,2024-04-10 05:35:00
+331,TikTok,user509,El envío de @saludPlus fue lentísimo y llegó mal y gracias a @creatorLuis,negative,2024-05-31 04:01:00
+332,TikTok,user31,Comparando precios con @canalZ y gracias a @saludPlus,neutral,2024-04-14 16:56:00
+333,TikTok,user467,"Gracias @devTips por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-02-25 19:35:00
+334,Instagram,user119,"Malo el soporte de @brandX, aún espero respuesta #promo https://t.co/demo",negative,2024-03-23 12:25:00
+335,Instagram,user393,"La promo de @brandY está genial, ahorré bastante",positive,2024-04-26 07:39:00
+336,Instagram,user330,"Recomiendo a @saludPlus, contenido de calidad y muy útil y gracias a @brandZ https://t.co/demo",positive,2024-07-09 22:58:00
+337,Instagram,user54,Increíble servicio de @foodLover! Me encantó la experiencia #promo,positive,2024-05-29 09:38:00
+338,TikTok,user319,Increíble servicio de @musicBeat! Me encantó la experiencia #promo,positive,2024-02-21 21:15:00
+339,YouTube,user249,"Gracias @gamerMax por el apoyo, quedé feliz con todo",positive,2024-03-10 05:08:00
+340,YouTube,user7,"Recomiendo a @fitLife, contenido de calidad y muy útil https://t.co/demo",positive,2024-06-13 11:26:00
+341,YouTube,user2,Actualización de @saludPlus disponible y gracias a @foodLover,neutral,2024-05-21 02:02:00
+342,TikTok,user146,"La promo de @equipoY está genial, ahorré bastante",positive,2024-08-11 02:53:00
+343,Twitter,user595,"Ojo con @cienciaHoy, publicidad engañosa y gracias a @devTips #promo",negative,2024-04-09 04:27:00
+344,TikTok,user243,"Buenísimo el video de @reviewGuru, 10/10 https://t.co/demo",positive,2024-03-28 09:16:00
+345,Twitter,user240,Comparando precios con @creatorLuis y gracias a @creatorAna #promo,neutral,2024-04-28 13:52:00
+346,TikTok,user124,Probando el filtro de @soporteX y gracias a @noticiasTech https://t.co/demo,neutral,2024-04-09 23:25:00
+347,Twitter,user312,"Gracias @reviewGuru por el apoyo, quedé feliz con todo y gracias a @equipoY https://t.co/demo",positive,2024-06-08 01:40:00
+348,TikTok,user307,Nuevo post de @creatorMia sobre tendencias,neutral,2024-04-07 18:46:00
+349,Twitter,user256,"Malo el soporte de @creatorLuis, aún espero respuesta y gracias a @canalZ #promo",negative,2024-04-16 12:42:00
+350,TikTok,user87,Nuevo post de @brandZ sobre tendencias #promo,neutral,2024-03-24 04:23:00
+351,TikTok,user95,Increíble servicio de @musicBeat! Me encantó la experiencia y gracias a @fotografia #promo,positive,2024-05-26 16:56:00
+352,YouTube,user31,El envío de @creatorMia fue lentísimo y llegó mal y gracias a @soporteX #promo,negative,2024-03-25 05:04:00
+353,Instagram,user36,"Ojo con @gamerMax, publicidad engañosa #promo https://t.co/demo",negative,2024-05-12 13:04:00
+354,YouTube,user141,"Gracias @foodLover por el apoyo, quedé feliz con todo",positive,2024-07-20 13:03:00
+355,YouTube,user368,El envío de @gamerMax fue lentísimo y llegó mal https://t.co/demo,negative,2024-03-02 06:08:00
+356,TikTok,user27,El envío de @brandX fue lentísimo y llegó mal y gracias a @foodLover,negative,2024-06-30 07:56:00
+357,Twitter,user164,"Recomiendo a @equipoY, contenido de calidad y muy útil",positive,2024-05-06 07:29:00
+358,YouTube,user590,"Gracias @creatorMia por el apoyo, quedé feliz con todo y gracias a @ofertasHoy",positive,2024-03-19 20:11:00
+359,TikTok,user29,Viendo el directo de @devTips ahora #promo,neutral,2024-04-30 16:48:00
+360,TikTok,user556,Increíble servicio de @brandY! Me encantó la experiencia y gracias a @cienciaHoy #promo,positive,2024-05-25 00:01:00
+361,Instagram,user340,Leyendo comentarios de @reviewGuru y gracias a @ofertasHoy #promo https://t.co/demo,neutral,2024-03-29 04:50:00
+362,TikTok,user114,Leyendo comentarios de @ofertasHoy #promo https://t.co/demo,neutral,2024-05-14 10:18:00
+363,Instagram,user331,Probando el filtro de @saludPlus,neutral,2024-07-05 05:56:00
+364,TikTok,user576,"Gracias @devTips por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-04-07 06:03:00
+365,YouTube,user2,Nuevo post de @devTips sobre tendencias y gracias a @reviewGuru,neutral,2024-03-23 07:32:00
+366,Twitter,user580,Actualización de @creatorLuis disponible #promo,neutral,2024-04-21 05:43:00
+367,TikTok,user91,"Gracias @canalZ por el apoyo, quedé feliz con todo y gracias a @brandZ #promo",positive,2024-04-28 00:02:00
+368,YouTube,user50,"Gracias @cineFan por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-06-10 18:38:00
+369,Twitter,user385,Leyendo comentarios de @devTips #promo,neutral,2024-04-20 01:08:00
+370,Twitter,user302,Increíble servicio de @creatorAna! Me encantó la experiencia y gracias a @cineFan #promo https://t.co/demo,positive,2024-04-10 03:10:00
+371,YouTube,user347,"No funciona lo que vende @cineFan, una estafa y gracias a @musicBeat #promo https://t.co/demo",negative,2024-03-23 07:00:00
+372,YouTube,user195,"No funciona lo que vende @saludPlus, una estafa https://t.co/demo",negative,2024-03-05 03:16:00
+373,YouTube,user51,"Pésima experiencia con @gamerMax, no lo recomiendo y gracias a @brandX #promo https://t.co/demo",negative,2024-03-15 22:35:00
+374,Instagram,user492,"Gracias @soporteX por el apoyo, quedé feliz con todo",positive,2024-03-15 03:56:00
+375,YouTube,user316,El envío de @modaTrends fue lentísimo y llegó mal y gracias a @fitLife #promo https://t.co/demo,negative,2024-04-16 13:01:00
+376,Instagram,user379,"Buenísimo el video de @canalZ, 10/10 #promo https://t.co/demo",positive,2024-03-09 02:06:00
+377,Twitter,user155,"La promo de @ofertasHoy está genial, ahorré bastante https://t.co/demo",positive,2024-02-11 02:04:00
+378,YouTube,user397,Probando el filtro de @modaTrends #promo https://t.co/demo,neutral,2024-04-23 13:28:00
+379,Instagram,user36,"Gracias @musicBeat por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-07-18 06:34:00
+380,Twitter,user130,"Buenísimo el video de @modaTrends, 10/10 y gracias a @cienciaHoy #promo",positive,2024-06-12 10:54:00
+381,Twitter,user69,"La promo de @viajesPro está genial, ahorré bastante y gracias a @canalZ",positive,2024-04-16 00:25:00
+382,YouTube,user536,"Gracias @creatorLuis por el apoyo, quedé feliz con todo",positive,2024-03-20 03:25:00
+383,Twitter,user109,Actualización de @fitLife disponible #promo,neutral,2024-08-28 19:31:00
+384,Twitter,user485,"Gracias @viajesPro por el apoyo, quedé feliz con todo",positive,2024-04-28 13:30:00
+385,Instagram,user340,"Recomiendo a @gamerMax, contenido de calidad y muy útil #promo",positive,2024-05-03 10:20:00
+386,TikTok,user319,Leyendo comentarios de @hogarIdeas y gracias a @equipoY #promo,neutral,2024-04-20 15:07:00
+387,TikTok,user329,"No funciona lo que vende @fotografia, una estafa y gracias a @musicBeat #promo",negative,2024-04-24 16:32:00
+388,TikTok,user529,Viendo el directo de @foodLover ahora y gracias a @saludPlus https://t.co/demo,neutral,2024-04-06 17:53:00
+389,Twitter,user583,Increíble servicio de @soporteX! Me encantó la experiencia y gracias a @gamerMax #promo https://t.co/demo,positive,2024-04-16 06:47:00
+390,TikTok,user281,Probando el filtro de @foodLover #promo https://t.co/demo,neutral,2024-06-30 12:42:00
+391,YouTube,user501,"La promo de @gamerMax está genial, ahorré bastante #promo",positive,2024-06-17 08:49:00
+392,TikTok,user93,"Gracias @brandY por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-02-24 07:33:00
+393,Instagram,user231,"La promo de @cineFan está genial, ahorré bastante y gracias a @hogarIdeas #promo",positive,2024-03-12 22:05:00
+394,Twitter,user178,"Recomiendo a @fotografia, contenido de calidad y muy útil https://t.co/demo",positive,2024-03-30 12:51:00
+395,YouTube,user358,"Recomiendo a @musicBeat, contenido de calidad y muy útil https://t.co/demo",positive,2024-06-03 03:29:00
+396,TikTok,user8,"Muy decepcionado con @fotografia, cero seriedad y gracias a @hogarIdeas #promo https://t.co/demo",negative,2024-06-19 09:26:00
+397,TikTok,user333,"Qué gran atención de @hogarIdeas, todo rápido y claro y gracias a @creatorLuis https://t.co/demo",positive,2024-05-25 01:56:00
+398,TikTok,user414,"Malo el soporte de @saludPlus, aún espero respuesta https://t.co/demo",negative,2024-03-19 14:17:00
+399,YouTube,user415,"No funciona lo que vende @devTips, una estafa https://t.co/demo",negative,2024-04-07 07:35:00
+400,YouTube,user548,Actualización de @modaTrends disponible,neutral,2024-05-15 19:03:00
+401,TikTok,user186,"Qué gran atención de @creatorLuis, todo rápido y claro y gracias a @devTips https://t.co/demo",positive,2024-04-17 23:12:00
+402,Twitter,user344,"Qué gran atención de @equipoY, todo rápido y claro #promo",positive,2024-04-12 12:41:00
+403,TikTok,user267,"Ojo con @creatorAna, publicidad engañosa y gracias a @modaTrends",negative,2024-04-13 02:25:00
+404,Instagram,user484,"Ojo con @modaTrends, publicidad engañosa #promo",negative,2024-06-13 05:08:00
+405,Instagram,user141,"Buenísimo el video de @devTips, 10/10 y gracias a @saludPlus #promo https://t.co/demo",positive,2024-05-19 11:21:00
+406,TikTok,user182,"Ojo con @brandX, publicidad engañosa y gracias a @soporteX https://t.co/demo",negative,2024-04-14 03:00:00
+407,YouTube,user133,"Ojo con @viajesPro, publicidad engañosa #promo https://t.co/demo",negative,2024-05-08 06:48:00
+408,Twitter,user383,Viendo el directo de @foodLover ahora y gracias a @brandX https://t.co/demo,neutral,2024-03-16 23:40:00
+409,TikTok,user353,"La promo de @viajesPro está genial, ahorré bastante #promo",positive,2024-04-07 10:10:00
+410,YouTube,user298,"Muy decepcionado con @fotografia, cero seriedad y gracias a @hogarIdeas https://t.co/demo",negative,2024-06-08 16:43:00
+411,Instagram,user368,Increíble servicio de @viajesPro! Me encantó la experiencia y gracias a @creatorLuis #promo https://t.co/demo,positive,2024-03-08 17:13:00
+412,Twitter,user174,Increíble servicio de @cienciaHoy! Me encantó la experiencia,positive,2024-05-20 21:16:00
+413,Twitter,user50,"Malo el soporte de @cienciaHoy, aún espero respuesta y gracias a @creatorAna #promo https://t.co/demo",negative,2024-02-24 18:40:00
+414,YouTube,user259,"No funciona lo que vende @soporteX, una estafa #promo",negative,2024-07-10 03:26:00
+415,TikTok,user533,"Pésima experiencia con @hogarIdeas, no lo recomiendo",negative,2024-04-06 21:05:00
+416,TikTok,user121,"Buenísimo el video de @creatorAna, 10/10 y gracias a @equipoY",positive,2024-05-11 06:53:00
+417,YouTube,user367,"La promo de @brandY está genial, ahorré bastante #promo",positive,2024-04-30 11:17:00
+418,Twitter,user241,Increíble servicio de @brandZ! Me encantó la experiencia https://t.co/demo,positive,2024-05-01 03:04:00
+419,Twitter,user524,El envío de @creatorAna fue lentísimo y llegó mal #promo,negative,2024-05-07 09:00:00
+420,Twitter,user476,Increíble servicio de @creatorMia! Me encantó la experiencia #promo,positive,2024-03-04 14:32:00
+421,Twitter,user119,Nuevo post de @brandY sobre tendencias https://t.co/demo,neutral,2024-05-02 12:12:00
+422,TikTok,user449,Actualización de @brandZ disponible #promo,neutral,2024-04-19 15:34:00
+423,YouTube,user279,"Ojo con @gamerMax, publicidad engañosa https://t.co/demo",negative,2024-04-07 23:45:00
+424,Instagram,user61,"Buenísimo el video de @devTips, 10/10 https://t.co/demo",positive,2024-03-30 12:57:00
+425,Twitter,user368,Viendo el directo de @saludPlus ahora #promo,neutral,2024-05-03 15:02:00
+426,Twitter,user48,Increíble servicio de @reviewGuru! Me encantó la experiencia,positive,2024-03-24 19:40:00
+427,Instagram,user579,Actualización de @modaTrends disponible,neutral,2024-06-07 14:46:00
+428,YouTube,user255,"Qué gran atención de @modaTrends, todo rápido y claro",positive,2024-05-14 20:55:00
+429,Twitter,user56,"Muy decepcionado con @creatorMia, cero seriedad",negative,2024-05-05 02:33:00
+430,TikTok,user504,Increíble servicio de @canalZ! Me encantó la experiencia https://t.co/demo,positive,2024-06-05 08:01:00
+431,YouTube,user81,"Buenísimo el video de @devTips, 10/10 y gracias a @gamerMax #promo https://t.co/demo",positive,2024-02-29 16:58:00
+432,Twitter,user19,"La promo de @brandY está genial, ahorré bastante",positive,2024-03-15 21:07:00
+433,Instagram,user312,El envío de @musicBeat fue lentísimo y llegó mal #promo https://t.co/demo,negative,2024-05-16 15:30:00
+434,YouTube,user340,"No funciona lo que vende @ofertasHoy, una estafa #promo",negative,2024-03-31 00:04:00
+435,TikTok,user350,Comparando precios con @noticiasTech https://t.co/demo,neutral,2024-04-04 05:36:00
+436,Instagram,user505,Leyendo comentarios de @saludPlus #promo https://t.co/demo,neutral,2024-03-12 04:07:00
+437,Instagram,user403,"No funciona lo que vende @soporteX, una estafa y gracias a @musicBeat #promo",negative,2024-03-24 22:56:00
+438,YouTube,user127,"Muy decepcionado con @devTips, cero seriedad y gracias a @gamerMax #promo",negative,2024-06-08 18:53:00
+439,YouTube,user444,Leyendo comentarios de @creatorMia https://t.co/demo,neutral,2024-05-15 13:13:00
+440,YouTube,user330,"Qué gran atención de @fotografia, todo rápido y claro #promo",positive,2024-05-03 10:02:00
+441,Instagram,user464,"Qué gran atención de @fotografia, todo rápido y claro",positive,2024-04-05 18:41:00
+442,Instagram,user322,"Qué gran atención de @fotografia, todo rápido y claro y gracias a @ofertasHoy https://t.co/demo",positive,2024-04-30 22:11:00
+443,TikTok,user183,"Muy decepcionado con @ofertasHoy, cero seriedad",negative,2024-06-13 14:14:00
+444,TikTok,user547,Nuevo post de @cineFan sobre tendencias #promo https://t.co/demo,neutral,2024-04-01 22:52:00
+445,Instagram,user58,"Recomiendo a @creatorMia, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-04-24 10:04:00
+446,Twitter,user209,Increíble servicio de @musicBeat! Me encantó la experiencia,positive,2024-07-14 07:39:00
+447,YouTube,user575,"Recomiendo a @hogarIdeas, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-05-24 14:13:00
+448,Twitter,user321,"Gracias @canalZ por el apoyo, quedé feliz con todo",positive,2024-04-06 07:41:00
+449,Instagram,user377,Actualización de @soporteX disponible https://t.co/demo,neutral,2024-05-20 05:55:00
+450,Twitter,user527,"Recomiendo a @cineFan, contenido de calidad y muy útil #promo",positive,2024-03-07 08:42:00
+451,TikTok,user6,"Malo el soporte de @creatorLuis, aún espero respuesta y gracias a @ofertasHoy",negative,2024-04-23 21:20:00
+452,YouTube,user309,Actualización de @fitLife disponible y gracias a @saludPlus #promo https://t.co/demo,neutral,2024-05-20 06:16:00
+453,Twitter,user534,Probando el filtro de @creatorMia #promo https://t.co/demo,neutral,2024-05-10 07:16:00
+454,TikTok,user340,"La promo de @soporteX está genial, ahorré bastante",positive,2024-05-20 22:09:00
+455,Twitter,user10,"Pésima experiencia con @musicBeat, no lo recomiendo",negative,2024-05-29 01:21:00
+456,YouTube,user329,Probando el filtro de @creatorAna y gracias a @reviewGuru #promo,neutral,2024-05-13 12:47:00
+457,YouTube,user527,"No funciona lo que vende @noticiasTech, una estafa y gracias a @fitLife #promo https://t.co/demo",negative,2024-05-12 18:21:00
+458,Twitter,user547,"No funciona lo que vende @soporteX, una estafa #promo",negative,2024-05-03 03:32:00
+459,YouTube,user211,"No funciona lo que vende @brandZ, una estafa #promo",negative,2024-03-21 01:17:00
+460,Twitter,user90,"La promo de @canalZ está genial, ahorré bastante y gracias a @equipoY",positive,2024-06-08 15:23:00
+461,YouTube,user415,"Qué gran atención de @viajesPro, todo rápido y claro y gracias a @brandX",positive,2024-04-24 19:59:00
+462,Twitter,user47,Increíble servicio de @foodLover! Me encantó la experiencia y gracias a @hogarIdeas #promo https://t.co/demo,positive,2024-05-23 14:56:00
+463,YouTube,user391,Probando el filtro de @brandX y gracias a @canalZ #promo https://t.co/demo,neutral,2024-06-03 18:37:00
+464,Instagram,user303,"Qué gran atención de @saludPlus, todo rápido y claro",positive,2024-04-07 18:56:00
+465,Twitter,user145,"La promo de @devTips está genial, ahorré bastante https://t.co/demo",positive,2024-04-10 07:10:00
+466,Instagram,user353,"La promo de @cienciaHoy está genial, ahorré bastante y gracias a @creatorMia #promo",positive,2024-04-14 06:37:00
+467,Instagram,user118,"Malo el soporte de @devTips, aún espero respuesta",negative,2024-06-18 15:44:00
+468,Twitter,user563,"Recomiendo a @brandZ, contenido de calidad y muy útil y gracias a @fotografia #promo https://t.co/demo",positive,2024-03-26 04:22:00
+469,Twitter,user241,"Gracias @brandZ por el apoyo, quedé feliz con todo y gracias a @gamerMax #promo",positive,2024-06-27 23:40:00
+470,Instagram,user599,El envío de @ofertasHoy fue lentísimo y llegó mal #promo https://t.co/demo,negative,2024-05-03 07:33:00
+471,TikTok,user447,Leyendo comentarios de @creatorLuis,neutral,2024-05-06 12:14:00
+472,YouTube,user313,"No funciona lo que vende @creatorMia, una estafa",negative,2024-06-01 04:46:00
+473,Instagram,user552,Increíble servicio de @cienciaHoy! Me encantó la experiencia,positive,2024-04-29 21:33:00
+474,YouTube,user32,Nuevo post de @soporteX sobre tendencias,neutral,2024-06-09 16:06:00
+475,TikTok,user153,"Qué gran atención de @devTips, todo rápido y claro #promo",positive,2024-04-07 03:05:00
+476,TikTok,user407,"Pésima experiencia con @modaTrends, no lo recomiendo",negative,2024-06-25 05:39:00
+477,Instagram,user527,"La promo de @creatorMia está genial, ahorré bastante",positive,2024-04-10 16:30:00
+478,Twitter,user368,"Gracias @gamerMax por el apoyo, quedé feliz con todo y gracias a @ofertasHoy #promo",positive,2024-06-28 17:40:00
+479,YouTube,user370,"Malo el soporte de @musicBeat, aún espero respuesta y gracias a @modaTrends #promo",negative,2024-04-11 17:47:00
+480,TikTok,user281,"Pésima experiencia con @devTips, no lo recomiendo #promo",negative,2024-04-15 02:39:00
+481,TikTok,user530,"La promo de @equipoY está genial, ahorré bastante https://t.co/demo",positive,2024-03-23 16:27:00
+482,Instagram,user7,Increíble servicio de @equipoY! Me encantó la experiencia #promo https://t.co/demo,positive,2024-03-30 05:22:00
+483,Twitter,user371,El envío de @cineFan fue lentísimo y llegó mal #promo,negative,2024-04-24 07:11:00
+484,YouTube,user166,"Gracias @brandY por el apoyo, quedé feliz con todo #promo",positive,2024-05-04 01:20:00
+485,Instagram,user587,"Gracias @canalZ por el apoyo, quedé feliz con todo #promo",positive,2024-06-05 21:45:00
+486,TikTok,user20,Probando el filtro de @soporteX #promo,neutral,2024-04-18 07:29:00
+487,Instagram,user421,Comparando precios con @creatorMia #promo,neutral,2024-03-19 11:41:00
+488,Twitter,user465,"Gracias @viajesPro por el apoyo, quedé feliz con todo y gracias a @soporteX",positive,2024-05-10 23:21:00
+489,Instagram,user430,"Ojo con @creatorMia, publicidad engañosa",negative,2024-05-02 18:08:00
+490,Twitter,user516,"Gracias @modaTrends por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-05-15 23:09:00
+491,YouTube,user442,"Qué gran atención de @brandY, todo rápido y claro #promo",positive,2024-04-03 13:00:00
+492,Twitter,user359,"Buenísimo el video de @canalZ, 10/10 https://t.co/demo",positive,2024-04-07 20:25:00
+493,YouTube,user557,"Qué gran atención de @brandX, todo rápido y claro #promo",positive,2024-04-03 17:44:00
+494,YouTube,user8,El envío de @hogarIdeas fue lentísimo y llegó mal #promo,negative,2024-06-15 19:58:00
+495,TikTok,user260,Comparando precios con @cineFan #promo,neutral,2024-06-26 06:57:00
+496,YouTube,user424,"La promo de @fitLife está genial, ahorré bastante",positive,2024-04-05 13:35:00
+497,Twitter,user142,"No funciona lo que vende @musicBeat, una estafa #promo",negative,2024-04-06 11:33:00
+498,Twitter,user564,Increíble servicio de @cienciaHoy! Me encantó la experiencia,positive,2024-05-21 20:29:00
+499,Twitter,user446,"Recomiendo a @equipoY, contenido de calidad y muy útil y gracias a @brandY",positive,2024-07-02 13:40:00
+500,TikTok,user534,"Malo el soporte de @fotografia, aún espero respuesta",negative,2024-07-15 14:59:00
+501,Instagram,user11,Actualización de @foodLover disponible y gracias a @cienciaHoy,neutral,2024-04-04 20:59:00
+502,Twitter,user174,Increíble servicio de @cienciaHoy! Me encantó la experiencia #promo https://t.co/demo,positive,2024-04-12 13:38:00
+503,YouTube,user362,"La promo de @soporteX está genial, ahorré bastante y gracias a @saludPlus #promo https://t.co/demo",positive,2024-05-06 09:42:00
+504,TikTok,user573,"Gracias @canalZ por el apoyo, quedé feliz con todo #promo",positive,2024-05-08 19:37:00
+505,TikTok,user5,Increíble servicio de @foodLover! Me encantó la experiencia https://t.co/demo,positive,2024-04-19 03:59:00
+506,TikTok,user526,Actualización de @devTips disponible,neutral,2024-03-29 08:18:00
+507,YouTube,user348,"Malo el soporte de @devTips, aún espero respuesta #promo https://t.co/demo",negative,2024-04-24 07:31:00
+508,TikTok,user236,"La promo de @ofertasHoy está genial, ahorré bastante https://t.co/demo",positive,2024-07-15 09:48:00
+509,YouTube,user96,"Malo el soporte de @reviewGuru, aún espero respuesta #promo https://t.co/demo",negative,2024-04-07 07:27:00
+510,TikTok,user588,"Qué gran atención de @saludPlus, todo rápido y claro #promo",positive,2024-05-04 08:00:00
+511,TikTok,user248,"Gracias @soporteX por el apoyo, quedé feliz con todo #promo",positive,2024-08-26 04:05:00
+512,YouTube,user81,"Malo el soporte de @fitLife, aún espero respuesta #promo https://t.co/demo",negative,2024-04-07 19:36:00
+513,YouTube,user282,"Recomiendo a @foodLover, contenido de calidad y muy útil https://t.co/demo",positive,2024-05-23 17:56:00
+514,YouTube,user434,Comparando precios con @brandY y gracias a @hogarIdeas,neutral,2024-07-18 04:06:00
+515,YouTube,user531,Increíble servicio de @brandX! Me encantó la experiencia #promo https://t.co/demo,positive,2024-05-19 12:20:00
+516,Instagram,user266,El envío de @equipoY fue lentísimo y llegó mal https://t.co/demo,negative,2024-06-11 17:01:00
+517,Instagram,user435,"Recomiendo a @ofertasHoy, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-05-29 04:28:00
+518,Instagram,user590,Actualización de @saludPlus disponible,neutral,2024-05-15 06:41:00
+519,Instagram,user150,"Pésima experiencia con @brandX, no lo recomiendo #promo",negative,2024-06-24 21:31:00
+520,TikTok,user530,Actualización de @noticiasTech disponible https://t.co/demo,neutral,2024-05-21 23:34:00
+521,Twitter,user168,"Buenísimo el video de @canalZ, 10/10 #promo",positive,2024-04-19 08:52:00
+522,TikTok,user370,El envío de @canalZ fue lentísimo y llegó mal y gracias a @creatorAna #promo,negative,2024-05-01 20:40:00
+523,Instagram,user204,Actualización de @noticiasTech disponible y gracias a @fitLife #promo,neutral,2024-05-10 02:40:00
+524,TikTok,user391,"Pésima experiencia con @creatorLuis, no lo recomiendo",negative,2024-04-11 20:54:00
+525,YouTube,user586,Nuevo post de @brandZ sobre tendencias y gracias a @canalZ #promo,neutral,2024-05-03 09:07:00
+526,TikTok,user405,Leyendo comentarios de @ofertasHoy,neutral,2024-04-27 06:16:00
+527,Instagram,user24,El envío de @modaTrends fue lentísimo y llegó mal https://t.co/demo,negative,2024-05-21 05:41:00
+528,Twitter,user407,"La promo de @gamerMax está genial, ahorré bastante y gracias a @viajesPro",positive,2024-08-04 03:32:00
+529,Instagram,user269,"Recomiendo a @viajesPro, contenido de calidad y muy útil y gracias a @noticiasTech #promo https://t.co/demo",positive,2024-05-05 17:58:00
+530,Twitter,user175,"Recomiendo a @ofertasHoy, contenido de calidad y muy útil #promo",positive,2024-07-04 09:17:00
+531,YouTube,user562,"La promo de @hogarIdeas está genial, ahorré bastante y gracias a @fotografia #promo",positive,2024-05-20 19:15:00
+532,TikTok,user446,Comparando precios con @gamerMax y gracias a @brandZ #promo https://t.co/demo,neutral,2024-05-03 08:52:00
+533,TikTok,user160,"Gracias @foodLover por el apoyo, quedé feliz con todo y gracias a @gamerMax",positive,2024-04-10 16:47:00
+534,TikTok,user489,"Recomiendo a @cineFan, contenido de calidad y muy útil",positive,2024-05-03 06:26:00
+535,YouTube,user422,"Qué gran atención de @creatorMia, todo rápido y claro #promo https://t.co/demo",positive,2024-05-01 08:58:00
+536,YouTube,user82,"Muy decepcionado con @foodLover, cero seriedad https://t.co/demo",negative,2024-04-01 18:09:00
+537,YouTube,user276,"Gracias @brandZ por el apoyo, quedé feliz con todo y gracias a @creatorLuis",positive,2024-04-06 09:17:00
+538,Instagram,user504,Increíble servicio de @creatorLuis! Me encantó la experiencia #promo,positive,2024-05-10 09:37:00
+539,Instagram,user276,"Malo el soporte de @saludPlus, aún espero respuesta y gracias a @creatorLuis #promo https://t.co/demo",negative,2024-07-03 14:20:00
+540,YouTube,user320,Leyendo comentarios de @musicBeat #promo,neutral,2024-04-23 04:59:00
+541,TikTok,user58,Comparando precios con @brandZ #promo,neutral,2024-03-10 13:01:00
+542,Twitter,user13,Viendo el directo de @hogarIdeas ahora https://t.co/demo,neutral,2024-02-21 01:08:00
+543,YouTube,user204,"Muy decepcionado con @creatorAna, cero seriedad #promo https://t.co/demo",negative,2024-03-22 10:39:00
+544,Instagram,user331,"No funciona lo que vende @brandY, una estafa https://t.co/demo",negative,2024-05-24 21:47:00
+545,Instagram,user306,"Qué gran atención de @brandY, todo rápido y claro y gracias a @creatorLuis #promo",positive,2024-03-15 00:30:00
+546,TikTok,user172,"Pésima experiencia con @viajesPro, no lo recomiendo y gracias a @brandY",negative,2024-05-31 23:29:00
+547,TikTok,user159,Viendo el directo de @equipoY ahora https://t.co/demo,neutral,2024-05-21 21:20:00
+548,Twitter,user62,"Qué gran atención de @creatorLuis, todo rápido y claro #promo",positive,2024-04-22 10:48:00
+549,TikTok,user572,Leyendo comentarios de @musicBeat y gracias a @saludPlus #promo,neutral,2024-03-08 08:33:00
+550,YouTube,user41,El envío de @fitLife fue lentísimo y llegó mal #promo,negative,2024-04-02 18:33:00
+551,TikTok,user357,"Muy decepcionado con @canalZ, cero seriedad https://t.co/demo",negative,2024-04-17 05:17:00
+552,TikTok,user461,Actualización de @fitLife disponible,neutral,2024-05-09 06:19:00
+553,TikTok,user20,Actualización de @equipoY disponible,neutral,2024-03-16 13:13:00
+554,YouTube,user195,Comparando precios con @creatorLuis y gracias a @musicBeat https://t.co/demo,neutral,2024-06-27 17:51:00
+555,Twitter,user69,Viendo el directo de @creatorLuis ahora #promo,neutral,2024-05-09 03:22:00
+556,YouTube,user33,"Muy decepcionado con @foodLover, cero seriedad #promo https://t.co/demo",negative,2024-05-13 20:40:00
+557,Twitter,user73,Leyendo comentarios de @soporteX https://t.co/demo,neutral,2024-05-21 21:48:00
+558,TikTok,user63,El envío de @cineFan fue lentísimo y llegó mal #promo,negative,2024-06-21 18:03:00
+559,Twitter,user42,Viendo el directo de @brandZ ahora #promo,neutral,2024-05-03 18:08:00
+560,Instagram,user395,"Gracias @modaTrends por el apoyo, quedé feliz con todo",positive,2024-05-24 19:03:00
+561,Twitter,user426,Actualización de @devTips disponible,neutral,2024-04-02 03:33:00
+562,Instagram,user171,El envío de @foodLover fue lentísimo y llegó mal,negative,2024-07-16 12:01:00
+563,TikTok,user323,Leyendo comentarios de @cineFan,neutral,2024-04-30 19:13:00
+564,Instagram,user559,"Qué gran atención de @fitLife, todo rápido y claro y gracias a @musicBeat #promo https://t.co/demo",positive,2024-04-02 01:10:00
+565,Twitter,user292,"Malo el soporte de @noticiasTech, aún espero respuesta y gracias a @equipoY #promo https://t.co/demo",negative,2024-04-10 23:32:00
+566,Instagram,user283,"Recomiendo a @musicBeat, contenido de calidad y muy útil y gracias a @canalZ #promo",positive,2024-02-28 07:57:00
+567,TikTok,user263,"La promo de @viajesPro está genial, ahorré bastante",positive,2024-04-09 16:28:00
+568,YouTube,user178,Leyendo comentarios de @hogarIdeas,neutral,2024-02-17 10:15:00
+569,YouTube,user39,"Recomiendo a @brandY, contenido de calidad y muy útil y gracias a @musicBeat #promo",positive,2024-05-27 07:44:00
+570,YouTube,user12,Increíble servicio de @foodLover! Me encantó la experiencia y gracias a @fotografia #promo,positive,2024-05-12 07:32:00
+571,Twitter,user157,"Ojo con @viajesPro, publicidad engañosa https://t.co/demo",negative,2024-03-24 14:44:00
+572,YouTube,user297,Increíble servicio de @reviewGuru! Me encantó la experiencia,positive,2024-04-24 08:57:00
+573,YouTube,user88,"Pésima experiencia con @hogarIdeas, no lo recomiendo #promo https://t.co/demo",negative,2024-04-25 13:29:00
+574,Instagram,user586,"Muy decepcionado con @saludPlus, cero seriedad y gracias a @brandZ #promo",negative,2024-03-18 23:22:00
+575,Twitter,user590,"Buenísimo el video de @cineFan, 10/10 #promo https://t.co/demo",positive,2024-04-17 22:22:00
+576,TikTok,user25,"La promo de @ofertasHoy está genial, ahorré bastante",positive,2024-04-27 15:02:00
+577,Instagram,user46,"Gracias @ofertasHoy por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-04-17 01:51:00
+578,Instagram,user249,Nuevo post de @noticiasTech sobre tendencias y gracias a @creatorAna #promo,neutral,2024-04-02 11:19:00
+579,Instagram,user215,"Recomiendo a @foodLover, contenido de calidad y muy útil",positive,2024-03-23 23:43:00
+580,YouTube,user19,"Muy decepcionado con @modaTrends, cero seriedad y gracias a @creatorMia #promo https://t.co/demo",negative,2024-04-15 23:46:00
+581,Twitter,user278,"Malo el soporte de @brandX, aún espero respuesta #promo",negative,2024-04-05 22:31:00
+582,Twitter,user369,"Buenísimo el video de @cienciaHoy, 10/10 y gracias a @viajesPro",positive,2024-05-18 10:46:00
+583,Twitter,user497,"Buenísimo el video de @foodLover, 10/10 https://t.co/demo",positive,2024-06-25 18:04:00
+584,TikTok,user313,"Pésima experiencia con @saludPlus, no lo recomiendo y gracias a @modaTrends #promo",negative,2024-06-03 08:03:00
+585,TikTok,user514,Actualización de @cienciaHoy disponible,neutral,2024-04-28 01:00:00
+586,TikTok,user569,"Buenísimo el video de @reviewGuru, 10/10 #promo https://t.co/demo",positive,2024-04-03 23:08:00
+587,YouTube,user233,"Buenísimo el video de @creatorLuis, 10/10 https://t.co/demo",positive,2024-06-01 18:30:00
+588,Instagram,user135,"Muy decepcionado con @devTips, cero seriedad #promo https://t.co/demo",negative,2024-05-21 23:30:00
+589,Instagram,user537,"Qué gran atención de @creatorLuis, todo rápido y claro https://t.co/demo",positive,2024-06-21 19:01:00
+590,Twitter,user546,"Qué gran atención de @creatorLuis, todo rápido y claro y gracias a @ofertasHoy",positive,2024-05-03 14:02:00
+591,YouTube,user311,"No funciona lo que vende @cienciaHoy, una estafa y gracias a @soporteX #promo https://t.co/demo",negative,2024-07-12 20:53:00
+592,Instagram,user274,"No funciona lo que vende @equipoY, una estafa y gracias a @brandZ",negative,2024-05-03 17:08:00
+593,TikTok,user481,"Buenísimo el video de @viajesPro, 10/10 #promo https://t.co/demo",positive,2024-04-03 13:56:00
+594,TikTok,user16,Leyendo comentarios de @equipoY #promo https://t.co/demo,neutral,2024-04-08 06:02:00
+595,YouTube,user450,"Pésima experiencia con @musicBeat, no lo recomiendo",negative,2024-05-16 12:59:00
+596,YouTube,user321,"Muy decepcionado con @saludPlus, cero seriedad",negative,2024-04-05 01:18:00
+597,Twitter,user534,"Pésima experiencia con @brandY, no lo recomiendo #promo",negative,2024-07-12 19:02:00
+598,Twitter,user397,"Buenísimo el video de @musicBeat, 10/10 https://t.co/demo",positive,2024-05-13 05:40:00
+599,TikTok,user433,"No funciona lo que vende @brandY, una estafa #promo",negative,2024-04-27 15:25:00
+600,Twitter,user93,"Qué gran atención de @devTips, todo rápido y claro #promo https://t.co/demo",positive,2024-04-30 00:51:00
+601,YouTube,user184,"Pésima experiencia con @hogarIdeas, no lo recomiendo #promo https://t.co/demo",negative,2024-04-16 22:08:00
+602,Twitter,user168,"Buenísimo el video de @hogarIdeas, 10/10 #promo",positive,2024-03-05 17:27:00
+603,YouTube,user164,"Pésima experiencia con @brandY, no lo recomiendo",negative,2024-04-08 05:07:00
+604,Instagram,user167,Increíble servicio de @hogarIdeas! Me encantó la experiencia #promo,positive,2024-07-04 15:13:00
+605,Instagram,user296,"Gracias @creatorLuis por el apoyo, quedé feliz con todo y gracias a @noticiasTech #promo",positive,2024-05-04 17:01:00
+606,Twitter,user557,"Pésima experiencia con @gamerMax, no lo recomiendo y gracias a @hogarIdeas #promo",negative,2024-06-08 02:42:00
+607,Instagram,user7,Comparando precios con @canalZ https://t.co/demo,neutral,2024-06-10 06:18:00
+608,Twitter,user152,"Pésima experiencia con @brandY, no lo recomiendo",negative,2024-04-24 10:11:00
+609,Twitter,user340,"Gracias @cineFan por el apoyo, quedé feliz con todo y gracias a @noticiasTech",positive,2024-05-22 20:18:00
+610,Instagram,user587,Comparando precios con @saludPlus #promo,neutral,2024-03-07 11:01:00
+611,YouTube,user378,Comparando precios con @cineFan y gracias a @foodLover #promo,neutral,2024-06-29 09:22:00
+612,YouTube,user338,"Pésima experiencia con @hogarIdeas, no lo recomiendo #promo",negative,2024-06-24 21:28:00
+613,Twitter,user542,"Muy decepcionado con @hogarIdeas, cero seriedad https://t.co/demo",negative,2024-05-15 20:46:00
+614,TikTok,user325,El envío de @fotografia fue lentísimo y llegó mal,negative,2024-05-05 21:34:00
+615,YouTube,user510,Viendo el directo de @fotografia ahora https://t.co/demo,neutral,2024-04-25 00:49:00
+616,Twitter,user477,"Muy decepcionado con @soporteX, cero seriedad #promo https://t.co/demo",negative,2024-06-14 19:07:00
+617,Twitter,user218,El envío de @hogarIdeas fue lentísimo y llegó mal y gracias a @brandZ #promo,negative,2024-05-27 11:03:00
+618,Twitter,user7,"Ojo con @reviewGuru, publicidad engañosa https://t.co/demo",negative,2024-02-08 05:59:00
+619,TikTok,user199,Probando el filtro de @modaTrends,neutral,2024-04-12 16:26:00
+620,YouTube,user160,Actualización de @fitLife disponible,neutral,2024-03-20 01:54:00
+621,TikTok,user534,El envío de @modaTrends fue lentísimo y llegó mal #promo,negative,2024-03-15 11:19:00
+622,Twitter,user363,Nuevo post de @canalZ sobre tendencias y gracias a @cineFan,neutral,2024-06-13 19:29:00
+623,Instagram,user399,"No funciona lo que vende @noticiasTech, una estafa https://t.co/demo",negative,2024-04-24 02:57:00
+624,Instagram,user509,"Gracias @noticiasTech por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-05-14 01:16:00
+625,Twitter,user207,"Buenísimo el video de @brandX, 10/10 #promo https://t.co/demo",positive,2024-04-28 16:30:00
+626,TikTok,user537,Nuevo post de @creatorLuis sobre tendencias,neutral,2024-03-15 04:31:00
+627,Twitter,user211,"Muy decepcionado con @hogarIdeas, cero seriedad y gracias a @noticiasTech",negative,2024-03-08 20:17:00
+628,TikTok,user90,"Malo el soporte de @brandY, aún espero respuesta https://t.co/demo",negative,2024-04-10 19:42:00
+629,Instagram,user320,"Recomiendo a @soporteX, contenido de calidad y muy útil y gracias a @ofertasHoy",positive,2024-04-13 09:18:00
+630,Instagram,user153,"La promo de @brandX está genial, ahorré bastante #promo",positive,2024-04-13 18:45:00
+631,TikTok,user327,"Recomiendo a @hogarIdeas, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-04-14 11:33:00
+632,YouTube,user554,"Buenísimo el video de @brandX, 10/10 #promo https://t.co/demo",positive,2024-07-31 02:56:00
+633,YouTube,user437,"La promo de @fotografia está genial, ahorré bastante",positive,2024-06-07 12:08:00
+634,TikTok,user320,Leyendo comentarios de @hogarIdeas #promo,neutral,2024-05-05 15:53:00
+635,Instagram,user582,"Buenísimo el video de @hogarIdeas, 10/10 y gracias a @noticiasTech",positive,2024-04-23 15:53:00
+636,Instagram,user482,Comparando precios con @creatorLuis y gracias a @viajesPro #promo,neutral,2024-04-24 22:42:00
+637,TikTok,user339,"Malo el soporte de @brandX, aún espero respuesta #promo",negative,2024-05-25 05:49:00
+638,TikTok,user290,"Muy decepcionado con @creatorLuis, cero seriedad y gracias a @saludPlus https://t.co/demo",negative,2024-04-23 22:10:00
+639,TikTok,user73,"Muy decepcionado con @viajesPro, cero seriedad",negative,2024-06-02 16:27:00
+640,Twitter,user394,"La promo de @hogarIdeas está genial, ahorré bastante",positive,2024-05-09 11:40:00
+641,Instagram,user558,Increíble servicio de @modaTrends! Me encantó la experiencia,positive,2024-07-31 03:54:00
+642,TikTok,user475,"Pésima experiencia con @musicBeat, no lo recomiendo y gracias a @viajesPro #promo https://t.co/demo",negative,2024-04-20 20:21:00
+643,TikTok,user389,"Malo el soporte de @modaTrends, aún espero respuesta y gracias a @creatorLuis",negative,2024-06-11 21:42:00
+644,Instagram,user1,"Muy decepcionado con @musicBeat, cero seriedad y gracias a @cienciaHoy https://t.co/demo",negative,2024-03-22 23:15:00
+645,TikTok,user325,El envío de @modaTrends fue lentísimo y llegó mal,negative,2024-04-04 11:45:00
+646,Twitter,user92,"Ojo con @foodLover, publicidad engañosa https://t.co/demo",negative,2024-07-22 18:44:00
+647,Twitter,user55,"Malo el soporte de @ofertasHoy, aún espero respuesta https://t.co/demo",negative,2024-05-31 23:58:00
+648,TikTok,user404,"Ojo con @viajesPro, publicidad engañosa #promo https://t.co/demo",negative,2024-05-15 04:44:00
+649,YouTube,user193,Probando el filtro de @ofertasHoy y gracias a @hogarIdeas #promo https://t.co/demo,neutral,2024-08-18 22:07:00
+650,Instagram,user17,"No funciona lo que vende @gamerMax, una estafa https://t.co/demo",negative,2024-04-23 21:55:00
+651,YouTube,user426,Comparando precios con @hogarIdeas,neutral,2024-06-11 14:28:00
+652,YouTube,user566,"Gracias @equipoY por el apoyo, quedé feliz con todo #promo",positive,2024-06-15 08:04:00
+653,TikTok,user514,"La promo de @fitLife está genial, ahorré bastante",positive,2024-07-07 12:34:00
+654,YouTube,user116,Viendo el directo de @brandZ ahora,neutral,2024-03-19 09:32:00
+655,Twitter,user477,"Malo el soporte de @fotografia, aún espero respuesta y gracias a @modaTrends",negative,2024-04-23 02:39:00
+656,TikTok,user553,"Muy decepcionado con @reviewGuru, cero seriedad #promo",negative,2024-05-08 16:00:00
+657,TikTok,user588,"Recomiendo a @noticiasTech, contenido de calidad y muy útil y gracias a @saludPlus",positive,2024-07-06 19:14:00
+658,Twitter,user267,"Pésima experiencia con @devTips, no lo recomiendo https://t.co/demo",negative,2024-05-13 21:18:00
+659,TikTok,user28,"Muy decepcionado con @creatorLuis, cero seriedad y gracias a @noticiasTech #promo",negative,2024-06-15 09:23:00
+660,Twitter,user264,"Pésima experiencia con @fotografia, no lo recomiendo",negative,2024-03-16 12:37:00
+661,TikTok,user180,Probando el filtro de @equipoY y gracias a @fitLife https://t.co/demo,neutral,2024-04-15 02:52:00
+662,Instagram,user149,Probando el filtro de @cineFan y gracias a @gamerMax https://t.co/demo,neutral,2024-06-24 19:43:00
+663,Twitter,user354,"Malo el soporte de @creatorAna, aún espero respuesta y gracias a @cineFan #promo",negative,2024-04-19 18:10:00
+664,YouTube,user240,"Ojo con @viajesPro, publicidad engañosa y gracias a @fitLife https://t.co/demo",negative,2024-04-26 15:19:00
+665,TikTok,user392,Nuevo post de @modaTrends sobre tendencias y gracias a @fitLife,neutral,2024-07-05 14:44:00
+666,TikTok,user280,"Recomiendo a @creatorAna, contenido de calidad y muy útil #promo",positive,2024-03-28 08:15:00
+667,TikTok,user200,El envío de @creatorMia fue lentísimo y llegó mal,negative,2024-04-03 00:24:00
+668,Twitter,user422,"Ojo con @modaTrends, publicidad engañosa https://t.co/demo",negative,2024-03-14 01:09:00
+669,Twitter,user25,"Qué gran atención de @fotografia, todo rápido y claro #promo",positive,2024-07-07 04:09:00
+670,Twitter,user123,Probando el filtro de @creatorLuis,neutral,2024-06-06 06:18:00
+671,Instagram,user114,"Qué gran atención de @musicBeat, todo rápido y claro",positive,2024-06-05 09:26:00
+672,TikTok,user438,"Recomiendo a @brandZ, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-04-14 02:03:00
+673,TikTok,user265,"Buenísimo el video de @brandZ, 10/10 #promo https://t.co/demo",positive,2024-03-12 22:01:00
+674,Twitter,user504,"Gracias @cineFan por el apoyo, quedé feliz con todo #promo",positive,2024-03-05 08:50:00
+675,Twitter,user106,"Qué gran atención de @devTips, todo rápido y claro y gracias a @musicBeat #promo",positive,2024-06-24 22:17:00
+676,Twitter,user1,"Pésima experiencia con @canalZ, no lo recomiendo",negative,2024-05-18 17:35:00
+677,YouTube,user503,Increíble servicio de @saludPlus! Me encantó la experiencia #promo,positive,2024-05-26 16:27:00
+678,TikTok,user125,"Buenísimo el video de @noticiasTech, 10/10 y gracias a @modaTrends #promo",positive,2024-05-06 11:36:00
+679,YouTube,user83,Leyendo comentarios de @noticiasTech y gracias a @devTips #promo https://t.co/demo,neutral,2024-03-31 06:31:00
+680,YouTube,user307,Leyendo comentarios de @cienciaHoy #promo,neutral,2024-04-15 06:28:00
+681,Twitter,user144,"La promo de @saludPlus está genial, ahorré bastante y gracias a @viajesPro #promo",positive,2024-03-23 10:30:00
+682,YouTube,user512,Nuevo post de @brandX sobre tendencias y gracias a @ofertasHoy https://t.co/demo,neutral,2024-03-20 04:02:00
+683,YouTube,user217,Viendo el directo de @fitLife ahora #promo https://t.co/demo,neutral,2024-06-02 04:49:00
+684,Twitter,user501,"Malo el soporte de @fotografia, aún espero respuesta y gracias a @modaTrends #promo https://t.co/demo",negative,2024-03-07 01:42:00
+685,Twitter,user315,"Muy decepcionado con @creatorMia, cero seriedad y gracias a @creatorAna #promo",negative,2024-03-24 21:00:00
+686,Twitter,user226,Actualización de @cineFan disponible,neutral,2024-04-17 11:04:00
+687,Instagram,user124,Increíble servicio de @soporteX! Me encantó la experiencia #promo https://t.co/demo,positive,2024-04-29 04:49:00
+688,Instagram,user426,"Pésima experiencia con @fitLife, no lo recomiendo https://t.co/demo",negative,2024-03-14 03:24:00
+689,Instagram,user386,Increíble servicio de @gamerMax! Me encantó la experiencia y gracias a @creatorMia,positive,2024-03-07 20:15:00
+690,YouTube,user291,"No funciona lo que vende @gamerMax, una estafa y gracias a @creatorLuis",negative,2024-05-13 14:03:00
+691,Instagram,user245,"Muy decepcionado con @brandY, cero seriedad y gracias a @foodLover https://t.co/demo",negative,2024-05-04 10:16:00
+692,YouTube,user357,"Gracias @equipoY por el apoyo, quedé feliz con todo y gracias a @fitLife",positive,2024-06-23 18:25:00
+693,Instagram,user520,"No funciona lo que vende @cienciaHoy, una estafa y gracias a @brandY #promo",negative,2024-04-30 23:23:00
+694,YouTube,user486,Increíble servicio de @modaTrends! Me encantó la experiencia y gracias a @ofertasHoy #promo,positive,2024-05-17 11:24:00
+695,Twitter,user465,"La promo de @brandY está genial, ahorré bastante y gracias a @brandX #promo https://t.co/demo",positive,2024-04-01 08:01:00
+696,TikTok,user456,"Qué gran atención de @saludPlus, todo rápido y claro #promo https://t.co/demo",positive,2024-04-02 07:46:00
+697,Instagram,user101,"Ojo con @soporteX, publicidad engañosa #promo",negative,2024-03-16 01:51:00
+698,Instagram,user447,"Buenísimo el video de @fotografia, 10/10 y gracias a @ofertasHoy #promo",positive,2024-04-02 21:34:00
+699,TikTok,user368,Increíble servicio de @creatorLuis! Me encantó la experiencia #promo https://t.co/demo,positive,2024-04-15 15:53:00
+700,YouTube,user470,"Gracias @reviewGuru por el apoyo, quedé feliz con todo",positive,2024-06-18 21:46:00
+701,Instagram,user175,"Buenísimo el video de @foodLover, 10/10 #promo",positive,2024-03-28 15:47:00
+702,Twitter,user286,"Pésima experiencia con @saludPlus, no lo recomiendo y gracias a @cineFan",negative,2024-08-03 20:11:00
+703,Twitter,user153,Increíble servicio de @brandY! Me encantó la experiencia,positive,2024-05-21 14:31:00
+704,YouTube,user544,"Malo el soporte de @hogarIdeas, aún espero respuesta #promo",negative,2024-05-12 00:25:00
+705,Instagram,user417,"Gracias @noticiasTech por el apoyo, quedé feliz con todo #promo",positive,2024-04-27 10:24:00
+706,YouTube,user166,Comparando precios con @saludPlus y gracias a @musicBeat #promo https://t.co/demo,neutral,2024-04-21 00:00:00
+707,Instagram,user416,Leyendo comentarios de @ofertasHoy,neutral,2024-04-06 02:24:00
+708,TikTok,user395,"Ojo con @noticiasTech, publicidad engañosa",negative,2024-03-13 19:38:00
+709,Twitter,user213,"No funciona lo que vende @reviewGuru, una estafa",negative,2024-03-29 12:25:00
+710,Twitter,user53,"La promo de @musicBeat está genial, ahorré bastante y gracias a @ofertasHoy #promo",positive,2024-07-07 02:17:00
+711,Instagram,user575,"Gracias @reviewGuru por el apoyo, quedé feliz con todo",positive,2024-05-18 19:48:00
+712,Instagram,user215,"La promo de @canalZ está genial, ahorré bastante #promo https://t.co/demo",positive,2024-07-06 11:47:00
+713,YouTube,user464,"Ojo con @creatorAna, publicidad engañosa",negative,2024-04-05 09:58:00
+714,TikTok,user463,Nuevo post de @hogarIdeas sobre tendencias y gracias a @musicBeat #promo https://t.co/demo,neutral,2024-03-23 06:06:00
+715,Twitter,user296,Increíble servicio de @canalZ! Me encantó la experiencia #promo,positive,2024-04-27 17:46:00
+716,TikTok,user24,"La promo de @modaTrends está genial, ahorré bastante #promo",positive,2024-03-30 22:00:00
+717,TikTok,user22,"Gracias @brandX por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-05-04 19:45:00
+718,TikTok,user352,"No funciona lo que vende @modaTrends, una estafa",negative,2024-03-08 19:21:00
+719,TikTok,user136,"Gracias @canalZ por el apoyo, quedé feliz con todo",positive,2024-02-26 01:36:00
+720,TikTok,user152,"La promo de @creatorMia está genial, ahorré bastante https://t.co/demo",positive,2024-05-10 05:59:00
+721,Instagram,user158,"Recomiendo a @brandY, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-07-09 07:00:00
+722,Twitter,user576,"Pésima experiencia con @ofertasHoy, no lo recomiendo https://t.co/demo",negative,2024-05-12 10:17:00
+723,Twitter,user125,"Gracias @gamerMax por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-05-18 18:38:00
+724,TikTok,user520,"Ojo con @noticiasTech, publicidad engañosa",negative,2024-04-28 19:34:00
+725,YouTube,user151,"Qué gran atención de @creatorAna, todo rápido y claro #promo",positive,2024-05-02 03:59:00
+726,Twitter,user316,"Buenísimo el video de @equipoY, 10/10 #promo",positive,2024-03-11 06:39:00
+727,Instagram,user598,Viendo el directo de @canalZ ahora y gracias a @devTips,neutral,2024-03-31 02:58:00
+728,YouTube,user525,"La promo de @reviewGuru está genial, ahorré bastante",positive,2024-06-17 12:19:00
+729,Instagram,user408,El envío de @cineFan fue lentísimo y llegó mal #promo https://t.co/demo,negative,2024-03-20 10:30:00
+730,Twitter,user457,"Qué gran atención de @musicBeat, todo rápido y claro https://t.co/demo",positive,2024-04-14 14:28:00
+731,Instagram,user425,Nuevo post de @fotografia sobre tendencias y gracias a @noticiasTech #promo,neutral,2024-06-16 11:26:00
+732,YouTube,user68,"Qué gran atención de @cineFan, todo rápido y claro #promo",positive,2024-05-01 19:23:00
+733,Instagram,user141,"Recomiendo a @viajesPro, contenido de calidad y muy útil #promo",positive,2024-05-03 19:58:00
+734,YouTube,user312,"Pésima experiencia con @musicBeat, no lo recomiendo y gracias a @brandX #promo https://t.co/demo",negative,2024-04-14 21:51:00
+735,Twitter,user484,"Ojo con @noticiasTech, publicidad engañosa y gracias a @saludPlus https://t.co/demo",negative,2024-05-24 09:27:00
+736,Twitter,user505,"Muy decepcionado con @ofertasHoy, cero seriedad #promo https://t.co/demo",negative,2024-06-04 23:24:00
+737,Twitter,user488,"La promo de @saludPlus está genial, ahorré bastante y gracias a @canalZ #promo https://t.co/demo",positive,2024-03-30 10:54:00
+738,Instagram,user473,"Recomiendo a @brandY, contenido de calidad y muy útil",positive,2024-03-14 01:39:00
+739,TikTok,user297,"Muy decepcionado con @brandZ, cero seriedad y gracias a @modaTrends #promo https://t.co/demo",negative,2024-03-01 05:42:00
+740,TikTok,user557,Actualización de @modaTrends disponible y gracias a @saludPlus https://t.co/demo,neutral,2024-05-16 19:47:00
+741,Instagram,user361,"Recomiendo a @foodLover, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-05-11 05:33:00
+742,Instagram,user105,"Gracias @equipoY por el apoyo, quedé feliz con todo",positive,2024-08-24 17:56:00
+743,Twitter,user545,Increíble servicio de @brandZ! Me encantó la experiencia,positive,2024-04-29 10:38:00
+744,Instagram,user372,Comparando precios con @fotografia #promo,neutral,2024-04-22 00:58:00
+745,Instagram,user122,"Gracias @hogarIdeas por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-05-06 02:40:00
+746,Twitter,user436,"Buenísimo el video de @gamerMax, 10/10 y gracias a @creatorAna #promo",positive,2024-05-08 20:14:00
+747,YouTube,user61,Increíble servicio de @canalZ! Me encantó la experiencia y gracias a @hogarIdeas #promo https://t.co/demo,positive,2024-04-19 04:13:00
+748,Instagram,user211,Increíble servicio de @ofertasHoy! Me encantó la experiencia y gracias a @canalZ https://t.co/demo,positive,2024-03-31 05:28:00
+749,Instagram,user513,"Malo el soporte de @brandZ, aún espero respuesta",negative,2024-04-27 06:32:00
+750,Instagram,user289,Nuevo post de @fitLife sobre tendencias #promo https://t.co/demo,neutral,2024-04-25 17:12:00
+751,TikTok,user487,"Ojo con @creatorMia, publicidad engañosa #promo",negative,2024-04-25 12:57:00
+752,Instagram,user435,"Malo el soporte de @cineFan, aún espero respuesta #promo",negative,2024-05-29 17:44:00
+753,YouTube,user140,Actualización de @hogarIdeas disponible #promo https://t.co/demo,neutral,2024-04-26 03:56:00
+754,TikTok,user395,El envío de @saludPlus fue lentísimo y llegó mal https://t.co/demo,negative,2024-03-14 13:54:00
+755,YouTube,user298,"Buenísimo el video de @brandZ, 10/10 #promo https://t.co/demo",positive,2024-04-04 23:00:00
+756,Twitter,user504,"Qué gran atención de @foodLover, todo rápido y claro #promo https://t.co/demo",positive,2024-04-19 23:43:00
+757,Instagram,user105,"Recomiendo a @soporteX, contenido de calidad y muy útil y gracias a @cineFan #promo",positive,2024-04-28 17:02:00
+758,TikTok,user286,Probando el filtro de @cienciaHoy,neutral,2024-05-16 16:32:00
+759,TikTok,user524,Increíble servicio de @musicBeat! Me encantó la experiencia y gracias a @foodLover #promo,positive,2024-04-28 04:35:00
+760,Twitter,user31,"Ojo con @brandZ, publicidad engañosa https://t.co/demo",negative,2024-02-26 23:11:00
+761,Instagram,user335,Increíble servicio de @fotografia! Me encantó la experiencia,positive,2024-03-17 16:48:00
+762,Instagram,user478,"Buenísimo el video de @gamerMax, 10/10",positive,2024-05-19 18:27:00
+763,Twitter,user560,Probando el filtro de @brandY #promo,neutral,2024-04-18 12:50:00
+764,YouTube,user454,"La promo de @creatorMia está genial, ahorré bastante",positive,2024-06-29 05:36:00
+765,YouTube,user504,"Buenísimo el video de @hogarIdeas, 10/10 #promo",positive,2024-05-01 22:31:00
+766,YouTube,user568,"Muy decepcionado con @creatorMia, cero seriedad y gracias a @noticiasTech #promo",negative,2024-04-13 21:03:00
+767,TikTok,user362,"La promo de @brandX está genial, ahorré bastante y gracias a @viajesPro #promo",positive,2024-04-04 00:55:00
+768,YouTube,user350,"Recomiendo a @ofertasHoy, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-04-15 08:00:00
+769,Twitter,user320,Actualización de @brandZ disponible y gracias a @soporteX #promo https://t.co/demo,neutral,2024-05-02 15:43:00
+770,YouTube,user433,"Buenísimo el video de @hogarIdeas, 10/10 https://t.co/demo",positive,2024-04-26 13:19:00
+771,Twitter,user331,Leyendo comentarios de @creatorAna #promo,neutral,2024-06-04 22:46:00
+772,Instagram,user348,"Ojo con @ofertasHoy, publicidad engañosa y gracias a @modaTrends",negative,2024-03-09 18:17:00
+773,TikTok,user220,"La promo de @noticiasTech está genial, ahorré bastante #promo",positive,2024-03-13 03:08:00
+774,Twitter,user593,"Malo el soporte de @canalZ, aún espero respuesta",negative,2024-04-17 11:51:00
+775,TikTok,user79,"Ojo con @noticiasTech, publicidad engañosa #promo",negative,2024-05-17 08:34:00
+776,YouTube,user528,"Pésima experiencia con @fitLife, no lo recomiendo",negative,2024-05-26 06:22:00
+777,YouTube,user591,"Buenísimo el video de @saludPlus, 10/10 y gracias a @cienciaHoy",positive,2024-04-05 14:48:00
+778,Twitter,user580,"Ojo con @ofertasHoy, publicidad engañosa y gracias a @creatorLuis",negative,2024-02-13 14:51:00
+779,TikTok,user421,Leyendo comentarios de @brandZ y gracias a @musicBeat #promo https://t.co/demo,neutral,2024-04-06 05:28:00
+780,Instagram,user263,"Gracias @creatorAna por el apoyo, quedé feliz con todo y gracias a @canalZ https://t.co/demo",positive,2024-05-11 16:34:00
+781,YouTube,user574,"Gracias @brandY por el apoyo, quedé feliz con todo y gracias a @creatorMia #promo",positive,2024-04-25 09:28:00
+782,Instagram,user564,"No funciona lo que vende @brandY, una estafa #promo",negative,2024-05-18 02:51:00
+783,TikTok,user322,Actualización de @cineFan disponible https://t.co/demo,neutral,2024-06-15 04:47:00
+784,Twitter,user242,"Malo el soporte de @foodLover, aún espero respuesta",negative,2024-04-20 17:55:00
+785,YouTube,user258,Comparando precios con @equipoY y gracias a @ofertasHoy #promo,neutral,2024-04-10 13:18:00
+786,YouTube,user242,"Gracias @creatorAna por el apoyo, quedé feliz con todo y gracias a @noticiasTech #promo https://t.co/demo",positive,2024-03-27 20:07:00
+787,YouTube,user58,"Malo el soporte de @hogarIdeas, aún espero respuesta y gracias a @cineFan #promo https://t.co/demo",negative,2024-03-12 09:28:00
+788,TikTok,user149,El envío de @ofertasHoy fue lentísimo y llegó mal y gracias a @cienciaHoy #promo,negative,2024-03-06 01:51:00
+789,TikTok,user246,"No funciona lo que vende @noticiasTech, una estafa #promo",negative,2024-04-02 04:09:00
+790,Instagram,user548,Nuevo post de @viajesPro sobre tendencias #promo,neutral,2024-06-08 08:43:00
+791,Twitter,user309,Actualización de @equipoY disponible y gracias a @creatorMia,neutral,2024-05-23 21:59:00
+792,Twitter,user417,"Buenísimo el video de @brandZ, 10/10 #promo",positive,2024-04-08 14:25:00
+793,Instagram,user103,"Malo el soporte de @foodLover, aún espero respuesta",negative,2024-08-04 11:09:00
+794,Twitter,user465,Leyendo comentarios de @cienciaHoy y gracias a @musicBeat https://t.co/demo,neutral,2024-04-04 13:40:00
+795,TikTok,user205,Increíble servicio de @brandZ! Me encantó la experiencia y gracias a @fitLife,positive,2024-06-20 22:09:00
+796,YouTube,user134,Probando el filtro de @reviewGuru https://t.co/demo,neutral,2024-07-03 23:27:00
+797,TikTok,user336,"Recomiendo a @cineFan, contenido de calidad y muy útil y gracias a @viajesPro",positive,2024-05-14 07:39:00
+798,Twitter,user22,Comparando precios con @cienciaHoy,neutral,2024-04-02 06:46:00
+799,Instagram,user269,"Buenísimo el video de @fotografia, 10/10 #promo",positive,2024-04-12 05:48:00
+800,Twitter,user581,"Buenísimo el video de @foodLover, 10/10",positive,2024-05-03 16:52:00
+801,Instagram,user122,El envío de @soporteX fue lentísimo y llegó mal y gracias a @foodLover #promo,negative,2024-03-13 07:03:00
+802,TikTok,user221,"Ojo con @soporteX, publicidad engañosa y gracias a @creatorLuis #promo",negative,2024-03-24 08:02:00
+803,Instagram,user462,"Qué gran atención de @modaTrends, todo rápido y claro #promo https://t.co/demo",positive,2024-03-22 11:02:00
+804,Instagram,user408,"Ojo con @hogarIdeas, publicidad engañosa #promo https://t.co/demo",negative,2024-05-17 02:00:00
+805,TikTok,user54,Actualización de @gamerMax disponible,neutral,2024-06-15 20:25:00
+806,Twitter,user47,"Buenísimo el video de @fotografia, 10/10 y gracias a @viajesPro https://t.co/demo",positive,2024-05-24 19:05:00
+807,Instagram,user43,"Buenísimo el video de @foodLover, 10/10 https://t.co/demo",positive,2024-06-06 10:49:00
+808,YouTube,user544,"Recomiendo a @creatorAna, contenido de calidad y muy útil y gracias a @creatorMia #promo",positive,2024-03-30 09:35:00
+809,YouTube,user370,"La promo de @canalZ está genial, ahorré bastante",positive,2024-04-14 14:52:00
+810,TikTok,user169,"Pésima experiencia con @gamerMax, no lo recomiendo",negative,2024-04-16 15:01:00
+811,Instagram,user55,"Gracias @equipoY por el apoyo, quedé feliz con todo y gracias a @noticiasTech #promo",positive,2024-05-13 03:57:00
+812,Twitter,user507,"La promo de @hogarIdeas está genial, ahorré bastante #promo",positive,2024-08-04 05:03:00
+813,TikTok,user127,"Gracias @noticiasTech por el apoyo, quedé feliz con todo",positive,2024-04-03 19:13:00
+814,Instagram,user600,"Muy decepcionado con @brandX, cero seriedad #promo",negative,2024-06-03 08:24:00
+815,Twitter,user511,Actualización de @brandX disponible https://t.co/demo,neutral,2024-07-01 20:09:00
+816,TikTok,user109,"Buenísimo el video de @brandZ, 10/10",positive,2024-05-15 09:11:00
+817,TikTok,user6,Comparando precios con @cienciaHoy #promo,neutral,2024-04-12 19:25:00
+818,Instagram,user133,Actualización de @cienciaHoy disponible y gracias a @brandY,neutral,2024-03-28 20:33:00
+819,Twitter,user391,"Gracias @creatorMia por el apoyo, quedé feliz con todo https://t.co/demo",positive,2024-03-22 07:06:00
+820,YouTube,user167,Leyendo comentarios de @noticiasTech https://t.co/demo,neutral,2024-02-27 16:45:00
+821,TikTok,user443,Viendo el directo de @fotografia ahora #promo https://t.co/demo,neutral,2024-04-17 06:49:00
+822,YouTube,user502,Actualización de @gamerMax disponible #promo,neutral,2024-04-15 12:34:00
+823,YouTube,user191,"Malo el soporte de @brandZ, aún espero respuesta",negative,2024-05-31 22:06:00
+824,YouTube,user159,"Muy decepcionado con @cienciaHoy, cero seriedad y gracias a @musicBeat #promo",negative,2024-04-05 16:18:00
+825,Instagram,user308,Actualización de @modaTrends disponible https://t.co/demo,neutral,2024-04-19 01:37:00
+826,Twitter,user565,Nuevo post de @foodLover sobre tendencias #promo,neutral,2024-05-06 19:24:00
+827,TikTok,user260,"La promo de @brandZ está genial, ahorré bastante y gracias a @hogarIdeas #promo",positive,2024-05-15 13:24:00
+828,Twitter,user47,"Recomiendo a @hogarIdeas, contenido de calidad y muy útil y gracias a @musicBeat",positive,2024-05-25 09:02:00
+829,Instagram,user350,"Qué gran atención de @brandZ, todo rápido y claro #promo",positive,2024-05-02 14:48:00
+830,Twitter,user548,Increíble servicio de @creatorAna! Me encantó la experiencia y gracias a @foodLover #promo,positive,2024-03-15 22:27:00
+831,TikTok,user499,El envío de @fotografia fue lentísimo y llegó mal,negative,2024-05-11 10:19:00
+832,Instagram,user90,Increíble servicio de @soporteX! Me encantó la experiencia https://t.co/demo,positive,2024-04-03 00:54:00
+833,YouTube,user215,"Pésima experiencia con @cienciaHoy, no lo recomiendo",negative,2024-06-17 06:30:00
+834,TikTok,user89,Probando el filtro de @creatorLuis #promo,neutral,2024-04-26 23:58:00
+835,YouTube,user456,"Muy decepcionado con @musicBeat, cero seriedad y gracias a @noticiasTech",negative,2024-05-05 01:44:00
+836,Twitter,user342,"Buenísimo el video de @hogarIdeas, 10/10",positive,2024-08-30 20:20:00
+837,TikTok,user568,"Buenísimo el video de @viajesPro, 10/10",positive,2024-05-26 16:39:00
+838,Twitter,user238,"Muy decepcionado con @cineFan, cero seriedad y gracias a @brandZ #promo",negative,2024-05-10 16:09:00
+839,YouTube,user120,El envío de @cienciaHoy fue lentísimo y llegó mal #promo https://t.co/demo,negative,2024-04-20 06:33:00
+840,TikTok,user481,"Gracias @foodLover por el apoyo, quedé feliz con todo",positive,2024-03-17 22:25:00
+841,Instagram,user480,Leyendo comentarios de @saludPlus #promo,neutral,2024-04-18 22:16:00
+842,YouTube,user369,Comparando precios con @creatorMia y gracias a @saludPlus,neutral,2024-03-28 04:24:00
+843,Instagram,user178,Increíble servicio de @gamerMax! Me encantó la experiencia,positive,2024-07-09 08:00:00
+844,Twitter,user215,Actualización de @ofertasHoy disponible #promo,neutral,2024-05-11 17:11:00
+845,Twitter,user33,"La promo de @creatorAna está genial, ahorré bastante y gracias a @devTips #promo https://t.co/demo",positive,2024-06-15 11:36:00
+846,Twitter,user364,Actualización de @fitLife disponible,neutral,2024-04-04 20:37:00
+847,Twitter,user107,Probando el filtro de @musicBeat,neutral,2024-03-30 20:50:00
+848,Twitter,user105,"No funciona lo que vende @creatorMia, una estafa y gracias a @equipoY https://t.co/demo",negative,2024-05-21 09:58:00
+849,YouTube,user453,"Pésima experiencia con @creatorAna, no lo recomiendo #promo https://t.co/demo",negative,2024-03-26 06:53:00
+850,YouTube,user450,Viendo el directo de @brandX ahora #promo https://t.co/demo,neutral,2024-04-10 05:50:00
+851,TikTok,user88,"Recomiendo a @cineFan, contenido de calidad y muy útil #promo",positive,2024-07-12 18:04:00
+852,Instagram,user432,"Buenísimo el video de @cineFan, 10/10",positive,2024-04-11 17:37:00
+853,Twitter,user371,"Qué gran atención de @brandX, todo rápido y claro https://t.co/demo",positive,2024-03-11 10:44:00
+854,Instagram,user412,Increíble servicio de @viajesPro! Me encantó la experiencia,positive,2024-03-02 01:58:00
+855,TikTok,user533,"Qué gran atención de @modaTrends, todo rápido y claro #promo",positive,2024-03-08 11:44:00
+856,TikTok,user9,Viendo el directo de @fotografia ahora #promo https://t.co/demo,neutral,2024-06-18 18:34:00
+857,TikTok,user453,Probando el filtro de @cienciaHoy https://t.co/demo,neutral,2024-04-06 18:20:00
+858,YouTube,user343,"Pésima experiencia con @saludPlus, no lo recomiendo https://t.co/demo",negative,2024-08-28 17:27:00
+859,TikTok,user566,"Pésima experiencia con @cienciaHoy, no lo recomiendo y gracias a @fitLife https://t.co/demo",negative,2024-07-02 10:22:00
+860,Twitter,user433,El envío de @ofertasHoy fue lentísimo y llegó mal #promo https://t.co/demo,negative,2024-07-27 22:13:00
+861,YouTube,user128,Increíble servicio de @saludPlus! Me encantó la experiencia,positive,2024-06-07 19:51:00
+862,Instagram,user580,"Qué gran atención de @noticiasTech, todo rápido y claro",positive,2024-05-19 12:53:00
+863,Instagram,user533,"La promo de @foodLover está genial, ahorré bastante y gracias a @ofertasHoy #promo https://t.co/demo",positive,2024-03-29 14:31:00
+864,Twitter,user422,"Gracias @cineFan por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-04-25 17:57:00
+865,YouTube,user413,Probando el filtro de @devTips,neutral,2024-05-23 16:42:00
+866,Instagram,user427,"Buenísimo el video de @creatorLuis, 10/10 #promo",positive,2024-06-04 18:03:00
+867,Instagram,user121,"No funciona lo que vende @brandY, una estafa y gracias a @devTips #promo",negative,2024-03-19 20:32:00
+868,Twitter,user419,"Recomiendo a @devTips, contenido de calidad y muy útil y gracias a @creatorLuis #promo https://t.co/demo",positive,2024-04-18 12:46:00
+869,TikTok,user311,"Pésima experiencia con @creatorLuis, no lo recomiendo #promo",negative,2024-04-22 10:24:00
+870,Instagram,user291,"Buenísimo el video de @saludPlus, 10/10 y gracias a @fitLife #promo",positive,2024-04-21 14:15:00
+871,TikTok,user493,"Ojo con @reviewGuru, publicidad engañosa",negative,2024-03-22 04:43:00
+872,YouTube,user517,Probando el filtro de @modaTrends y gracias a @reviewGuru #promo,neutral,2024-07-18 21:17:00
+873,YouTube,user420,"Recomiendo a @viajesPro, contenido de calidad y muy útil",positive,2024-04-17 09:28:00
+874,Instagram,user91,"No funciona lo que vende @devTips, una estafa",negative,2024-03-24 04:13:00
+875,Twitter,user573,"La promo de @fotografia está genial, ahorré bastante #promo",positive,2024-07-20 06:27:00
+876,Twitter,user488,"Gracias @fitLife por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-07-02 19:46:00
+877,Twitter,user455,Actualización de @fotografia disponible #promo,neutral,2024-05-01 00:47:00
+878,YouTube,user349,"La promo de @brandX está genial, ahorré bastante y gracias a @noticiasTech #promo",positive,2024-03-02 18:29:00
+879,TikTok,user173,Increíble servicio de @canalZ! Me encantó la experiencia y gracias a @musicBeat https://t.co/demo,positive,2024-04-09 11:06:00
+880,Twitter,user186,"Ojo con @noticiasTech, publicidad engañosa y gracias a @creatorLuis #promo https://t.co/demo",negative,2024-03-07 12:49:00
+881,Twitter,user124,"La promo de @fotografia está genial, ahorré bastante y gracias a @foodLover https://t.co/demo",positive,2024-05-16 03:55:00
+882,Twitter,user276,"Buenísimo el video de @fitLife, 10/10 y gracias a @brandX #promo https://t.co/demo",positive,2024-04-07 00:38:00
+883,Twitter,user276,"Qué gran atención de @fitLife, todo rápido y claro #promo",positive,2024-04-24 02:51:00
+884,Instagram,user513,Actualización de @creatorLuis disponible #promo https://t.co/demo,neutral,2024-07-14 14:27:00
+885,YouTube,user569,"La promo de @musicBeat está genial, ahorré bastante y gracias a @creatorMia #promo",positive,2024-04-04 16:27:00
+886,TikTok,user280,Actualización de @viajesPro disponible #promo,neutral,2024-05-14 09:36:00
+887,Instagram,user47,"Malo el soporte de @devTips, aún espero respuesta y gracias a @viajesPro",negative,2024-05-26 18:59:00
+888,YouTube,user287,"Recomiendo a @foodLover, contenido de calidad y muy útil",positive,2024-06-17 15:27:00
+889,Instagram,user280,El envío de @reviewGuru fue lentísimo y llegó mal y gracias a @cienciaHoy #promo,negative,2024-04-22 04:33:00
+890,YouTube,user3,"Qué gran atención de @brandX, todo rápido y claro y gracias a @devTips",positive,2024-04-18 13:24:00
+891,Twitter,user552,Leyendo comentarios de @cienciaHoy y gracias a @brandX,neutral,2024-04-17 15:11:00
+892,TikTok,user127,Comparando precios con @viajesPro #promo,neutral,2024-05-10 23:47:00
+893,Twitter,user9,"Ojo con @soporteX, publicidad engañosa y gracias a @brandX",negative,2024-06-30 12:12:00
+894,Twitter,user197,Actualización de @cienciaHoy disponible #promo,neutral,2024-04-16 12:23:00
+895,TikTok,user38,"No funciona lo que vende @hogarIdeas, una estafa #promo",negative,2024-02-17 21:47:00
+896,Twitter,user406,Comparando precios con @devTips,neutral,2024-06-01 19:18:00
+897,Instagram,user579,"Qué gran atención de @creatorLuis, todo rápido y claro y gracias a @noticiasTech",positive,2024-04-28 17:51:00
+898,Instagram,user281,Leyendo comentarios de @brandX,neutral,2024-05-16 15:29:00
+899,YouTube,user3,"Malo el soporte de @cienciaHoy, aún espero respuesta #promo",negative,2024-03-07 13:53:00
+900,Twitter,user281,"Ojo con @musicBeat, publicidad engañosa",negative,2024-04-07 07:39:00
+901,TikTok,user49,Probando el filtro de @fitLife y gracias a @viajesPro #promo https://t.co/demo,neutral,2024-05-28 19:31:00
+902,Instagram,user26,Nuevo post de @cineFan sobre tendencias #promo https://t.co/demo,neutral,2024-03-16 02:08:00
+903,Twitter,user100,"Muy decepcionado con @brandX, cero seriedad",negative,2024-05-14 08:26:00
+904,YouTube,user111,Increíble servicio de @reviewGuru! Me encantó la experiencia https://t.co/demo,positive,2024-04-24 02:29:00
+905,Twitter,user450,"Malo el soporte de @devTips, aún espero respuesta y gracias a @brandY https://t.co/demo",negative,2024-03-31 23:40:00
+906,Instagram,user67,Increíble servicio de @musicBeat! Me encantó la experiencia y gracias a @modaTrends #promo https://t.co/demo,positive,2024-03-29 01:54:00
+907,Twitter,user573,"Buenísimo el video de @viajesPro, 10/10 y gracias a @musicBeat #promo",positive,2024-03-23 22:31:00
+908,YouTube,user11,"La promo de @cineFan está genial, ahorré bastante #promo",positive,2024-04-28 00:53:00
+909,TikTok,user465,"Malo el soporte de @creatorAna, aún espero respuesta y gracias a @saludPlus #promo",negative,2024-05-02 06:36:00
+910,Instagram,user587,El envío de @canalZ fue lentísimo y llegó mal,negative,2024-04-12 08:17:00
+911,Twitter,user141,"La promo de @noticiasTech está genial, ahorré bastante",positive,2024-03-21 10:37:00
+912,Instagram,user598,"La promo de @noticiasTech está genial, ahorré bastante y gracias a @viajesPro",positive,2024-05-13 22:26:00
+913,Twitter,user149,Increíble servicio de @fitLife! Me encantó la experiencia #promo https://t.co/demo,positive,2024-06-02 06:52:00
+914,TikTok,user71,"Qué gran atención de @gamerMax, todo rápido y claro #promo",positive,2024-05-20 19:44:00
+915,TikTok,user580,El envío de @cineFan fue lentísimo y llegó mal y gracias a @gamerMax,negative,2024-07-29 16:55:00
+916,Twitter,user225,"Pésima experiencia con @hogarIdeas, no lo recomiendo #promo",negative,2024-04-19 11:18:00
+917,Instagram,user385,"Recomiendo a @brandX, contenido de calidad y muy útil y gracias a @viajesPro #promo https://t.co/demo",positive,2024-06-24 09:55:00
+918,Instagram,user451,"Malo el soporte de @ofertasHoy, aún espero respuesta #promo https://t.co/demo",negative,2024-04-03 07:28:00
+919,Instagram,user269,"Gracias @fitLife por el apoyo, quedé feliz con todo y gracias a @brandX #promo https://t.co/demo",positive,2024-03-29 03:27:00
+920,Instagram,user22,"Recomiendo a @creatorAna, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-04-30 12:42:00
+921,YouTube,user176,Nuevo post de @brandZ sobre tendencias y gracias a @creatorMia https://t.co/demo,neutral,2024-07-06 12:54:00
+922,TikTok,user384,"Pésima experiencia con @cienciaHoy, no lo recomiendo",negative,2024-04-15 18:16:00
+923,Instagram,user302,"Qué gran atención de @brandY, todo rápido y claro",positive,2024-03-07 19:56:00
+924,Instagram,user501,"No funciona lo que vende @gamerMax, una estafa #promo https://t.co/demo",negative,2024-06-01 22:01:00
+925,TikTok,user522,"Pésima experiencia con @musicBeat, no lo recomiendo y gracias a @ofertasHoy",negative,2024-04-23 16:53:00
+926,TikTok,user486,"Muy decepcionado con @cienciaHoy, cero seriedad #promo",negative,2024-05-07 15:25:00
+927,YouTube,user241,"Buenísimo el video de @cineFan, 10/10 https://t.co/demo",positive,2024-03-31 18:47:00
+928,Instagram,user87,Probando el filtro de @noticiasTech #promo https://t.co/demo,neutral,2024-04-30 17:29:00
+929,YouTube,user345,"Ojo con @cineFan, publicidad engañosa #promo https://t.co/demo",negative,2024-03-11 00:50:00
+930,YouTube,user184,Increíble servicio de @cienciaHoy! Me encantó la experiencia #promo,positive,2024-07-19 17:30:00
+931,Twitter,user560,Nuevo post de @equipoY sobre tendencias y gracias a @viajesPro #promo https://t.co/demo,neutral,2024-06-10 06:42:00
+932,TikTok,user338,"Recomiendo a @modaTrends, contenido de calidad y muy útil y gracias a @fotografia",positive,2024-04-28 18:32:00
+933,Twitter,user268,Actualización de @noticiasTech disponible #promo,neutral,2024-05-30 19:47:00
+934,YouTube,user13,"Ojo con @creatorLuis, publicidad engañosa y gracias a @equipoY #promo",negative,2024-04-03 18:51:00
+935,YouTube,user480,"Recomiendo a @brandZ, contenido de calidad y muy útil #promo",positive,2024-06-07 14:15:00
+936,YouTube,user215,Increíble servicio de @fitLife! Me encantó la experiencia https://t.co/demo,positive,2024-04-13 00:19:00
+937,TikTok,user512,"Buenísimo el video de @cineFan, 10/10 #promo",positive,2024-04-11 18:21:00
+938,TikTok,user307,"Malo el soporte de @devTips, aún espero respuesta #promo",negative,2024-03-24 11:16:00
+939,YouTube,user582,Probando el filtro de @soporteX y gracias a @cineFan #promo https://t.co/demo,neutral,2024-05-12 19:26:00
+940,TikTok,user463,"Qué gran atención de @creatorAna, todo rápido y claro #promo",positive,2024-04-26 16:40:00
+941,Instagram,user28,"Recomiendo a @viajesPro, contenido de calidad y muy útil y gracias a @noticiasTech https://t.co/demo",positive,2024-06-26 01:57:00
+942,Twitter,user378,"Buenísimo el video de @cineFan, 10/10 y gracias a @creatorAna #promo",positive,2024-03-21 02:20:00
+943,Instagram,user399,"Recomiendo a @soporteX, contenido de calidad y muy útil",positive,2024-05-12 20:36:00
+944,TikTok,user589,"No funciona lo que vende @foodLover, una estafa #promo https://t.co/demo",negative,2024-06-15 04:52:00
+945,Twitter,user457,Viendo el directo de @fotografia ahora,neutral,2024-08-29 15:42:00
+946,Twitter,user474,"No funciona lo que vende @noticiasTech, una estafa #promo",negative,2024-05-03 10:09:00
+947,Instagram,user401,"La promo de @creatorMia está genial, ahorré bastante #promo",positive,2024-04-13 06:15:00
+948,Twitter,user583,"Gracias @brandY por el apoyo, quedé feliz con todo #promo",positive,2024-05-02 18:21:00
+949,Twitter,user299,"Pésima experiencia con @saludPlus, no lo recomiendo #promo",negative,2024-06-21 04:08:00
+950,Twitter,user378,Actualización de @foodLover disponible #promo https://t.co/demo,neutral,2024-06-21 01:31:00
+951,Twitter,user474,"Qué gran atención de @hogarIdeas, todo rápido y claro #promo",positive,2024-04-21 06:38:00
+952,Twitter,user407,"Qué gran atención de @creatorAna, todo rápido y claro #promo",positive,2024-06-20 16:32:00
+953,Twitter,user473,"Gracias @modaTrends por el apoyo, quedé feliz con todo #promo",positive,2024-04-25 09:31:00
+954,Instagram,user166,Nuevo post de @fotografia sobre tendencias y gracias a @creatorAna https://t.co/demo,neutral,2024-05-30 02:38:00
+955,TikTok,user12,"Gracias @ofertasHoy por el apoyo, quedé feliz con todo y gracias a @brandY",positive,2024-05-17 15:05:00
+956,Twitter,user49,"Buenísimo el video de @noticiasTech, 10/10 y gracias a @brandX #promo https://t.co/demo",positive,2024-04-11 06:53:00
+957,TikTok,user256,Nuevo post de @soporteX sobre tendencias y gracias a @brandX https://t.co/demo,neutral,2024-03-25 06:33:00
+958,Instagram,user65,Leyendo comentarios de @creatorAna y gracias a @soporteX #promo,neutral,2024-06-16 11:09:00
+959,Instagram,user331,"Ojo con @fitLife, publicidad engañosa #promo https://t.co/demo",negative,2024-07-01 12:10:00
+960,Instagram,user332,"Recomiendo a @cienciaHoy, contenido de calidad y muy útil y gracias a @soporteX #promo https://t.co/demo",positive,2024-05-11 09:30:00
+961,Twitter,user378,"Buenísimo el video de @soporteX, 10/10 y gracias a @cienciaHoy #promo",positive,2024-04-25 18:18:00
+962,Instagram,user583,"La promo de @creatorAna está genial, ahorré bastante y gracias a @modaTrends",positive,2024-03-18 23:40:00
+963,TikTok,user137,"Recomiendo a @hogarIdeas, contenido de calidad y muy útil https://t.co/demo",positive,2024-06-15 00:36:00
+964,YouTube,user600,"Qué gran atención de @cienciaHoy, todo rápido y claro y gracias a @devTips https://t.co/demo",positive,2024-05-06 00:43:00
+965,TikTok,user128,"Gracias @cineFan por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-04-16 10:07:00
+966,Instagram,user207,Increíble servicio de @cienciaHoy! Me encantó la experiencia y gracias a @fotografia,positive,2024-05-31 11:13:00
+967,TikTok,user138,"La promo de @brandY está genial, ahorré bastante #promo",positive,2024-03-13 00:48:00
+968,TikTok,user235,"La promo de @soporteX está genial, ahorré bastante y gracias a @hogarIdeas",positive,2024-03-23 23:45:00
+969,YouTube,user228,"Ojo con @creatorMia, publicidad engañosa #promo",negative,2024-04-02 06:34:00
+970,Instagram,user54,Nuevo post de @creatorLuis sobre tendencias y gracias a @devTips,neutral,2024-05-16 08:03:00
+971,Twitter,user520,"Recomiendo a @musicBeat, contenido de calidad y muy útil y gracias a @soporteX #promo https://t.co/demo",positive,2024-05-02 08:29:00
+972,TikTok,user311,"Pésima experiencia con @cienciaHoy, no lo recomiendo y gracias a @gamerMax #promo",negative,2024-05-21 13:35:00
+973,Instagram,user387,"Muy decepcionado con @cineFan, cero seriedad #promo https://t.co/demo",negative,2024-06-11 16:27:00
+974,YouTube,user21,"Recomiendo a @brandZ, contenido de calidad y muy útil #promo",positive,2024-05-22 08:46:00
+975,YouTube,user390,"Buenísimo el video de @noticiasTech, 10/10 #promo https://t.co/demo",positive,2024-07-21 16:01:00
+976,Instagram,user201,Nuevo post de @brandX sobre tendencias https://t.co/demo,neutral,2024-06-11 13:48:00
+977,YouTube,user426,Probando el filtro de @ofertasHoy,neutral,2024-04-21 13:57:00
+978,Twitter,user40,"Gracias @devTips por el apoyo, quedé feliz con todo y gracias a @cineFan",positive,2024-04-07 11:53:00
+979,YouTube,user522,"No funciona lo que vende @ofertasHoy, una estafa y gracias a @cineFan",negative,2024-04-22 08:16:00
+980,Twitter,user490,Leyendo comentarios de @ofertasHoy #promo,neutral,2024-05-24 05:02:00
+981,YouTube,user268,Actualización de @creatorLuis disponible y gracias a @fotografia,neutral,2024-04-10 00:25:00
+982,Twitter,user120,"Ojo con @viajesPro, publicidad engañosa https://t.co/demo",negative,2024-05-25 06:26:00
+983,Instagram,user434,Leyendo comentarios de @canalZ y gracias a @devTips https://t.co/demo,neutral,2024-05-20 10:30:00
+984,Twitter,user422,"Recomiendo a @devTips, contenido de calidad y muy útil #promo https://t.co/demo",positive,2024-03-25 13:35:00
+985,Twitter,user316,Nuevo post de @gamerMax sobre tendencias y gracias a @saludPlus #promo,neutral,2024-06-10 09:50:00
+986,Instagram,user442,"Qué gran atención de @creatorMia, todo rápido y claro y gracias a @foodLover #promo",positive,2024-05-10 15:22:00
+987,Instagram,user581,"Qué gran atención de @brandY, todo rápido y claro y gracias a @equipoY #promo",positive,2024-07-17 13:57:00
+988,Twitter,user452,Nuevo post de @creatorMia sobre tendencias y gracias a @cineFan #promo https://t.co/demo,neutral,2024-04-25 01:00:00
+989,Instagram,user600,"Malo el soporte de @modaTrends, aún espero respuesta y gracias a @canalZ https://t.co/demo",negative,2024-04-15 19:52:00
+990,Twitter,user43,"Buenísimo el video de @brandX, 10/10",positive,2024-03-21 16:35:00
+991,TikTok,user485,El envío de @reviewGuru fue lentísimo y llegó mal #promo https://t.co/demo,negative,2024-03-21 08:10:00
+992,YouTube,user370,"Recomiendo a @brandY, contenido de calidad y muy útil https://t.co/demo",positive,2024-06-04 23:50:00
+993,Instagram,user412,"La promo de @creatorAna está genial, ahorré bastante y gracias a @saludPlus https://t.co/demo",positive,2024-07-11 15:25:00
+994,YouTube,user487,"No funciona lo que vende @brandX, una estafa https://t.co/demo",negative,2024-04-22 12:17:00
+995,TikTok,user47,"Muy decepcionado con @equipoY, cero seriedad",negative,2024-04-19 11:53:00
+996,YouTube,user439,Nuevo post de @hogarIdeas sobre tendencias #promo https://t.co/demo,neutral,2024-04-28 04:53:00
+997,Twitter,user533,"Recomiendo a @brandZ, contenido de calidad y muy útil",positive,2024-06-13 15:56:00
+998,YouTube,user173,Leyendo comentarios de @gamerMax #promo https://t.co/demo,neutral,2024-03-25 22:31:00
+999,Twitter,user92,Increíble servicio de @hogarIdeas! Me encantó la experiencia y gracias a @reviewGuru,positive,2024-05-05 07:31:00
+1000,YouTube,user264,Nuevo post de @modaTrends sobre tendencias,neutral,2024-06-05 16:47:00
+1001,TikTok,user93,Comparando precios con @devTips y gracias a @reviewGuru #promo,neutral,2024-05-15 13:01:00
+1002,YouTube,user576,Actualización de @equipoY disponible y gracias a @brandZ #promo https://t.co/demo,neutral,2024-02-11 20:12:00
+1003,Twitter,user193,El envío de @creatorLuis fue lentísimo y llegó mal https://t.co/demo,negative,2024-05-23 02:06:00
+1004,Instagram,user549,Actualización de @cineFan disponible,neutral,2024-05-16 04:18:00
+1005,Instagram,user533,"La promo de @brandX está genial, ahorré bastante #promo",positive,2024-06-24 10:07:00
+1006,YouTube,user225,"Muy decepcionado con @creatorLuis, cero seriedad y gracias a @hogarIdeas",negative,2024-07-06 01:10:00
+1007,TikTok,user328,"Malo el soporte de @hogarIdeas, aún espero respuesta y gracias a @saludPlus",negative,2024-06-21 07:21:00
+1008,TikTok,user507,"Malo el soporte de @viajesPro, aún espero respuesta #promo",negative,2024-04-28 07:11:00
+1009,Twitter,user231,Probando el filtro de @creatorMia #promo,neutral,2024-03-06 05:26:00
+1010,YouTube,user23,"Buenísimo el video de @modaTrends, 10/10 https://t.co/demo",positive,2024-08-05 18:01:00
+1011,TikTok,user290,"No funciona lo que vende @soporteX, una estafa #promo https://t.co/demo",negative,2024-04-19 19:48:00
+1012,TikTok,user56,"Muy decepcionado con @creatorMia, cero seriedad y gracias a @saludPlus #promo",negative,2024-04-27 07:09:00
+1013,Instagram,user224,El envío de @brandX fue lentísimo y llegó mal,negative,2024-07-10 05:02:00
+1014,YouTube,user386,"Malo el soporte de @creatorMia, aún espero respuesta y gracias a @foodLover #promo https://t.co/demo",negative,2024-03-31 17:35:00
+1015,YouTube,user347,Leyendo comentarios de @cienciaHoy #promo https://t.co/demo,neutral,2024-03-14 16:40:00
+1016,Instagram,user310,"No funciona lo que vende @viajesPro, una estafa https://t.co/demo",negative,2024-04-10 15:49:00
+1017,TikTok,user392,El envío de @musicBeat fue lentísimo y llegó mal y gracias a @creatorAna #promo,negative,2024-04-02 22:49:00
+1018,Instagram,user522,"La promo de @devTips está genial, ahorré bastante https://t.co/demo",positive,2024-03-12 20:14:00
+1019,YouTube,user186,"No funciona lo que vende @cienciaHoy, una estafa https://t.co/demo",negative,2024-04-22 02:10:00
+1020,Instagram,user551,Increíble servicio de @hogarIdeas! Me encantó la experiencia,positive,2024-04-29 18:05:00
+1021,Twitter,user501,"Muy decepcionado con @devTips, cero seriedad https://t.co/demo",negative,2024-03-10 07:04:00
+1022,Instagram,user121,Viendo el directo de @hogarIdeas ahora y gracias a @musicBeat https://t.co/demo,neutral,2024-04-14 04:23:00
+1023,Instagram,user589,"Muy decepcionado con @brandZ, cero seriedad y gracias a @brandY #promo https://t.co/demo",negative,2024-03-31 10:11:00
+1024,Instagram,user373,Increíble servicio de @modaTrends! Me encantó la experiencia y gracias a @brandY,positive,2024-02-29 10:00:00
+1025,YouTube,user547,"Qué gran atención de @gamerMax, todo rápido y claro y gracias a @ofertasHoy",positive,2024-04-30 23:28:00
+1026,Twitter,user102,"Gracias @soporteX por el apoyo, quedé feliz con todo y gracias a @equipoY",positive,2024-05-04 07:22:00
+1027,TikTok,user368,"Buenísimo el video de @fotografia, 10/10 y gracias a @canalZ #promo",positive,2024-03-31 05:34:00
+1028,YouTube,user410,"Qué gran atención de @canalZ, todo rápido y claro",positive,2024-06-09 02:24:00
+1029,Instagram,user276,"No funciona lo que vende @devTips, una estafa https://t.co/demo",negative,2024-04-26 05:14:00
+1030,YouTube,user324,"Gracias @fotografia por el apoyo, quedé feliz con todo y gracias a @creatorAna",positive,2024-04-01 13:53:00
+1031,TikTok,user68,El envío de @ofertasHoy fue lentísimo y llegó mal #promo,negative,2024-03-09 09:20:00
+1032,Twitter,user11,"Buenísimo el video de @equipoY, 10/10 https://t.co/demo",positive,2024-05-06 17:58:00
+1033,YouTube,user314,"Qué gran atención de @ofertasHoy, todo rápido y claro #promo https://t.co/demo",positive,2024-05-16 03:22:00
+1034,Instagram,user50,"Gracias @viajesPro por el apoyo, quedé feliz con todo y gracias a @hogarIdeas",positive,2024-04-08 20:17:00
+1035,YouTube,user413,"Malo el soporte de @canalZ, aún espero respuesta",negative,2024-05-01 04:52:00
+1036,TikTok,user388,"Qué gran atención de @saludPlus, todo rápido y claro https://t.co/demo",positive,2024-07-06 20:46:00
+1037,YouTube,user429,"Buenísimo el video de @ofertasHoy, 10/10 #promo",positive,2024-06-01 07:48:00
+1038,Twitter,user313,Actualización de @cineFan disponible https://t.co/demo,neutral,2024-02-22 08:11:00
+1039,Instagram,user96,"No funciona lo que vende @brandZ, una estafa y gracias a @foodLover https://t.co/demo",negative,2024-04-01 14:28:00
+1040,Instagram,user521,"No funciona lo que vende @foodLover, una estafa",negative,2024-04-21 13:50:00
+1041,Instagram,user15,Nuevo post de @saludPlus sobre tendencias,neutral,2024-04-28 08:20:00
+1042,Twitter,user541,"No funciona lo que vende @creatorMia, una estafa",negative,2024-05-02 05:58:00
+1043,TikTok,user77,Actualización de @foodLover disponible #promo https://t.co/demo,neutral,2024-05-13 12:44:00
+1044,TikTok,user116,Comparando precios con @equipoY https://t.co/demo,neutral,2024-04-22 16:29:00
+1045,TikTok,user301,"Qué gran atención de @saludPlus, todo rápido y claro #promo https://t.co/demo",positive,2024-04-26 21:56:00
+1046,Twitter,user528,Probando el filtro de @fotografia y gracias a @brandX https://t.co/demo,neutral,2024-06-04 12:04:00
+1047,Twitter,user110,"Gracias @saludPlus por el apoyo, quedé feliz con todo #promo",positive,2024-05-07 06:44:00
+1048,Instagram,user87,Increíble servicio de @gamerMax! Me encantó la experiencia y gracias a @hogarIdeas #promo,positive,2024-03-19 12:46:00
+1049,TikTok,user307,"La promo de @creatorMia está genial, ahorré bastante #promo",positive,2024-04-30 14:59:00
+1050,Instagram,user166,Increíble servicio de @cineFan! Me encantó la experiencia https://t.co/demo,positive,2024-04-21 06:28:00
+1051,Twitter,user292,"Qué gran atención de @cineFan, todo rápido y claro y gracias a @brandY #promo https://t.co/demo",positive,2024-02-29 16:21:00
+1052,Twitter,user273,"Buenísimo el video de @fitLife, 10/10 https://t.co/demo",positive,2024-05-02 13:38:00
+1053,YouTube,user514,Increíble servicio de @creatorAna! Me encantó la experiencia y gracias a @viajesPro,positive,2024-03-22 08:04:00
+1054,TikTok,user54,"Qué gran atención de @fotografia, todo rápido y claro y gracias a @gamerMax #promo",positive,2024-06-05 14:38:00
+1055,Instagram,user254,"Pésima experiencia con @creatorMia, no lo recomiendo y gracias a @creatorAna",negative,2024-05-12 08:26:00
+1056,Instagram,user440,"No funciona lo que vende @creatorAna, una estafa https://t.co/demo",negative,2024-03-17 20:10:00
+1057,Instagram,user153,Increíble servicio de @viajesPro! Me encantó la experiencia y gracias a @soporteX,positive,2024-06-02 21:02:00
+1058,Twitter,user205,Probando el filtro de @viajesPro,neutral,2024-06-25 07:34:00
+1059,YouTube,user345,"Ojo con @foodLover, publicidad engañosa #promo https://t.co/demo",negative,2024-04-16 09:34:00
+1060,YouTube,user360,"Gracias @brandY por el apoyo, quedé feliz con todo y gracias a @brandZ https://t.co/demo",positive,2024-04-21 09:44:00
+1061,TikTok,user484,Probando el filtro de @creatorAna y gracias a @foodLover #promo https://t.co/demo,neutral,2024-05-28 03:18:00
+1062,Instagram,user14,"Recomiendo a @saludPlus, contenido de calidad y muy útil",positive,2024-06-20 08:07:00
+1063,Instagram,user283,"Malo el soporte de @brandZ, aún espero respuesta y gracias a @cienciaHoy #promo",negative,2024-03-05 22:20:00
+1064,Instagram,user196,"Malo el soporte de @creatorAna, aún espero respuesta https://t.co/demo",negative,2024-03-20 16:11:00
+1065,Instagram,user207,"Buenísimo el video de @soporteX, 10/10 #promo",positive,2024-04-11 19:07:00
+1066,TikTok,user356,Increíble servicio de @hogarIdeas! Me encantó la experiencia #promo,positive,2024-04-14 17:11:00
+1067,Instagram,user23,"Pésima experiencia con @hogarIdeas, no lo recomiendo y gracias a @devTips #promo",negative,2024-05-27 06:29:00
+1068,YouTube,user408,"Malo el soporte de @foodLover, aún espero respuesta y gracias a @fitLife #promo",negative,2024-06-21 13:40:00
+1069,Instagram,user279,"La promo de @creatorMia está genial, ahorré bastante y gracias a @saludPlus #promo",positive,2024-06-25 17:30:00
+1070,TikTok,user467,"Recomiendo a @equipoY, contenido de calidad y muy útil https://t.co/demo",positive,2024-03-04 01:33:00
+1071,Instagram,user547,"Gracias @cienciaHoy por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-03-29 01:45:00
+1072,Instagram,user255,"No funciona lo que vende @brandX, una estafa y gracias a @cienciaHoy https://t.co/demo",negative,2024-03-16 18:44:00
+1073,Instagram,user271,"Recomiendo a @fotografia, contenido de calidad y muy útil y gracias a @brandY https://t.co/demo",positive,2024-04-05 12:08:00
+1074,TikTok,user225,"La promo de @brandX está genial, ahorré bastante",positive,2024-03-29 19:54:00
+1075,YouTube,user109,Leyendo comentarios de @canalZ,neutral,2024-05-12 07:31:00
+1076,TikTok,user333,"Buenísimo el video de @cienciaHoy, 10/10 y gracias a @equipoY",positive,2024-05-17 05:03:00
+1077,Twitter,user491,"Pésima experiencia con @musicBeat, no lo recomiendo #promo",negative,2024-04-26 06:09:00
+1078,Twitter,user289,"Buenísimo el video de @creatorMia, 10/10 #promo https://t.co/demo",positive,2024-04-22 14:33:00
+1079,YouTube,user252,Nuevo post de @viajesPro sobre tendencias #promo,neutral,2024-04-12 00:24:00
+1080,YouTube,user103,Increíble servicio de @creatorAna! Me encantó la experiencia https://t.co/demo,positive,2024-04-16 08:28:00
+1081,TikTok,user86,"La promo de @cienciaHoy está genial, ahorré bastante y gracias a @brandX https://t.co/demo",positive,2024-07-05 11:33:00
+1082,Instagram,user88,"Buenísimo el video de @devTips, 10/10 #promo",positive,2024-05-23 08:19:00
+1083,TikTok,user58,"Malo el soporte de @creatorAna, aún espero respuesta #promo https://t.co/demo",negative,2024-04-13 17:27:00
+1084,Instagram,user426,Increíble servicio de @equipoY! Me encantó la experiencia y gracias a @cineFan #promo,positive,2024-04-22 07:42:00
+1085,Twitter,user394,"Pésima experiencia con @creatorAna, no lo recomiendo y gracias a @reviewGuru #promo",negative,2024-05-13 04:02:00
+1086,Twitter,user370,Viendo el directo de @fotografia ahora y gracias a @foodLover #promo https://t.co/demo,neutral,2024-03-17 14:30:00
+1087,TikTok,user154,El envío de @noticiasTech fue lentísimo y llegó mal #promo,negative,2024-05-01 12:35:00
+1088,Twitter,user272,Leyendo comentarios de @creatorLuis y gracias a @creatorMia #promo,neutral,2024-05-21 16:19:00
+1089,Twitter,user69,El envío de @saludPlus fue lentísimo y llegó mal y gracias a @reviewGuru https://t.co/demo,negative,2024-05-15 13:08:00
+1090,TikTok,user362,"No funciona lo que vende @gamerMax, una estafa",negative,2024-03-30 04:43:00
+1091,YouTube,user252,"La promo de @gamerMax está genial, ahorré bastante",positive,2024-04-04 13:07:00
+1092,YouTube,user86,"No funciona lo que vende @hogarIdeas, una estafa y gracias a @brandZ #promo https://t.co/demo",negative,2024-02-26 00:35:00
+1093,YouTube,user372,Nuevo post de @creatorAna sobre tendencias #promo,neutral,2024-05-26 04:45:00
+1094,YouTube,user302,"Buenísimo el video de @fitLife, 10/10 y gracias a @equipoY #promo https://t.co/demo",positive,2024-07-30 23:44:00
+1095,YouTube,user147,"Ojo con @hogarIdeas, publicidad engañosa",negative,2024-03-25 02:31:00
+1096,Instagram,user489,"Gracias @ofertasHoy por el apoyo, quedé feliz con todo y gracias a @brandZ #promo",positive,2024-06-11 14:12:00
+1097,Instagram,user154,"No funciona lo que vende @creatorLuis, una estafa",negative,2024-07-24 11:30:00
+1098,Twitter,user455,Increíble servicio de @creatorLuis! Me encantó la experiencia #promo,positive,2024-04-09 17:10:00
+1099,Twitter,user165,"Qué gran atención de @cineFan, todo rápido y claro #promo",positive,2024-04-22 08:48:00
+1100,TikTok,user586,"Pésima experiencia con @cineFan, no lo recomiendo y gracias a @brandZ",negative,2024-05-05 04:16:00
+1101,YouTube,user217,"Ojo con @equipoY, publicidad engañosa y gracias a @devTips https://t.co/demo",negative,2024-05-14 23:38:00
+1102,YouTube,user480,"Buenísimo el video de @cienciaHoy, 10/10 #promo",positive,2024-05-07 22:04:00
+1103,Instagram,user435,Increíble servicio de @creatorAna! Me encantó la experiencia https://t.co/demo,positive,2024-04-11 08:10:00
+1104,Instagram,user289,"Pésima experiencia con @brandZ, no lo recomiendo https://t.co/demo",negative,2024-05-20 18:49:00
+1105,Twitter,user207,"La promo de @brandZ está genial, ahorré bastante",positive,2024-04-12 01:33:00
+1106,TikTok,user50,Increíble servicio de @noticiasTech! Me encantó la experiencia,positive,2024-05-10 17:04:00
+1107,TikTok,user200,Actualización de @saludPlus disponible https://t.co/demo,neutral,2024-04-24 13:54:00
+1108,Twitter,user516,"Malo el soporte de @creatorLuis, aún espero respuesta #promo",negative,2024-03-02 01:16:00
+1109,Instagram,user298,Increíble servicio de @musicBeat! Me encantó la experiencia #promo,positive,2024-06-18 07:21:00
+1110,Instagram,user145,Comparando precios con @foodLover,neutral,2024-04-05 11:39:00
+1111,Instagram,user459,"La promo de @ofertasHoy está genial, ahorré bastante #promo",positive,2024-06-24 23:18:00
+1112,Instagram,user397,"La promo de @fotografia está genial, ahorré bastante y gracias a @creatorLuis",positive,2024-06-09 03:19:00
+1113,Instagram,user16,Comparando precios con @noticiasTech,neutral,2024-05-04 17:01:00
+1114,YouTube,user97,"Gracias @noticiasTech por el apoyo, quedé feliz con todo y gracias a @fotografia #promo https://t.co/demo",positive,2024-05-16 06:06:00
+1115,TikTok,user472,Probando el filtro de @canalZ #promo https://t.co/demo,neutral,2024-05-21 19:24:00
+1116,Twitter,user500,"Buenísimo el video de @noticiasTech, 10/10",positive,2024-04-18 15:02:00
+1117,TikTok,user376,"Buenísimo el video de @modaTrends, 10/10 #promo",positive,2024-04-20 23:17:00
+1118,Twitter,user44,"No funciona lo que vende @equipoY, una estafa #promo",negative,2024-05-19 09:55:00
+1119,Instagram,user385,"Pésima experiencia con @brandZ, no lo recomiendo #promo https://t.co/demo",negative,2024-04-25 15:54:00
+1120,YouTube,user480,"Qué gran atención de @creatorMia, todo rápido y claro y gracias a @cineFan https://t.co/demo",positive,2024-04-12 11:13:00
+1121,TikTok,user67,"Buenísimo el video de @fotografia, 10/10 y gracias a @gamerMax #promo",positive,2024-03-30 18:36:00
+1122,YouTube,user160,"Recomiendo a @soporteX, contenido de calidad y muy útil",positive,2024-05-11 02:07:00
+1123,YouTube,user371,Nuevo post de @soporteX sobre tendencias y gracias a @brandX,neutral,2024-04-04 09:12:00
+1124,Instagram,user259,"Recomiendo a @brandZ, contenido de calidad y muy útil #promo",positive,2024-05-31 14:19:00
+1125,Instagram,user538,"Pésima experiencia con @canalZ, no lo recomiendo #promo",negative,2024-06-04 11:40:00
+1126,Instagram,user305,"Buenísimo el video de @cineFan, 10/10 https://t.co/demo",positive,2024-05-16 23:46:00
+1127,TikTok,user448,Probando el filtro de @devTips,neutral,2024-05-25 06:46:00
+1128,Instagram,user80,"Qué gran atención de @saludPlus, todo rápido y claro https://t.co/demo",positive,2024-05-16 15:39:00
+1129,YouTube,user152,Leyendo comentarios de @creatorAna https://t.co/demo,neutral,2024-05-28 15:22:00
+1130,YouTube,user129,"Malo el soporte de @devTips, aún espero respuesta y gracias a @soporteX #promo",negative,2024-05-26 05:40:00
+1131,Instagram,user387,"Qué gran atención de @soporteX, todo rápido y claro #promo",positive,2024-05-09 00:33:00
+1132,TikTok,user310,"No funciona lo que vende @creatorAna, una estafa",negative,2024-06-09 12:00:00
+1133,YouTube,user361,"Malo el soporte de @reviewGuru, aún espero respuesta #promo https://t.co/demo",negative,2024-04-20 18:52:00
+1134,YouTube,user167,"Qué gran atención de @modaTrends, todo rápido y claro",positive,2024-03-31 03:23:00
+1135,Twitter,user90,"La promo de @brandX está genial, ahorré bastante #promo",positive,2024-03-29 21:17:00
+1136,Twitter,user558,"Muy decepcionado con @foodLover, cero seriedad",negative,2024-04-14 07:13:00
+1137,YouTube,user229,"Pésima experiencia con @creatorAna, no lo recomiendo https://t.co/demo",negative,2024-02-28 15:50:00
+1138,YouTube,user423,"Gracias @ofertasHoy por el apoyo, quedé feliz con todo #promo",positive,2024-05-04 10:29:00
+1139,Instagram,user425,Increíble servicio de @cineFan! Me encantó la experiencia y gracias a @creatorLuis,positive,2024-05-22 17:42:00
+1140,TikTok,user326,"Buenísimo el video de @devTips, 10/10 y gracias a @viajesPro #promo",positive,2024-06-03 01:45:00
+1141,YouTube,user592,"Buenísimo el video de @cienciaHoy, 10/10 #promo",positive,2024-03-06 17:39:00
+1142,YouTube,user163,"Gracias @hogarIdeas por el apoyo, quedé feliz con todo",positive,2024-03-30 21:24:00
+1143,Instagram,user267,Nuevo post de @soporteX sobre tendencias y gracias a @musicBeat #promo,neutral,2024-05-29 05:13:00
+1144,Twitter,user29,"No funciona lo que vende @brandX, una estafa",negative,2024-04-18 12:13:00
+1145,Instagram,user192,El envío de @equipoY fue lentísimo y llegó mal y gracias a @canalZ,negative,2024-05-21 12:54:00
+1146,Twitter,user267,"Qué gran atención de @creatorLuis, todo rápido y claro y gracias a @fotografia https://t.co/demo",positive,2024-03-16 20:20:00
+1147,Twitter,user126,"Gracias @canalZ por el apoyo, quedé feliz con todo y gracias a @foodLover",positive,2024-06-23 07:05:00
+1148,Twitter,user401,"Ojo con @brandX, publicidad engañosa y gracias a @modaTrends #promo",negative,2024-03-14 12:48:00
+1149,YouTube,user322,Actualización de @creatorMia disponible y gracias a @soporteX,neutral,2024-02-05 01:04:00
+1150,TikTok,user121,Comparando precios con @gamerMax #promo,neutral,2024-05-02 08:41:00
+1151,Instagram,user125,"Malo el soporte de @fitLife, aún espero respuesta https://t.co/demo",negative,2024-05-03 12:27:00
+1152,Instagram,user118,"Gracias @creatorLuis por el apoyo, quedé feliz con todo y gracias a @saludPlus https://t.co/demo",positive,2024-04-08 16:26:00
+1153,Twitter,user205,"Qué gran atención de @fitLife, todo rápido y claro y gracias a @gamerMax #promo",positive,2024-05-14 06:35:00
+1154,Instagram,user257,"Recomiendo a @hogarIdeas, contenido de calidad y muy útil #promo",positive,2024-05-15 20:03:00
+1155,Instagram,user320,Probando el filtro de @saludPlus #promo,neutral,2024-05-11 09:16:00
+1156,Twitter,user327,"Pésima experiencia con @cineFan, no lo recomiendo #promo",negative,2024-04-08 02:11:00
+1157,Instagram,user461,Actualización de @foodLover disponible #promo,neutral,2024-04-01 22:01:00
+1158,TikTok,user544,"Gracias @creatorAna por el apoyo, quedé feliz con todo #promo https://t.co/demo",positive,2024-04-11 08:22:00
+1159,Instagram,user75,"Pésima experiencia con @ofertasHoy, no lo recomiendo #promo https://t.co/demo",negative,2024-03-28 00:22:00
+1160,Instagram,user337,"Pésima experiencia con @reviewGuru, no lo recomiendo #promo",negative,2024-06-12 17:59:00
+1161,Twitter,user223,"Muy decepcionado con @hogarIdeas, cero seriedad",negative,2024-04-14 19:35:00
+1162,YouTube,user432,"Gracias @reviewGuru por el apoyo, quedé feliz con todo y gracias a @foodLover #promo",positive,2024-05-01 14:22:00
+1163,Twitter,user123,El envío de @fotografia fue lentísimo y llegó mal #promo https://t.co/demo,negative,2024-05-29 00:36:00
+1164,Twitter,user590,Viendo el directo de @noticiasTech ahora #promo,neutral,2024-03-27 18:00:00
+1165,TikTok,user41,"Ojo con @brandZ, publicidad engañosa y gracias a @musicBeat https://t.co/demo",negative,2024-03-13 11:48:00
+1166,Twitter,user410,"Ojo con @reviewGuru, publicidad engañosa #promo",negative,2024-03-29 15:30:00
+1167,Twitter,user506,Nuevo post de @fotografia sobre tendencias y gracias a @brandY https://t.co/demo,neutral,2024-05-06 11:01:00
+1168,Instagram,user447,"Qué gran atención de @soporteX, todo rápido y claro #promo",positive,2024-05-03 00:10:00
+1169,TikTok,user54,Nuevo post de @brandY sobre tendencias y gracias a @reviewGuru #promo https://t.co/demo,neutral,2024-05-11 20:54:00
+1170,TikTok,user389,"Muy decepcionado con @creatorLuis, cero seriedad #promo",negative,2024-04-22 19:56:00
+1171,YouTube,user424,"Muy decepcionado con @foodLover, cero seriedad y gracias a @gamerMax",negative,2024-02-16 10:59:00
+1172,Instagram,user495,"Qué gran atención de @noticiasTech, todo rápido y claro y gracias a @devTips https://t.co/demo",positive,2024-04-21 22:05:00
+1173,Twitter,user211,Increíble servicio de @gamerMax! Me encantó la experiencia y gracias a @hogarIdeas #promo,positive,2024-06-04 06:24:00
+1174,Twitter,user500,"La promo de @devTips está genial, ahorré bastante #promo",positive,2024-06-17 15:29:00
+1175,Twitter,user158,Actualización de @equipoY disponible #promo,neutral,2024-04-29 06:55:00
+1176,Instagram,user410,"Gracias @cineFan por el apoyo, quedé feliz con todo",positive,2024-05-03 03:29:00
+1177,YouTube,user151,Nuevo post de @saludPlus sobre tendencias y gracias a @musicBeat #promo https://t.co/demo,neutral,2024-05-20 22:35:00
+1178,YouTube,user544,"La promo de @creatorAna está genial, ahorré bastante y gracias a @musicBeat #promo https://t.co/demo",positive,2024-06-15 14:42:00
+1179,TikTok,user521,"Recomiendo a @canalZ, contenido de calidad y muy útil y gracias a @modaTrends #promo",positive,2024-04-26 06:37:00
+1180,Instagram,user302,"Recomiendo a @fotografia, contenido de calidad y muy útil #promo",positive,2024-05-19 23:15:00
+1181,Instagram,user52,Nuevo post de @equipoY sobre tendencias y gracias a @brandY https://t.co/demo,neutral,2024-04-06 18:09:00
+1182,TikTok,user104,"Qué gran atención de @fotografia, todo rápido y claro #promo https://t.co/demo",positive,2024-03-17 23:36:00
+1183,YouTube,user275,"Recomiendo a @soporteX, contenido de calidad y muy útil https://t.co/demo",positive,2024-04-09 00:06:00
+1184,Instagram,user97,"Muy decepcionado con @hogarIdeas, cero seriedad #promo",negative,2024-06-28 08:08:00
+1185,TikTok,user175,"Pésima experiencia con @creatorMia, no lo recomiendo y gracias a @gamerMax #promo https://t.co/demo",negative,2024-05-20 16:11:00
+1186,TikTok,user439,Increíble servicio de @canalZ! Me encantó la experiencia y gracias a @brandX,positive,2024-03-19 19:54:00
+1187,YouTube,user2,Nuevo post de @gamerMax sobre tendencias y gracias a @brandX,neutral,2024-05-22 07:47:00
+1188,Instagram,user538,Nuevo post de @creatorAna sobre tendencias y gracias a @ofertasHoy #promo,neutral,2024-03-21 18:37:00
+1189,YouTube,user264,Increíble servicio de @musicBeat! Me encantó la experiencia #promo https://t.co/demo,positive,2024-05-10 17:40:00
+1190,Twitter,user496,"Qué gran atención de @foodLover, todo rápido y claro #promo",positive,2024-03-26 07:31:00
+1191,TikTok,user146,"Muy decepcionado con @equipoY, cero seriedad https://t.co/demo",negative,2024-03-18 03:02:00
+1192,YouTube,user199,"No funciona lo que vende @canalZ, una estafa",negative,2024-07-07 17:59:00
+1193,TikTok,user180,Actualización de @ofertasHoy disponible #promo,neutral,2024-04-14 10:33:00
+1194,Twitter,user196,El envío de @hogarIdeas fue lentísimo y llegó mal #promo,negative,2024-05-19 19:20:00
+1195,TikTok,user356,"Buenísimo el video de @brandX, 10/10 #promo",positive,2024-04-27 17:51:00
+1196,Instagram,user297,Increíble servicio de @noticiasTech! Me encantó la experiencia #promo https://t.co/demo,positive,2024-03-23 09:39:00
+1197,Twitter,user127,"Ojo con @brandX, publicidad engañosa https://t.co/demo",negative,2024-04-17 04:42:00
+1198,TikTok,user359,Leyendo comentarios de @foodLover,neutral,2024-03-23 09:14:00
+1199,Instagram,user147,"Recomiendo a @brandZ, contenido de calidad y muy útil y gracias a @foodLover https://t.co/demo",positive,2024-08-19 23:09:00
+1200,YouTube,user396,"Recomiendo a @creatorAna, contenido de calidad y muy útil https://t.co/demo",positive,2024-05-27 14:52:00
