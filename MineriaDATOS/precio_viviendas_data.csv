@@ -1,0 +1,2201 @@
+Distrito,Area_m2,Habitaciones,Banos,Antiguedad_anos,Piso,Tiene_Cochera,Precio_USD
+Pueblo Libre,115.0,4,4,13,10,Si,242112
+San Miguel,104.7,5,4,35,8,No,161238
+Magdalena,147.8,4,3,34,6,No,286570
+San Isidro,28.0,4,3,43,15,Si,110847
+Barranco,129.9,5,4,24,2,Si,320971
+San Miguel,75.9,5,5,18,10,Si,169358
+Miraflores,75.2,2,1,44,2,No,184673
+San Miguel,51.1,2,1,19,5,Si,93003
+Magdalena,28.0,2,1,7,6,Si,62376
+Surco,71.6,2,2,43,13,Si,112013
+Barranco,60.9,4,4,18,11,Si,162787
+Barranco,102.3,1,1,18,6,Si,217243
+San Isidro,33.5,1,1,34,13,Si,112260
+Surco,135.1,2,2,16,1,Si,283553
+Surco,94.5,4,3,39,11,Si,171091
+Pueblo Libre,76.3,2,2,38,2,Si,123405
+Lince,60.2,4,3,8,5,Si,106857
+Magdalena,57.4,1,1,21,15,Si,45000
+Pueblo Libre,45.4,3,3,3,3,Si,139040
+Lince,65.9,2,2,29,2,Si,145756
+San Isidro,85.2,2,2,18,2,Si,211344
+San Isidro,78.8,2,2,12,12,Si,222825
+Pueblo Libre,35.5,2,2,1,7,No,74427
+Miraflores,75.7,5,4,30,1,No,191698
+Miraflores,53.7,4,4,2,7,No,144248
+Surco,90.6,3,3,16,7,Si,192204
+Surco,150.3,4,4,23,2,No,300353
+San Miguel,106.9,5,5,35,5,No,164454
+Pueblo Libre,74.0,1,1,14,7,No,120564
+Surco,28.1,1,1,22,6,No,45000
+Surco,35.5,1,1,34,9,Si,45000
+San Isidro,28.0,1,1,41,2,Si,61375
+Miraflores,110.4,2,1,37,7,Si,239443
+San Isidro,58.2,5,5,24,7,Si,234654
+Magdalena,87.2,1,1,7,13,Si,137232
+San Isidro,63.2,1,1,38,12,Si,165227
+Surco,88.2,2,1,35,11,No,164667
+Miraflores,134.1,1,1,19,8,No,345192
+San Miguel,61.0,4,4,32,13,No,108276
+San Isidro,73.1,3,2,30,2,Si,241482
+Barranco,56.8,4,3,6,11,No,129069
+San Miguel,115.6,2,2,12,13,No,185357
+Surco,49.1,5,4,38,12,Si,124198
+San Miguel,45.3,1,1,26,14,Si,59978
+Pueblo Libre,36.4,5,4,2,13,Si,98132
+Magdalena,35.7,4,3,29,7,Si,118471
+Miraflores,101.5,5,5,17,14,Si,289170
+Pueblo Libre,174.9,4,4,8,6,Si,323853
+Surco,50.2,3,3,6,4,No,105190
+San Miguel,118.3,1,1,24,1,No,161153
+Surco,93.8,2,2,14,1,Si,203842
+Pueblo Libre,46.4,3,2,41,2,No,51989
+Miraflores,75.3,2,1,13,2,Si,214799
+Surco,76.8,3,3,9,6,No,167663
+Barranco,60.8,2,1,3,5,Si,177695
+San Isidro,152.6,5,4,21,2,Si,491795
+San Miguel,28.0,5,5,10,9,Si,71649
+Surco,98.3,1,1,37,15,Si,228905
+Lince,96.6,4,3,30,1,Si,171176
+Pueblo Libre,64.7,2,1,19,10,No,119064
+Pueblo Libre,90.2,2,2,43,13,Si,152590
+Pueblo Libre,115.7,3,3,1,5,No,205621
+Pueblo Libre,90.3,2,2,8,6,Si,124936
+San Isidro,99.6,1,1,23,9,No,302658
+Surco,109.3,2,1,6,5,Si,217022
+San Isidro,28.0,5,4,20,3,No,72449
+Surco,136.7,4,4,2,13,Si,345936
+Miraflores,164.7,5,5,41,14,Si,453911
+Lince,119.3,4,4,35,13,Si,275836
+San Isidro,120.5,2,1,29,8,Si,380376
+Pueblo Libre,35.7,4,3,44,13,Si,86768
+Barranco,80.9,4,3,34,11,No,198843
+San Miguel,56.6,2,1,13,11,Si,124770
+Pueblo Libre,64.4,2,1,16,3,No,66534
+Miraflores,118.8,2,1,27,1,Si,310845
+San Miguel,56.9,5,5,40,8,No,99902
+Lince,80.4,5,4,14,3,Si,165434
+San Miguel,28.0,2,2,37,11,Si,51109
+Pueblo Libre,79.5,2,1,42,10,Si,90732
+San Isidro,88.2,1,1,4,6,Si,284012
+San Isidro,60.3,4,3,13,8,Si,232683
+Lince,59.8,1,1,29,1,No,45460
+Pueblo Libre,151.0,1,1,16,8,Si,266682
+San Isidro,42.7,3,2,40,8,Si,159211
+San Miguel,48.2,2,1,22,2,Si,89906
+Pueblo Libre,56.7,1,1,29,13,No,50080
+Pueblo Libre,127.0,1,1,12,8,Si,200868
+Surco,158.6,5,5,43,7,Si,358477
+Surco,96.6,1,1,23,11,No,222970
+San Isidro,59.9,4,4,11,15,Si,179453
+Miraflores,70.0,3,3,39,8,Si,188870
+San Miguel,122.3,3,2,26,9,Si,189409
+Surco,53.1,5,5,19,11,No,122453
+Pueblo Libre,135.9,4,3,24,14,Si,263034
+Barranco,134.6,3,2,12,6,No,326131
+Magdalena,87.5,3,3,13,1,Si,171026
+Miraflores,107.6,1,1,10,11,Si,344579
+Surco,111.2,5,4,35,10,No,224981
+Miraflores,139.4,4,4,16,3,No,369738
+Miraflores,48.2,4,4,19,8,Si,183792
+Lince,126.3,2,1,32,9,No,202538
+Pueblo Libre,71.9,3,3,29,6,Si,129706
+Surco,58.1,4,3,9,2,No,152472
+Surco,88.6,2,2,35,14,Si,153022
+San Miguel,77.5,5,4,44,10,No,141876
+Surco,50.4,1,1,32,2,Si,115676
+Pueblo Libre,29.1,2,2,33,2,Si,63411
+Magdalena,52.0,2,2,4,8,No,101268
+Surco,135.8,3,3,17,13,Si,296301
+Surco,153.7,2,1,2,5,Si,285201
+Magdalena,107.8,3,3,5,4,No,213884
+San Miguel,126.5,1,1,36,15,Si,201269
+San Isidro,66.9,1,1,7,10,No,205722
+Lince,82.3,5,5,29,12,No,162835
+Miraflores,94.9,3,3,13,6,No,244382
+Magdalena,47.2,2,1,6,4,No,67385
+San Miguel,50.4,1,1,34,2,Si,67193
+Miraflores,88.4,3,2,5,2,Si,258059
+Surco,73.8,3,2,41,9,Si,178562
+San Miguel,47.8,1,1,22,1,Si,73281
+Miraflores,98.5,3,3,43,8,Si,246379
+Pueblo Libre,75.8,3,3,8,3,Si,153383
+Magdalena,120.7,4,4,37,12,Si,235245
+Surco,84.8,4,4,41,14,No,160463
+Magdalena,74.5,2,1,38,12,No,63983
+San Isidro,89.5,1,1,10,14,No,205638
+San Isidro,79.0,1,1,21,14,No,177306
+Surco,61.6,5,5,42,12,No,139596
+San Isidro,70.9,1,1,2,8,No,196053
+Surco,111.2,1,1,32,7,Si,218801
+Lince,107.6,1,1,22,7,Si,217825
+Pueblo Libre,130.0,2,2,25,8,Si,203267
+Surco,28.0,3,2,23,3,Si,95434
+Barranco,71.2,4,4,30,9,No,185148
+Lince,70.5,3,2,35,2,Si,106567
+Surco,91.0,2,1,31,13,No,201476
+Lince,69.2,4,4,1,2,Si,126875
+Surco,67.0,5,4,12,1,Si,142680
+Surco,112.4,1,1,26,14,No,201298
+San Miguel,91.2,2,2,21,3,No,145681
+Magdalena,44.2,3,3,24,1,No,74190
+Pueblo Libre,131.7,2,2,2,9,Si,198240
+Surco,119.9,4,4,24,1,No,236362
+San Miguel,64.9,4,3,2,3,Si,138696
+Surco,114.1,5,5,4,7,Si,342224
+Lince,59.3,5,5,42,15,Si,160557
+Miraflores,124.4,1,1,36,13,No,300113
+Surco,77.4,5,4,38,1,No,125573
+Surco,56.9,4,3,9,6,No,137678
+Lince,71.9,2,2,33,15,No,82037
+San Isidro,58.2,2,1,0,3,Si,188495
+San Miguel,91.7,3,3,4,4,Si,186798
+Pueblo Libre,91.1,2,2,27,13,Si,152792
+Magdalena,86.3,3,2,28,3,No,159254
+Pueblo Libre,65.5,4,3,2,2,Si,139415
+Lince,28.0,4,3,32,7,Si,50616
+Barranco,88.2,4,4,39,14,Si,265788
+Surco,28.0,2,2,19,10,No,66562
+San Isidro,93.5,1,1,25,15,No,236627
+Miraflores,124.6,5,5,17,15,No,329829
+San Isidro,94.6,4,4,41,10,No,265865
+San Miguel,71.4,4,4,32,8,No,130638
+San Miguel,78.7,2,2,30,15,No,134345
+Miraflores,80.3,1,1,0,14,No,247561
+Pueblo Libre,65.8,2,1,30,9,Si,123950
+Surco,64.6,2,2,21,14,No,96173
+Pueblo Libre,52.7,1,1,31,7,No,115185
+Pueblo Libre,126.6,2,1,11,15,Si,260459
+Barranco,84.5,4,3,6,6,Si,259108
+Lince,118.5,5,4,19,6,No,256756
+Surco,76.2,5,5,21,6,No,134445
+Pueblo Libre,87.5,3,3,24,8,Si,157330
+Pueblo Libre,79.0,5,4,1,1,No,148960
+San Isidro,101.2,4,3,18,1,Si,335396
+Miraflores,113.9,4,4,29,8,Si,289796
+Surco,93.4,5,5,39,6,Si,201226
+Magdalena,61.4,5,4,5,15,Si,202486
+San Miguel,57.7,2,1,39,6,Si,99669
+Magdalena,143.1,2,2,14,9,Si,279864
+Miraflores,75.2,5,5,34,2,Si,265467
+San Miguel,74.8,5,4,4,2,Si,130456
+San Miguel,136.3,2,2,35,13,No,212612
+San Miguel,123.1,3,3,43,9,Si,194602
+Surco,103.7,1,1,22,5,No,201246
+San Miguel,71.0,4,3,27,14,No,110548
+Miraflores,167.4,1,1,12,2,No,401768
+Miraflores,98.8,4,3,6,11,No,282679
+Miraflores,104.1,4,3,36,2,No,229127
+San Isidro,79.0,3,3,41,2,Si,234225
+San Isidro,35.5,2,2,5,1,No,92557
+San Isidro,38.3,5,4,34,9,Si,154411
+Pueblo Libre,99.2,5,5,26,12,Si,193132
+Miraflores,98.7,5,5,34,4,No,246972
+Pueblo Libre,76.6,3,3,28,8,Si,154581
+San Isidro,44.0,4,4,41,12,Si,168145
+Pueblo Libre,34.5,4,3,4,8,Si,46303
+Miraflores,73.5,5,5,0,3,No,227449
+Barranco,34.0,2,2,9,7,Si,117038
+Lince,116.5,3,3,4,11,Si,203949
+Surco,125.3,3,3,30,15,No,225196
+San Miguel,184.0,1,1,24,13,Si,311345
+Pueblo Libre,115.7,4,4,38,6,No,172406
+Pueblo Libre,64.3,1,1,40,2,No,58273
+San Isidro,54.5,2,1,17,8,No,187212
+Pueblo Libre,28.0,3,3,36,5,Si,45000
+Miraflores,64.2,3,3,23,11,Si,165522
+San Miguel,78.8,4,4,38,4,Si,81735
+Lince,118.9,5,5,31,14,No,194564
+San Miguel,106.4,1,1,21,2,Si,137778
+Miraflores,105.6,5,4,26,13,Si,348291
+Barranco,92.5,3,3,10,4,No,260051
+Barranco,108.1,2,2,20,14,No,223537
+Miraflores,135.7,4,4,1,15,No,429727
+Pueblo Libre,47.7,1,1,28,3,Si,93033
+Magdalena,69.0,5,5,3,15,No,162510
+Barranco,36.4,5,4,31,15,Si,134738
+San Miguel,141.7,1,1,41,5,No,202060
+Magdalena,130.4,3,2,36,13,No,216356
+Miraflores,111.3,1,1,17,2,No,229075
+Magdalena,43.1,5,4,25,5,No,70217
+San Miguel,91.1,5,5,28,1,Si,173165
+San Isidro,76.8,4,3,29,13,Si,226287
+Pueblo Libre,87.8,3,3,19,4,No,131862
+Pueblo Libre,78.4,2,1,8,15,Si,176130
+Pueblo Libre,103.2,2,2,7,10,Si,172829
+Miraflores,71.2,5,5,7,12,Si,257705
+Pueblo Libre,114.9,2,1,1,6,Si,205067
+Pueblo Libre,93.4,3,2,36,12,Si,166888
+San Miguel,74.7,5,4,19,14,Si,128918
+San Miguel,81.1,4,3,10,13,Si,164764
+Barranco,69.6,2,2,37,1,No,123062
+Magdalena,113.5,5,4,19,14,No,191640
+San Miguel,75.5,1,1,34,8,No,93922
+San Miguel,95.3,3,3,39,12,No,140213
+San Isidro,71.3,4,3,14,13,No,234069
+Miraflores,33.0,5,5,6,2,Si,138595
+Pueblo Libre,116.7,5,4,6,8,No,201392
+San Isidro,48.0,2,2,30,4,Si,120274
+Pueblo Libre,108.8,2,2,27,7,Si,129220
+Lince,99.7,2,2,11,2,Si,161653
+Surco,28.0,2,1,29,9,Si,89260
+San Isidro,51.9,4,3,28,7,Si,201340
+Surco,67.0,4,4,39,1,No,144475
+Pueblo Libre,56.3,3,3,36,1,Si,106241
+Miraflores,43.6,1,1,14,7,No,116714
+Surco,110.9,4,3,36,9,Si,247465
+Miraflores,76.6,3,2,28,10,No,150178
+Pueblo Libre,98.5,3,2,34,14,No,134900
+San Miguel,69.9,5,5,41,7,No,144323
+Surco,95.7,4,3,23,15,Si,245263
+Surco,58.7,3,3,5,15,Si,157483
+Surco,84.1,5,4,24,1,Si,187209
+San Isidro,105.4,5,4,40,4,Si,301584
+San Isidro,86.6,3,3,7,11,Si,261628
+Barranco,69.0,2,2,10,3,No,141003
+Surco,47.0,5,4,5,3,No,71728
+Miraflores,90.9,2,1,36,13,Si,236364
+Magdalena,97.1,4,4,33,13,Si,194080
+Pueblo Libre,76.0,5,5,18,10,Si,165660
+Barranco,58.1,5,5,2,1,Si,229988
+Miraflores,104.0,4,3,41,12,Si,295349
+Magdalena,171.9,1,1,41,2,Si,291024
+Miraflores,74.4,4,3,13,10,No,222507
+Miraflores,96.8,1,1,8,5,Si,224785
+Miraflores,98.2,4,4,39,15,Si,297218
+Miraflores,28.0,4,3,32,1,Si,90540
+San Miguel,89.3,5,5,16,1,Si,175132
+Barranco,60.3,2,1,20,10,Si,167961
+Barranco,133.5,1,1,29,1,No,328986
+San Miguel,76.1,5,4,27,4,Si,136634
+Pueblo Libre,57.8,1,1,6,15,Si,89194
+San Isidro,77.4,2,2,34,11,No,252884
+Surco,90.8,4,4,10,4,No,198916
+San Miguel,65.4,4,4,13,15,Si,178288
+Surco,83.2,1,1,37,12,Si,140229
+Magdalena,37.6,2,2,37,8,No,60919
+Miraflores,77.1,4,4,31,2,No,183340
+Magdalena,112.1,4,4,33,8,Si,247974
+Magdalena,153.9,5,5,9,4,Si,330299
+San Miguel,109.7,5,5,26,15,No,176277
+Pueblo Libre,94.5,1,1,3,9,Si,216032
+Surco,126.4,5,4,25,5,Si,289814
+Miraflores,120.7,4,4,33,10,Si,284335
+Surco,143.2,2,1,17,14,Si,292088
+Magdalena,122.9,2,1,27,3,Si,209422
+San Isidro,80.9,3,2,43,11,No,178078
+Barranco,94.0,3,3,12,6,No,218861
+Surco,91.3,3,2,17,1,Si,184978
+Magdalena,95.6,3,2,20,6,Si,197759
+San Miguel,92.0,2,2,10,5,No,127152
+Miraflores,57.6,4,4,23,4,Si,128149
+San Isidro,28.0,3,2,25,11,No,61222
+Magdalena,61.5,2,1,18,12,No,131317
+Pueblo Libre,28.0,5,4,41,1,No,45000
+Magdalena,87.4,1,1,39,12,No,152264
+Lince,85.2,5,4,41,13,Si,179744
+Lince,28.0,3,2,25,9,No,45000
+San Miguel,109.1,2,1,26,14,Si,186498
+Magdalena,115.3,5,5,4,6,Si,250569
+Surco,88.4,4,3,17,12,Si,196348
+Pueblo Libre,143.4,1,1,15,1,Si,220221
+San Isidro,150.5,5,4,33,13,Si,458594
+Magdalena,42.8,3,3,35,12,Si,125363
+Magdalena,121.3,2,2,25,9,No,203988
+Magdalena,100.4,2,1,1,5,No,223202
+Surco,99.6,5,5,37,13,No,154697
+Surco,117.7,2,2,23,6,Si,221279
+Surco,59.8,4,4,37,8,Si,110528
+Miraflores,64.3,4,3,14,11,Si,241753
+San Miguel,56.1,5,4,31,7,Si,100228
+Pueblo Libre,58.6,5,4,34,3,No,120913
+Surco,81.6,1,1,43,11,Si,97955
+Pueblo Libre,34.2,1,1,41,3,Si,45000
+Magdalena,48.4,5,4,29,7,No,114754
+Surco,105.2,3,3,3,9,No,226411
+San Miguel,82.5,5,5,43,5,No,64444
+San Miguel,98.4,1,1,11,7,Si,170964
+Surco,28.0,2,1,29,4,Si,73790
+Miraflores,57.6,3,3,18,11,No,188233
+Magdalena,65.6,4,3,9,7,No,150277
+Lince,86.1,1,1,40,10,No,78692
+San Isidro,64.5,1,1,28,6,Si,170222
+Magdalena,117.7,3,2,15,13,Si,268134
+San Miguel,83.0,4,4,34,12,Si,132255
+Lince,85.6,2,2,43,2,Si,152882
+Miraflores,85.5,4,3,19,12,Si,238203
+Miraflores,109.8,1,1,15,8,No,276397
+Lince,68.5,4,4,7,12,No,162162
+Miraflores,124.3,1,1,15,11,Si,313547
+San Isidro,101.1,5,4,15,13,Si,394426
+Pueblo Libre,90.4,5,4,41,14,Si,176677
+Surco,86.5,2,2,35,6,No,161758
+Magdalena,103.2,3,3,18,1,Si,194920
+San Isidro,120.5,1,1,9,6,No,330960
+San Miguel,118.1,5,5,30,12,Si,214286
+San Isidro,98.2,5,4,0,13,No,272590
+Magdalena,115.7,2,1,27,11,Si,185052
+Miraflores,89.1,1,1,39,3,Si,222722
+Surco,128.8,3,3,19,1,Si,271916
+Miraflores,84.1,2,1,43,11,Si,143639
+Barranco,28.0,4,4,32,13,No,45000
+Barranco,131.8,2,1,39,8,Si,301022
+Magdalena,88.8,5,5,16,3,Si,205307
+Surco,44.0,4,3,36,10,No,99377
+Miraflores,78.1,4,3,18,9,No,182024
+Lince,54.1,3,2,32,11,Si,117859
+San Miguel,158.5,1,1,17,1,No,228017
+San Miguel,102.4,5,4,24,11,No,165968
+San Isidro,30.1,3,3,1,15,Si,117942
+Surco,104.1,4,4,29,4,Si,252426
+San Isidro,71.0,1,1,41,14,No,181932
+Miraflores,152.1,5,5,33,1,Si,440984
+Miraflores,48.2,1,1,12,1,Si,112233
+Surco,28.0,4,4,14,15,Si,84703
+Miraflores,87.3,2,1,43,5,No,167021
+San Isidro,72.8,5,5,9,14,No,220806
+San Miguel,70.4,2,2,30,9,Si,107029
+Surco,28.0,2,2,31,8,Si,47160
+San Isidro,99.9,4,3,28,1,No,293845
+Pueblo Libre,143.6,2,2,27,10,No,244149
+Barranco,28.0,2,1,44,7,Si,73879
+Surco,126.0,4,3,44,2,Si,257405
+Barranco,65.1,2,1,17,7,Si,192354
+Surco,167.2,3,2,18,7,Si,354743
+Pueblo Libre,100.3,4,3,10,10,Si,229649
+Surco,78.4,4,4,18,9,No,183274
+Surco,123.7,4,4,41,12,Si,279980
+Magdalena,103.4,5,5,5,11,Si,246786
+San Miguel,64.3,2,2,5,14,No,78913
+San Isidro,109.9,2,1,0,4,No,274401
+Miraflores,67.1,5,5,14,14,Si,268195
+Miraflores,28.0,1,1,6,2,Si,92096
+Lince,156.1,4,3,30,2,Si,297661
+Lince,72.8,4,3,26,15,No,127428
+San Isidro,63.7,5,4,40,1,No,162597
+Lince,96.9,4,4,43,13,Si,253969
+San Isidro,30.4,4,3,12,5,No,69022
+Surco,37.6,2,1,5,3,Si,89732
+Surco,67.5,4,4,41,3,No,125016
+San Miguel,66.8,1,1,7,13,No,75005
+Miraflores,87.5,3,3,3,2,Si,225707
+Barranco,124.3,1,1,30,13,Si,276741
+Pueblo Libre,68.4,2,1,34,5,Si,101985
+Miraflores,102.2,2,2,13,3,Si,267280
+San Isidro,106.1,5,4,23,2,No,327411
+Surco,47.1,2,1,2,13,Si,88133
+San Miguel,93.0,5,4,13,5,Si,197018
+Magdalena,52.0,2,1,39,6,Si,126515
+San Miguel,122.2,2,2,35,10,No,200844
+Magdalena,100.9,1,1,6,6,No,157630
+Magdalena,85.6,4,4,41,2,Si,97406
+San Miguel,38.1,1,1,19,3,Si,81993
+Magdalena,89.1,5,4,14,10,No,204508
+Magdalena,58.2,2,1,33,9,No,75839
+Barranco,109.7,1,1,14,11,No,286097
+San Isidro,80.8,1,1,35,10,No,190127
+Magdalena,56.6,3,3,0,1,Si,141939
+San Isidro,117.4,2,1,43,8,No,273966
+San Miguel,110.3,1,1,34,3,Si,172357
+Pueblo Libre,64.2,3,3,26,2,Si,109983
+Barranco,125.7,3,3,43,3,No,269793
+Lince,74.6,5,5,6,12,Si,208746
+San Isidro,74.2,5,5,3,7,No,246621
+Surco,89.3,5,5,3,5,Si,191312
+Miraflores,58.7,3,3,23,8,Si,188108
+Lince,69.5,3,3,28,4,Si,153940
+Pueblo Libre,79.4,1,1,17,10,No,102575
+San Miguel,138.6,1,1,24,10,Si,212736
+Barranco,137.5,3,2,38,10,No,316945
+San Miguel,75.9,2,2,11,3,Si,130506
+Magdalena,141.4,4,4,6,7,No,293857
+Pueblo Libre,83.5,4,3,7,14,Si,195598
+Lince,98.3,4,4,36,9,Si,177231
+Surco,115.9,3,2,15,10,Si,305820
+Surco,95.2,1,1,41,13,Si,159803
+Magdalena,169.5,3,3,12,12,Si,336977
+San Miguel,93.5,5,4,27,15,Si,229221
+Barranco,43.1,4,4,15,6,Si,195254
+Pueblo Libre,130.7,4,4,18,6,Si,252930
+San Isidro,70.6,4,3,15,7,No,203899
+Pueblo Libre,74.3,5,4,10,6,No,122687
+Magdalena,28.0,5,5,33,4,Si,107170
+Miraflores,120.0,1,1,18,6,No,301129
+Magdalena,113.6,1,1,20,4,Si,194485
+Miraflores,113.0,3,3,23,13,No,305548
+Lince,119.2,2,2,38,7,No,221362
+Surco,144.2,5,4,19,4,Si,338144
+Surco,83.4,1,1,22,12,Si,224404
+Magdalena,117.8,4,4,24,12,No,262610
+Surco,59.0,3,3,13,8,Si,155214
+Magdalena,72.6,1,1,1,2,No,132721
+Miraflores,122.0,4,4,41,13,No,327153
+Pueblo Libre,98.7,3,2,4,11,No,211024
+Pueblo Libre,38.3,2,2,29,2,No,68778
+Lince,97.6,1,1,37,14,Si,187571
+Miraflores,78.6,1,1,37,5,No,178832
+Surco,56.3,5,5,16,10,Si,174961
+Pueblo Libre,100.2,3,2,10,1,Si,220421
+Pueblo Libre,70.8,4,3,1,13,Si,158424
+Miraflores,30.0,1,1,43,14,Si,45000
+Pueblo Libre,46.1,5,4,41,13,Si,140725
+San Isidro,146.9,1,1,28,1,No,399203
+San Isidro,32.0,5,5,8,3,No,105309
+San Miguel,92.8,2,2,16,9,Si,169832
+San Isidro,106.4,1,1,42,1,Si,271844
+Surco,107.4,5,4,11,11,No,197374
+Magdalena,42.1,1,1,40,13,Si,63400
+Magdalena,73.7,2,1,4,4,Si,122031
+Pueblo Libre,89.9,2,1,19,3,No,144799
+San Miguel,113.0,4,3,1,15,Si,220268
+Surco,62.4,5,5,16,14,Si,196340
+Pueblo Libre,44.3,2,1,8,15,Si,90909
+San Miguel,120.1,2,1,44,6,No,170511
+Pueblo Libre,123.7,3,3,13,4,Si,226222
+Pueblo Libre,98.0,3,3,12,13,No,167505
+Surco,63.7,1,1,23,3,Si,89165
+Pueblo Libre,99.2,2,1,15,5,No,184901
+Surco,88.8,1,1,17,10,Si,188268
+Magdalena,114.3,4,4,16,2,Si,231199
+Surco,41.3,4,4,2,8,Si,131809
+Surco,89.1,1,1,16,3,Si,170135
+Magdalena,79.4,3,2,6,10,Si,161957
+Surco,46.2,4,3,2,2,No,116434
+Barranco,92.5,2,2,0,10,Si,281377
+San Miguel,86.2,1,1,25,13,No,113183
+Surco,70.6,5,4,1,15,No,138783
+San Miguel,98.9,2,2,14,6,Si,157873
+Magdalena,35.3,5,4,13,12,Si,153604
+Surco,83.1,2,1,18,15,No,138521
+Magdalena,100.1,2,2,28,5,No,204989
+Miraflores,94.9,2,1,21,6,Si,246166
+Surco,122.7,3,2,6,12,Si,293105
+San Miguel,43.0,4,4,44,6,Si,75146
+Pueblo Libre,32.2,3,3,39,7,Si,45000
+Pueblo Libre,93.4,4,4,20,2,Si,173884
+Pueblo Libre,100.9,1,1,44,15,Si,209132
+Pueblo Libre,159.2,4,4,12,9,Si,304047
+Pueblo Libre,106.6,3,3,27,8,Si,210340
+Surco,54.4,5,5,44,6,No,100395
+San Isidro,113.2,2,2,2,1,No,316766
+Barranco,55.4,3,2,7,14,No,151420
+Barranco,33.0,5,5,8,14,Si,140655
+Surco,176.3,1,1,38,12,No,379694
+Lince,96.4,1,1,22,5,Si,167224
+Surco,110.0,5,4,19,4,No,230114
+Surco,104.7,5,5,42,13,Si,215265
+Surco,148.4,2,2,26,6,No,251397
+Pueblo Libre,94.9,2,1,44,10,Si,110914
+Lince,127.6,4,3,44,3,Si,242807
+San Miguel,49.0,2,1,33,12,No,45000
+Surco,36.3,3,2,1,12,No,122985
+Barranco,134.9,1,1,40,12,No,315267
+San Miguel,136.6,1,1,11,7,No,202323
+Surco,102.9,5,4,4,14,Si,225792
+Magdalena,92.9,1,1,8,15,No,172865
+Miraflores,90.8,5,4,22,13,Si,271081
+San Miguel,60.9,5,4,27,7,No,135971
+Barranco,138.9,1,1,21,10,Si,318074
+Surco,108.1,5,4,24,2,Si,234019
+San Isidro,102.7,3,2,9,5,Si,309606
+Surco,98.2,3,3,4,15,Si,224337
+San Miguel,121.7,2,2,25,8,No,168784
+San Miguel,102.7,1,1,34,4,No,92127
+Surco,111.1,4,3,25,5,No,182784
+Magdalena,44.1,5,4,28,1,Si,90275
+Surco,102.9,2,1,43,6,Si,188062
+Surco,161.6,2,1,17,14,No,341645
+Pueblo Libre,66.9,5,5,3,7,Si,223038
+San Isidro,80.5,2,2,12,14,Si,287730
+Barranco,116.2,2,1,13,7,No,283340
+Magdalena,118.5,1,1,29,3,Si,264088
+Magdalena,106.9,5,4,7,5,Si,243192
+Miraflores,28.4,4,4,29,3,No,61656
+Magdalena,102.6,2,1,10,5,No,248354
+San Miguel,43.6,1,1,21,5,Si,45000
+Surco,56.1,4,4,14,5,No,116230
+Miraflores,104.2,1,1,34,2,Si,251635
+Magdalena,74.6,3,2,16,3,No,176614
+San Isidro,113.3,1,1,16,1,No,285373
+Pueblo Libre,195.2,3,2,43,9,Si,350361
+Surco,112.2,3,3,3,7,Si,247821
+Pueblo Libre,110.3,3,2,14,2,Si,174229
+San Isidro,53.6,4,4,14,15,No,173870
+Surco,62.5,4,4,21,4,Si,155302
+Surco,47.8,4,3,9,14,Si,102609
+Pueblo Libre,66.4,1,1,7,3,Si,100851
+San Isidro,46.8,4,3,0,12,Si,154324
+Lince,61.9,1,1,9,11,Si,145314
+Barranco,77.7,5,5,31,10,No,211327
+Barranco,50.0,5,5,9,5,Si,171367
+San Isidro,35.3,4,3,11,6,No,124612
+Miraflores,37.3,2,1,25,2,Si,84594
+Surco,100.9,1,1,22,10,No,198255
+Magdalena,87.1,2,2,13,13,No,151095
+Magdalena,120.9,2,1,12,4,No,189741
+San Isidro,121.6,2,1,12,7,No,318339
+Miraflores,73.1,2,2,0,9,Si,223757
+Barranco,108.5,4,3,23,13,No,269384
+Magdalena,34.6,3,3,22,8,Si,111307
+Surco,164.9,5,4,0,5,Si,336237
+Lince,126.8,5,4,16,10,No,237751
+Pueblo Libre,77.5,3,2,38,6,Si,142559
+Pueblo Libre,44.3,5,5,24,9,No,69503
+Magdalena,98.3,2,2,2,9,No,201848
+Magdalena,28.0,3,2,26,11,Si,56328
+Surco,57.7,2,2,18,2,Si,96318
+San Isidro,111.2,4,4,38,2,Si,350539
+Surco,87.6,1,1,44,15,Si,125445
+Surco,67.8,3,2,7,6,No,168364
+San Isidro,118.3,1,1,7,3,No,312561
+Surco,48.6,2,1,35,2,Si,65271
+Pueblo Libre,95.0,1,1,2,14,Si,157961
+Miraflores,67.6,3,2,28,13,No,151100
+Miraflores,55.3,2,1,21,10,No,112973
+San Isidro,101.2,2,1,2,12,Si,313660
+Barranco,50.2,5,4,28,12,No,85568
+Lince,151.6,4,3,34,12,Si,312267
+Miraflores,64.5,1,1,17,4,Si,190950
+San Isidro,154.6,2,2,7,13,Si,491143
+San Isidro,46.7,3,2,9,14,Si,133187
+Surco,106.2,1,1,4,4,Si,167263
+Miraflores,43.0,2,2,31,9,Si,99898
+Surco,38.1,4,4,23,1,Si,94503
+San Isidro,90.6,1,1,26,7,No,240555
+Barranco,108.7,4,4,25,9,Si,274426
+Magdalena,40.4,5,4,15,3,No,91966
+San Isidro,126.4,3,2,37,10,Si,362264
+Pueblo Libre,57.1,1,1,27,3,Si,52075
+Surco,89.6,3,2,12,7,No,228844
+Surco,98.3,1,1,37,13,Si,159166
+San Miguel,105.8,1,1,9,11,Si,188876
+San Isidro,28.0,5,4,23,15,Si,139181
+Lince,141.6,5,4,5,1,Si,270175
+San Miguel,104.7,2,1,17,7,Si,177139
+Pueblo Libre,70.1,5,4,32,14,Si,186612
+Miraflores,49.2,1,1,27,11,No,101532
+Pueblo Libre,28.0,5,5,39,12,Si,98775
+Pueblo Libre,37.4,5,5,22,11,Si,109516
+Magdalena,104.1,1,1,6,5,Si,215466
+San Isidro,73.1,1,1,4,8,No,220288
+Lince,45.4,3,3,43,2,Si,71945
+San Miguel,66.6,5,5,40,8,Si,124203
+Miraflores,139.7,3,3,39,10,Si,394337
+Barranco,73.4,2,2,5,9,Si,207285
+Miraflores,64.5,4,4,5,1,No,199134
+San Miguel,132.3,3,2,33,6,Si,186900
+San Miguel,101.2,3,3,40,1,Si,162348
+Lince,86.5,2,1,19,12,No,173794
+Pueblo Libre,63.7,5,4,31,1,Si,151990
+Pueblo Libre,30.7,2,1,35,7,Si,56017
+Pueblo Libre,44.0,3,2,41,2,Si,57808
+Pueblo Libre,68.2,5,5,23,8,No,119181
+Lince,77.3,3,2,36,1,Si,145476
+Pueblo Libre,97.5,5,4,36,3,No,201854
+Barranco,104.3,3,2,28,2,Si,257760
+Surco,92.8,1,1,21,15,No,203757
+Miraflores,92.7,5,4,0,14,No,267906
+Magdalena,49.7,4,4,11,2,Si,157408
+Magdalena,28.0,2,2,4,12,Si,54408
+Surco,66.8,1,1,34,11,Si,131447
+San Miguel,51.6,2,2,38,7,No,45000
+Magdalena,62.2,2,2,37,10,Si,134447
+Barranco,75.4,3,2,12,6,Si,217252
+Miraflores,41.5,1,1,22,6,Si,84165
+Miraflores,46.1,3,3,16,12,Si,126842
+San Isidro,81.5,4,4,41,15,Si,231722
+Barranco,89.1,1,1,9,6,No,169041
+Surco,62.0,4,3,31,1,Si,113151
+Lince,102.4,5,4,15,8,Si,196590
+Barranco,77.3,4,3,41,5,Si,212136
+San Miguel,49.3,2,2,18,13,Si,128418
+Magdalena,86.4,4,4,8,6,Si,191250
+San Miguel,150.9,4,3,15,11,Si,265635
+Surco,61.4,2,2,42,10,No,105920
+Miraflores,125.8,4,3,20,11,Si,341433
+Magdalena,133.2,1,1,34,9,No,220614
+San Isidro,137.4,4,4,4,2,No,426213
+San Isidro,56.2,1,1,42,11,No,131889
+Magdalena,155.5,4,4,19,6,Si,322708
+Magdalena,89.1,3,3,15,13,No,163374
+San Isidro,76.1,1,1,11,8,Si,260000
+Barranco,76.9,5,4,25,1,No,177314
+Lince,106.1,5,5,31,6,Si,217483
+Barranco,86.8,3,2,40,9,No,166212
+Magdalena,78.8,1,1,23,3,No,113953
+Miraflores,129.9,4,3,30,7,Si,357378
+San Miguel,59.7,3,2,35,12,No,74044
+Miraflores,48.5,5,4,13,11,No,163399
+Surco,112.8,3,3,34,6,No,217676
+Miraflores,109.6,5,5,13,8,No,277004
+Pueblo Libre,123.3,1,1,20,15,Si,156353
+San Miguel,47.5,4,4,42,6,No,93828
+Miraflores,122.8,2,1,23,10,Si,311678
+Barranco,101.9,3,2,30,1,No,267575
+Magdalena,146.7,5,5,34,1,Si,301954
+Pueblo Libre,41.3,2,1,2,5,Si,71394
+Barranco,92.6,5,4,42,8,Si,253538
+Pueblo Libre,75.3,4,3,11,7,No,135703
+Surco,29.4,1,1,20,1,No,45000
+San Miguel,60.0,3,3,25,6,No,70357
+Barranco,124.4,1,1,21,9,Si,317353
+Magdalena,68.6,4,4,8,6,Si,195844
+Pueblo Libre,59.7,3,3,29,1,No,79227
+Magdalena,115.4,2,2,20,10,Si,277147
+Surco,119.6,4,3,17,4,No,232546
+Magdalena,119.5,5,5,30,6,Si,262824
+Magdalena,57.4,1,1,20,1,No,48267
+Surco,83.0,1,1,3,13,Si,135926
+Miraflores,121.1,5,4,44,1,No,360182
+Lince,62.0,4,4,11,6,Si,179810
+Magdalena,58.8,3,2,31,8,Si,148527
+San Isidro,114.0,5,5,39,7,Si,299854
+Magdalena,139.7,5,5,2,4,Si,321615
+Barranco,44.7,1,1,1,7,Si,135199
+Surco,28.0,5,4,23,7,Si,89820
+San Miguel,34.2,5,5,5,14,No,96484
+Surco,49.6,4,3,23,9,No,82494
+Barranco,80.2,4,3,36,10,No,185010
+Barranco,106.6,1,1,37,14,No,200112
+Miraflores,79.9,4,3,30,15,Si,218343
+San Isidro,60.5,4,3,41,14,Si,189201
+Barranco,90.4,2,1,21,1,Si,199649
+San Isidro,51.3,3,2,26,5,Si,146740
+Miraflores,83.4,2,1,38,15,No,182992
+Surco,62.5,3,2,16,4,Si,142683
+San Isidro,178.8,2,2,9,3,Si,540828
+Magdalena,113.6,1,1,42,8,Si,207043
+Lince,55.8,3,3,0,14,Si,145814
+Barranco,50.1,4,3,5,3,Si,118679
+Pueblo Libre,69.7,4,3,36,1,Si,117625
+Surco,28.0,3,3,29,1,Si,85212
+Miraflores,59.4,4,3,28,13,Si,153832
+Miraflores,59.2,1,1,31,3,Si,133682
+San Miguel,115.9,4,3,15,10,No,174522
+Surco,70.1,2,1,36,11,No,151983
+San Miguel,57.3,2,1,26,11,No,66859
+Miraflores,38.1,1,1,13,9,Si,90020
+Pueblo Libre,43.8,2,2,3,6,No,95942
+San Miguel,82.7,3,2,14,1,No,158532
+San Miguel,77.5,4,3,14,6,Si,165597
+Miraflores,124.7,1,1,41,10,Si,336185
+Surco,63.0,5,5,25,3,No,144623
+Surco,122.1,1,1,36,5,Si,228928
+Magdalena,94.0,2,1,38,3,Si,157544
+Miraflores,84.8,5,5,33,3,No,214727
+Barranco,28.0,3,2,14,10,No,57328
+San Miguel,39.8,3,3,9,13,No,85892
+Surco,111.0,2,1,2,6,Si,240002
+Surco,133.9,3,3,12,5,Si,295096
+Lince,92.2,5,5,3,1,Si,223984
+Barranco,111.7,5,4,12,8,Si,307939
+Miraflores,70.7,1,1,13,3,Si,154537
+Surco,72.0,3,3,10,13,No,136450
+San Isidro,61.8,5,5,28,3,No,156004
+Miraflores,119.1,1,1,38,2,Si,246254
+Pueblo Libre,97.0,4,3,31,3,Si,181008
+Lince,76.8,3,3,30,10,Si,118661
+Pueblo Libre,73.5,2,1,31,7,No,73212
+Pueblo Libre,104.5,2,2,20,9,Si,163243
+Barranco,96.3,4,3,39,14,Si,264904
+Pueblo Libre,55.9,1,1,33,3,Si,76147
+Magdalena,145.1,2,2,30,9,Si,305116
+Pueblo Libre,94.0,2,2,43,8,No,132929
+San Miguel,85.4,4,3,30,12,Si,144924
+Pueblo Libre,136.7,2,2,17,10,Si,262068
+San Isidro,120.8,3,3,26,2,Si,364901
+Pueblo Libre,81.9,3,3,33,3,Si,148961
+Surco,103.8,5,4,29,11,Si,210665
+San Isidro,47.6,3,3,29,1,Si,130519
+Pueblo Libre,62.6,3,2,32,13,Si,85461
+San Miguel,28.0,5,5,2,7,Si,90798
+Miraflores,127.7,5,5,43,15,No,338091
+Pueblo Libre,28.0,4,3,44,3,No,69668
+Magdalena,108.8,3,2,8,11,Si,269732
+Surco,55.9,5,4,8,10,No,156434
+Barranco,50.7,2,1,28,10,Si,148236
+Surco,78.2,4,4,0,4,No,187067
+Pueblo Libre,94.3,5,5,5,15,Si,281650
+Magdalena,106.4,4,4,34,1,No,235921
+Pueblo Libre,147.0,1,1,9,2,No,305294
+Miraflores,97.6,5,5,7,6,Si,310987
+San Miguel,115.8,5,5,41,12,No,200888
+Lince,64.1,4,3,38,9,Si,150457
+Miraflores,110.0,5,4,18,11,Si,328400
+San Isidro,90.4,2,2,34,1,Si,256468
+San Isidro,68.8,5,5,25,11,Si,204055
+San Miguel,81.6,2,2,11,10,Si,174319
+San Miguel,82.8,4,4,9,6,No,154934
+Miraflores,91.7,2,2,24,2,No,244906
+Barranco,99.0,4,3,22,2,Si,251951
+San Isidro,67.2,4,3,19,3,No,148742
+Surco,59.1,5,5,1,3,Si,181080
+Lince,111.2,1,1,25,4,No,201562
+Miraflores,28.0,3,2,26,11,Si,54067
+San Isidro,63.4,5,4,27,11,No,165709
+Surco,139.3,5,5,42,5,Si,290017
+Surco,28.0,3,3,9,7,No,60562
+Magdalena,60.7,4,4,30,15,Si,95879
+Surco,109.1,2,1,16,10,No,256315
+San Isidro,28.0,5,5,29,2,Si,130891
+Surco,175.9,3,3,27,6,No,332024
+Lince,28.0,3,3,24,13,Si,45000
+Magdalena,135.3,3,2,16,11,No,269348
+Miraflores,139.5,4,3,14,8,Si,442703
+San Miguel,117.1,2,2,29,3,Si,208977
+Barranco,77.2,1,1,34,5,No,185448
+Magdalena,97.5,1,1,42,3,Si,143231
+Miraflores,53.6,1,1,17,4,No,129382
+San Miguel,113.3,4,4,16,4,No,155796
+San Isidro,45.8,1,1,15,6,Si,182906
+Surco,75.4,2,2,38,8,Si,162242
+Pueblo Libre,119.9,4,3,24,6,No,154205
+Surco,46.0,3,2,15,1,No,45000
+San Isidro,72.3,2,1,43,4,Si,200828
+Miraflores,90.7,2,2,37,12,No,220661
+Barranco,38.0,5,4,33,4,Si,104826
+Miraflores,125.8,3,3,36,9,No,332966
+San Isidro,96.9,1,1,30,15,No,299498
+Miraflores,32.0,4,3,10,15,Si,127341
+Surco,83.4,1,1,5,7,Si,135595
+Surco,57.9,5,4,37,8,Si,132810
+Pueblo Libre,62.0,5,5,36,10,Si,99805
+Barranco,87.7,3,2,12,4,Si,210553
+Miraflores,60.2,3,3,19,11,Si,187423
+Barranco,118.8,5,4,26,11,Si,312014
+Magdalena,60.3,2,2,28,5,Si,90993
+San Isidro,119.4,1,1,30,4,Si,325369
+Surco,83.5,4,4,25,15,Si,173502
+Magdalena,115.0,2,1,22,4,Si,234827
+Surco,66.1,2,1,35,5,Si,119511
+San Miguel,67.3,4,4,0,12,No,146310
+San Miguel,44.7,5,4,1,3,Si,110982
+Barranco,105.2,5,4,42,2,No,265824
+Magdalena,117.8,2,1,4,1,Si,235749
+San Isidro,159.2,5,4,6,10,No,474463
+Miraflores,130.2,5,4,12,4,No,344403
+Surco,93.7,4,3,21,1,No,192653
+Pueblo Libre,77.6,3,2,9,1,No,89880
+Lince,98.6,4,3,2,5,Si,276897
+San Isidro,84.0,5,5,30,10,Si,249959
+Magdalena,136.2,1,1,32,8,No,236019
+Surco,118.0,2,2,5,9,Si,248205
+Miraflores,55.7,4,4,4,6,Si,173373
+Lince,60.9,5,5,4,1,No,144873
+Magdalena,132.9,2,1,10,9,Si,255775
+Miraflores,95.8,2,2,23,15,Si,248704
+San Miguel,76.9,5,5,38,4,Si,109708
+Miraflores,126.5,3,3,2,11,No,323921
+Miraflores,71.4,1,1,5,3,Si,167216
+Barranco,75.2,4,4,35,9,Si,243518
+Lince,68.9,1,1,19,1,Si,85416
+Miraflores,28.0,3,3,14,15,No,54451
+San Miguel,115.2,3,3,38,2,Si,190818
+Pueblo Libre,42.7,4,4,13,8,No,125160
+Miraflores,65.1,2,1,39,4,No,98187
+Pueblo Libre,59.0,4,3,26,3,No,60544
+Surco,110.4,1,1,9,4,No,214173
+Pueblo Libre,82.6,2,1,43,12,Si,139097
+Magdalena,85.5,5,5,39,8,Si,150102
+Pueblo Libre,28.0,1,1,12,15,Si,45000
+Lince,81.9,5,4,28,4,Si,144320
+San Isidro,33.3,4,4,10,1,Si,144231
+San Miguel,95.8,3,2,10,5,No,156304
+Surco,97.8,4,4,16,8,Si,246624
+Magdalena,84.4,2,2,15,1,Si,167972
+San Miguel,156.5,3,2,35,4,No,232954
+Lince,103.5,2,2,12,11,No,197442
+Barranco,105.9,3,2,42,14,Si,251160
+Surco,90.0,3,2,28,6,Si,194254
+Lince,78.3,5,4,6,2,No,137385
+Lince,118.8,5,4,3,3,Si,237144
+Surco,123.6,2,1,1,13,No,264650
+Lince,39.5,4,3,41,14,No,54859
+Surco,121.9,5,4,13,4,No,244039
+Surco,103.0,2,1,15,12,Si,234959
+Magdalena,118.6,1,1,14,10,No,229318
+Surco,101.3,5,5,33,4,No,209331
+Surco,41.5,4,4,33,11,No,66134
+Surco,43.9,2,1,32,14,Si,109122
+Surco,148.9,5,4,30,12,Si,387718
+Miraflores,93.8,5,4,35,12,Si,246823
+Miraflores,35.4,1,1,33,1,No,45000
+Magdalena,97.2,2,1,8,8,Si,181870
+Pueblo Libre,72.3,4,4,17,8,Si,131056
+Pueblo Libre,28.0,2,2,8,15,No,45000
+San Miguel,28.0,2,2,19,2,No,45000
+San Isidro,28.9,3,3,33,8,Si,111767
+San Isidro,94.5,1,1,42,2,Si,266336
+Barranco,83.3,3,2,39,6,Si,236373
+Barranco,76.3,3,3,2,3,Si,232719
+Magdalena,95.0,1,1,14,7,Si,174695
+Surco,106.0,4,4,0,3,No,262640
+Barranco,28.0,3,3,19,6,Si,71333
+Pueblo Libre,74.5,2,1,0,15,No,124382
+San Isidro,56.0,3,3,36,9,No,117386
+Miraflores,41.8,5,4,36,9,No,143247
+Magdalena,65.8,2,1,43,14,Si,140276
+Magdalena,80.7,1,1,23,4,Si,138530
+Barranco,75.7,1,1,10,5,No,163799
+Pueblo Libre,34.1,2,1,31,8,No,45000
+Miraflores,68.1,1,1,8,4,Si,190853
+Surco,155.6,2,2,29,1,Si,331177
+Pueblo Libre,48.1,3,2,28,5,Si,90886
+San Isidro,28.0,2,1,36,4,Si,79763
+Surco,94.6,4,3,18,9,Si,178947
+Pueblo Libre,105.9,2,2,23,10,No,164434
+Pueblo Libre,101.2,1,1,39,3,Si,110454
+San Isidro,45.8,1,1,14,11,Si,180930
+Magdalena,119.9,4,3,38,5,No,253103
+Miraflores,57.5,2,2,5,10,Si,191704
+Lince,45.3,2,2,41,3,Si,97656
+San Isidro,63.7,2,1,18,15,No,220357
+San Isidro,81.2,5,4,15,4,No,267938
+San Isidro,110.0,4,3,8,15,No,286095
+Lince,106.8,4,4,20,13,Si,212025
+Barranco,84.2,2,1,41,13,Si,134717
+Pueblo Libre,117.7,5,5,44,2,Si,194204
+Lince,87.9,4,3,34,7,Si,135694
+Lince,116.4,5,5,42,13,Si,225142
+Miraflores,35.9,3,3,12,12,Si,130719
+Surco,29.9,2,1,39,4,Si,45000
+Pueblo Libre,112.2,2,1,23,4,Si,185290
+Magdalena,36.3,4,3,0,8,Si,116770
+Barranco,74.4,1,1,21,13,Si,177045
+Barranco,81.6,4,4,44,1,Si,196073
+Miraflores,67.9,2,2,27,4,Si,118836
+Miraflores,69.1,5,4,8,10,Si,213415
+Pueblo Libre,133.7,5,4,42,15,No,246665
+Miraflores,28.0,4,3,44,8,No,66816
+San Isidro,115.9,3,2,12,1,Si,304716
+Barranco,165.3,4,3,29,10,Si,408854
+Miraflores,85.8,2,1,27,12,Si,232274
+Miraflores,84.3,4,3,1,3,Si,231269
+Lince,110.4,2,1,22,8,Si,215188
+Surco,149.0,2,2,4,1,Si,296592
+San Isidro,43.4,5,5,42,13,Si,134766
+Magdalena,88.1,1,1,0,10,Si,183779
+Miraflores,78.5,4,4,9,8,Si,297266
+San Isidro,104.6,2,2,12,2,Si,297768
+Lince,90.6,4,4,29,13,Si,167175
+San Miguel,108.1,4,4,10,12,Si,228952
+Pueblo Libre,70.2,5,4,4,11,No,137459
+Miraflores,86.7,4,4,42,7,Si,240644
+Barranco,61.5,2,1,24,10,Si,96155
+Miraflores,61.7,4,4,8,14,Si,207558
+San Isidro,80.0,4,3,43,15,Si,231201
+Miraflores,80.0,3,2,42,3,No,152331
+Miraflores,44.0,1,1,32,2,No,118199
+Pueblo Libre,140.0,5,4,6,9,Si,277618
+Miraflores,80.3,4,4,1,14,Si,249161
+San Isidro,36.6,2,1,0,10,No,75710
+San Miguel,123.6,2,2,44,8,No,130602
+Barranco,58.8,5,5,26,8,Si,159786
+Barranco,102.8,4,3,24,11,Si,231523
+Miraflores,84.4,4,4,31,15,Si,252965
+Magdalena,93.8,2,2,26,11,Si,207208
+Pueblo Libre,91.0,1,1,25,10,No,119891
+Pueblo Libre,64.9,2,2,42,6,Si,61763
+Pueblo Libre,86.4,4,4,44,15,Si,147883
+Miraflores,156.2,4,4,26,8,Si,403461
+Barranco,28.0,2,2,27,4,No,55614
+Pueblo Libre,87.3,5,4,9,15,No,178745
+Lince,100.2,1,1,17,11,No,152130
+San Miguel,48.2,2,2,19,8,Si,90384
+Pueblo Libre,37.0,4,4,42,13,Si,101341
+Surco,160.6,1,1,33,14,Si,356411
+Miraflores,72.0,3,3,29,15,No,169973
+San Miguel,157.8,1,1,17,1,Si,269649
+Miraflores,103.8,4,4,38,7,No,259447
+Miraflores,87.7,4,4,7,9,No,223293
+Magdalena,101.7,1,1,20,13,No,210273
+San Miguel,107.2,5,4,17,11,No,200731
+Magdalena,126.3,5,5,36,10,No,251677
+Surco,100.3,1,1,4,6,No,204453
+San Isidro,90.1,3,3,6,14,No,262402
+Miraflores,91.2,2,2,4,2,Si,229982
+San Miguel,132.3,3,3,32,4,Si,263245
+Lince,113.6,1,1,5,12,Si,236265
+San Isidro,49.9,2,2,41,2,No,117876
+San Miguel,62.8,5,4,22,12,Si,157987
+Surco,96.6,2,2,10,13,Si,245311
+Barranco,63.2,1,1,14,6,Si,151657
+Surco,71.8,4,3,9,2,No,169446
+Miraflores,51.5,1,1,8,2,No,114761
+Surco,75.8,5,4,3,11,No,198279
+San Isidro,99.8,4,4,33,13,No,274650
+Magdalena,119.8,1,1,1,9,Si,305936
+Surco,85.3,5,4,27,12,Si,191037
+San Miguel,157.6,3,3,27,1,No,256118
+San Miguel,82.3,4,4,36,13,No,142422
+Barranco,196.8,3,2,11,11,Si,488115
+Barranco,120.1,1,1,7,13,Si,325009
+Lince,102.4,4,4,19,4,No,185675
+Surco,67.5,3,3,27,4,No,117865
+Miraflores,28.0,4,4,10,9,No,92099
+Miraflores,79.6,3,3,11,10,Si,216352
+Lince,91.2,3,2,33,7,Si,193974
+Pueblo Libre,152.3,5,5,22,7,No,291798
+Miraflores,36.7,2,2,40,13,No,97930
+Surco,151.7,4,3,20,6,No,274789
+Surco,76.2,1,1,29,9,Si,154229
+Surco,110.3,1,1,26,7,Si,197440
+Lince,28.0,4,4,6,4,No,70119
+Lince,89.9,3,3,25,11,No,188133
+Miraflores,73.0,3,3,33,1,Si,200483
+San Isidro,108.9,4,3,41,15,No,291690
+Surco,88.2,4,3,2,10,Si,244760
+San Miguel,45.0,3,3,28,8,Si,110430
+Pueblo Libre,118.1,5,4,24,8,Si,277337
+Magdalena,109.3,4,3,15,6,Si,188317
+Pueblo Libre,105.9,5,5,13,15,Si,232776
+San Isidro,120.3,5,5,35,10,Si,353391
+San Miguel,123.5,5,4,20,3,Si,205802
+Miraflores,84.2,5,4,7,10,Si,267163
+Magdalena,37.5,1,1,37,12,Si,45000
+San Isidro,36.5,5,4,34,7,No,50028
+Surco,132.2,5,5,30,15,Si,272804
+Lince,109.9,3,2,25,10,No,180759
+Surco,88.6,1,1,36,5,Si,210525
+Miraflores,69.8,2,1,11,10,Si,178610
+Surco,86.1,5,4,37,15,Si,164350
+Pueblo Libre,85.9,1,1,33,12,Si,89160
+Miraflores,73.2,3,3,27,1,Si,190596
+San Isidro,60.5,1,1,5,3,No,155464
+Miraflores,160.8,5,4,14,1,Si,455252
+Pueblo Libre,93.0,4,4,1,10,Si,167117
+Surco,63.8,1,1,12,15,Si,117913
+Surco,39.4,4,4,12,7,No,45000
+Barranco,59.6,1,1,23,8,No,128409
+Pueblo Libre,110.2,5,4,22,14,Si,181475
+San Isidro,111.5,3,2,34,4,Si,245099
+San Miguel,77.4,5,4,28,10,Si,181414
+Lince,86.8,1,1,22,15,No,147898
+Surco,74.3,2,1,14,13,Si,170152
+Surco,46.2,1,1,31,15,Si,95332
+San Miguel,130.6,2,1,26,13,No,168248
+Barranco,98.0,5,4,27,11,Si,291412
+San Miguel,171.7,1,1,44,4,No,210089
+Barranco,58.5,5,4,2,14,Si,237562
+Magdalena,80.2,3,2,44,2,Si,150202
+Barranco,115.9,1,1,41,14,No,200227
+Pueblo Libre,76.4,5,4,32,12,Si,176980
+Lince,36.4,2,2,23,14,No,104608
+Miraflores,51.8,4,3,13,1,Si,153598
+San Miguel,88.5,3,2,18,12,No,168843
+Pueblo Libre,97.0,3,2,21,15,Si,175786
+Surco,81.7,1,1,19,14,No,133493
+Surco,120.1,1,1,36,11,Si,165845
+Miraflores,119.7,4,4,21,15,Si,371322
+San Isidro,96.3,5,4,39,7,Si,276207
+Pueblo Libre,85.9,3,3,38,1,Si,155830
+Miraflores,76.1,5,4,42,11,Si,186917
+Pueblo Libre,104.3,5,5,36,12,Si,180795
+Lince,117.2,4,4,17,2,Si,259846
+Lince,87.1,4,3,14,7,No,153475
+San Miguel,100.7,2,1,15,10,Si,163103
+San Miguel,73.6,2,2,25,2,No,70658
+San Isidro,35.6,2,2,15,14,No,102951
+Lince,50.0,5,5,34,1,No,110500
+San Isidro,111.8,3,3,35,1,Si,304251
+San Miguel,100.6,4,4,15,1,No,166003
+San Miguel,140.7,5,4,43,15,Si,211223
+Pueblo Libre,87.0,5,4,28,8,No,192228
+Surco,115.3,2,1,25,5,Si,215672
+San Isidro,131.3,5,4,29,14,Si,391600
+Surco,119.8,3,2,19,6,Si,296806
+Barranco,63.7,4,3,9,2,No,158472
+Miraflores,78.5,1,1,29,15,Si,161113
+Miraflores,89.5,2,1,12,6,No,203182
+San Miguel,50.5,1,1,18,12,No,58496
+Lince,101.6,5,5,19,2,Si,256742
+San Isidro,120.8,2,1,25,6,No,327144
+Miraflores,68.2,4,4,40,3,Si,180893
+Barranco,154.0,5,4,8,15,Si,435097
+Miraflores,74.8,2,2,30,12,Si,231306
+San Isidro,77.9,4,4,4,1,No,217739
+Pueblo Libre,76.7,3,3,20,4,Si,183299
+Surco,60.2,3,3,18,10,Si,164702
+Surco,99.6,2,1,25,9,Si,213937
+San Isidro,85.7,3,2,12,8,Si,202770
+Pueblo Libre,143.1,2,1,34,2,Si,239584
+Barranco,106.3,2,1,6,14,Si,309519
+Surco,103.8,2,1,4,6,Si,218933
+Surco,77.2,4,3,43,1,Si,213934
+San Miguel,35.5,4,4,20,7,Si,86778
+San Isidro,81.9,3,2,31,5,Si,208713
+Magdalena,55.2,2,2,18,2,No,110036
+Barranco,118.3,1,1,17,8,Si,295569
+San Miguel,83.9,2,2,6,7,No,158549
+Surco,143.3,4,3,44,2,Si,282486
+Surco,110.7,5,4,15,13,No,275445
+San Miguel,114.2,5,4,4,10,No,198833
+Pueblo Libre,93.1,5,5,42,11,No,165286
+Miraflores,92.3,1,1,15,13,No,197912
+Miraflores,107.9,4,4,6,10,Si,301930
+Lince,117.3,5,5,39,14,Si,234516
+Miraflores,60.1,1,1,4,2,No,132258
+Barranco,102.2,1,1,43,3,Si,213992
+Lince,176.7,5,5,43,4,No,302765
+Miraflores,81.9,2,1,35,8,Si,214266
+San Isidro,76.1,5,4,15,5,No,250244
+San Isidro,60.8,5,4,8,15,Si,234558
+Miraflores,34.3,3,3,1,11,No,133552
+Surco,126.6,5,5,25,2,Si,288145
+Pueblo Libre,87.1,3,3,12,13,Si,162111
+Barranco,95.5,1,1,3,11,Si,206195
+Miraflores,149.6,3,2,33,10,Si,387185
+San Miguel,172.8,4,3,2,5,Si,293696
+San Miguel,53.9,3,2,39,5,No,45000
+Pueblo Libre,121.9,4,4,38,14,Si,264825
+Miraflores,106.8,2,1,33,13,Si,229265
+Pueblo Libre,99.0,2,1,0,10,Si,201700
+Pueblo Libre,101.8,1,1,25,5,Si,183007
+Surco,84.2,4,4,4,14,Si,205705
+San Miguel,140.7,5,4,10,7,Si,331788
+Surco,106.6,4,3,4,1,Si,246654
+Surco,97.1,2,1,7,5,Si,190170
+Miraflores,128.7,2,2,32,10,Si,381956
+Pueblo Libre,116.5,5,5,36,11,No,186461
+Magdalena,101.2,3,2,28,7,No,146925
+Magdalena,96.5,5,4,5,7,No,185264
+San Isidro,146.5,4,4,9,2,Si,427599
+Lince,102.9,2,2,25,11,Si,189667
+Magdalena,82.0,4,4,18,7,No,176276
+Surco,55.1,1,1,21,2,No,50744
+Surco,73.1,3,2,42,12,Si,154896
+Magdalena,48.4,2,1,43,8,Si,137121
+San Isidro,88.9,4,3,9,9,No,247376
+Pueblo Libre,94.1,3,2,9,3,No,159973
+Magdalena,28.0,1,1,3,9,No,69156
+Surco,85.7,3,3,28,8,Si,215559
+San Miguel,107.8,1,1,29,5,Si,148302
+Surco,90.9,5,4,38,1,Si,172160
+Surco,51.7,1,1,4,8,Si,92679
+Barranco,129.5,3,3,24,15,Si,356826
+San Miguel,60.7,4,4,25,7,Si,144276
+Barranco,42.1,2,1,23,12,Si,52213
+Magdalena,47.3,3,3,11,14,Si,64278
+Surco,84.6,2,2,0,12,Si,166272
+Lince,119.5,5,4,1,14,No,203730
+Lince,125.9,4,4,37,8,No,228145
+Miraflores,92.4,5,5,29,7,Si,275953
+Lince,43.3,5,5,39,7,No,129607
+Pueblo Libre,62.1,1,1,33,8,No,99356
+Miraflores,53.6,5,4,42,5,No,138799
+Surco,78.8,2,1,14,5,Si,197283
+Miraflores,28.0,2,2,14,8,No,48013
+Pueblo Libre,88.9,3,3,7,9,Si,146820
+San Isidro,107.6,3,3,9,3,No,309461
+Surco,79.8,3,2,43,2,No,158871
+Barranco,101.1,1,1,7,13,Si,215400
+Pueblo Libre,52.2,5,4,11,15,No,136092
+San Miguel,34.1,3,3,37,11,No,66215
+Lince,62.7,3,3,11,7,No,105562
+Barranco,125.5,2,2,8,12,Si,327544
+Pueblo Libre,121.1,2,1,16,1,Si,204269
+Miraflores,69.0,4,3,36,15,Si,195110
+Surco,127.2,4,4,10,5,No,291845
+Lince,73.7,3,2,24,7,Si,120733
+Miraflores,137.9,2,1,11,15,Si,400588
+San Miguel,101.9,1,1,42,8,No,151584
+Pueblo Libre,69.2,3,3,41,5,Si,141825
+Barranco,112.9,1,1,24,10,Si,221198
+Magdalena,57.9,1,1,3,6,Si,76986
+Barranco,52.3,2,2,39,13,Si,140341
+San Miguel,34.2,3,2,37,15,No,45000
+Miraflores,94.1,1,1,21,14,Si,229770
+Miraflores,83.1,3,3,24,12,Si,214894
+Magdalena,82.3,3,3,20,15,No,125734
+Surco,70.7,4,3,1,6,Si,172962
+San Isidro,135.3,5,5,16,15,No,385135
+Surco,70.2,3,3,6,3,No,133491
+Barranco,59.7,2,2,32,14,Si,158279
+Pueblo Libre,128.6,3,2,29,6,Si,196034
+Magdalena,134.7,5,5,27,9,No,299632
+San Miguel,96.9,4,4,25,6,No,104215
+Miraflores,28.0,2,2,17,13,No,133332
+Pueblo Libre,64.0,1,1,10,14,Si,85681
+Lince,106.5,3,3,0,4,Si,234424
+Surco,85.6,4,3,13,9,No,207728
+Magdalena,139.4,3,2,20,10,No,264193
+Miraflores,37.2,4,3,41,14,No,107269
+San Miguel,108.7,2,2,22,3,Si,177101
+Pueblo Libre,63.1,4,4,33,15,No,64516
+San Miguel,131.3,4,3,20,4,Si,241076
+Magdalena,82.4,2,2,29,14,Si,190883
+San Miguel,121.1,4,3,17,8,Si,207164
+Miraflores,62.3,1,1,41,7,Si,103341
+Magdalena,35.7,1,1,4,13,No,50739
+San Isidro,46.1,5,4,10,6,Si,177977
+Barranco,63.8,3,3,35,8,No,150829
+Barranco,49.1,5,5,14,9,Si,189482
+Pueblo Libre,127.0,4,3,27,14,Si,250919
+Pueblo Libre,131.9,5,4,37,11,No,240960
+Lince,94.6,4,3,39,15,Si,125838
+Miraflores,48.8,3,2,19,13,No,183812
+San Isidro,80.9,5,5,12,2,Si,268003
+Surco,61.0,5,4,20,13,No,161393
+San Miguel,135.9,5,5,8,6,Si,254859
+Pueblo Libre,96.1,5,5,36,5,Si,182644
+Surco,102.1,2,1,43,12,Si,195760
+Magdalena,71.0,3,3,44,12,No,159254
+Pueblo Libre,28.0,5,4,12,4,Si,123871
+Barranco,58.0,5,4,39,6,No,154404
+Miraflores,45.9,3,2,44,1,Si,161875
+Surco,98.0,5,4,34,12,No,192222
+San Miguel,88.4,4,4,26,3,No,157427
+Pueblo Libre,56.9,1,1,20,1,Si,82319
+Miraflores,71.4,4,4,17,5,Si,248057
+Surco,139.8,1,1,31,13,Si,275258
+Surco,51.4,5,5,13,8,Si,171471
+Pueblo Libre,52.9,3,3,10,11,Si,163416
+Pueblo Libre,77.0,1,1,22,15,No,62024
+Lince,60.5,3,2,11,3,No,163091
+Barranco,70.0,1,1,6,7,No,170813
+Surco,103.6,4,3,9,4,Si,230254
+Pueblo Libre,145.6,5,4,41,11,Si,217437
+San Miguel,28.0,3,3,30,5,No,45000
+Magdalena,84.4,2,1,21,10,No,91485
+Surco,86.5,5,4,42,8,No,173873
+San Miguel,82.1,1,1,23,15,No,110246
+Surco,78.5,5,4,34,14,Si,227995
+Lince,73.1,4,4,6,6,Si,158616
+Barranco,120.1,1,1,11,15,Si,326481
+Miraflores,68.7,5,5,1,4,Si,259066
+San Miguel,80.5,2,2,29,10,Si,186985
+Barranco,85.0,5,5,36,8,No,205143
+San Miguel,88.8,5,5,15,2,Si,199610
+Pueblo Libre,79.0,1,1,18,8,No,81346
+Surco,120.0,4,4,37,15,No,210744
+Miraflores,84.7,3,3,2,2,Si,243735
+Magdalena,91.1,1,1,21,15,No,157406
+Miraflores,83.2,2,2,18,7,No,179460
+Lince,49.9,4,4,11,2,Si,109102
+San Miguel,56.0,1,1,15,8,No,95866
+Barranco,48.2,1,1,13,10,Si,113342
+Miraflores,91.7,3,2,33,10,Si,241809
+San Miguel,60.0,3,3,3,10,No,90573
+Surco,47.9,5,4,3,8,No,161139
+Miraflores,93.3,5,4,16,10,Si,327111
+Surco,103.4,5,4,5,3,No,236929
+San Isidro,28.0,1,1,15,11,Si,83256
+Surco,144.1,3,2,35,6,Si,333842
+Pueblo Libre,86.1,5,5,20,1,No,174134
+San Miguel,81.3,3,2,30,13,Si,122733
+San Miguel,122.3,3,3,29,5,No,154241
+San Isidro,87.4,1,1,24,5,No,208740
+Surco,63.9,5,5,41,6,Si,204264
+Surco,161.8,3,2,29,15,Si,319026
+Lince,47.4,5,5,36,10,No,166028
+Miraflores,81.6,3,2,42,4,Si,208146
+Surco,114.7,1,1,25,2,No,200103
+San Miguel,47.6,2,1,13,1,No,100222
+Surco,81.4,4,3,16,5,No,165066
+Barranco,98.5,2,2,0,9,Si,274270
+Pueblo Libre,169.1,5,5,7,3,No,288176
+Barranco,53.8,2,2,10,6,No,97280
+Lince,83.3,2,1,26,1,No,106628
+Miraflores,108.1,2,2,3,7,No,293145
+San Isidro,87.8,4,4,2,8,Si,272680
+Miraflores,42.9,2,2,5,12,Si,86074
+Magdalena,99.3,2,2,2,4,No,205968
+Barranco,88.8,5,4,39,8,Si,228186
+San Miguel,100.6,2,2,28,8,Si,158886
+San Miguel,124.6,2,1,27,3,No,164035
+Lince,120.5,2,2,7,4,No,154219
+San Isidro,99.3,2,1,24,12,No,306505
+Miraflores,95.9,2,1,38,12,Si,231530
+Surco,46.6,1,1,12,3,No,94133
+Lince,80.3,5,5,30,2,Si,202564
+Magdalena,92.7,5,4,20,9,Si,240314
+Miraflores,71.0,2,1,23,12,Si,196317
+Magdalena,88.4,5,5,31,10,Si,199325
+San Miguel,56.1,3,2,42,10,Si,97950
+Lince,138.7,4,3,17,14,Si,295329
+Magdalena,160.3,3,2,5,3,Si,344463
+San Miguel,71.4,2,2,39,13,Si,100514
+San Miguel,99.0,4,4,13,6,No,185691
+Surco,76.8,3,3,41,9,Si,167737
+Miraflores,129.2,5,5,22,6,Si,389294
+Magdalena,100.2,5,5,11,1,No,218489
+Miraflores,87.7,4,3,43,7,No,251620
+Surco,77.2,4,3,7,12,No,178920
+Lince,89.4,5,4,3,11,Si,228804
+Pueblo Libre,50.0,5,4,11,10,Si,129278
+Surco,108.6,1,1,27,1,Si,194523
+Lince,60.0,1,1,33,14,No,56287
+Barranco,103.7,4,4,41,3,No,236061
+Lince,89.5,5,5,30,1,No,178036
+San Miguel,123.3,1,1,6,11,No,226966
+Surco,84.4,5,4,23,13,Si,200065
+Barranco,120.8,5,4,31,2,No,280150
+Miraflores,52.7,3,2,39,9,No,108049
+San Miguel,106.3,3,2,31,13,Si,212355
+San Isidro,77.2,4,3,36,9,Si,232349
+Miraflores,91.8,1,1,16,6,No,212211
+San Miguel,87.5,2,2,17,2,Si,168757
+Pueblo Libre,117.8,5,4,24,1,Si,192849
+Pueblo Libre,28.0,3,2,10,15,Si,76563
+Magdalena,96.3,3,3,42,12,No,168244
+Miraflores,32.7,4,4,32,6,Si,100150
+Miraflores,127.2,3,2,21,4,Si,314097
+Surco,28.0,5,4,18,15,Si,118753
+Miraflores,49.9,1,1,20,15,Si,176865
+Surco,28.0,4,4,0,11,Si,69021
+Magdalena,142.4,5,4,25,14,No,287617
+Pueblo Libre,39.9,3,2,39,11,Si,87153
+Pueblo Libre,89.0,3,3,1,14,Si,246375
+Miraflores,66.2,5,5,43,13,No,165025
+San Isidro,28.0,5,4,36,14,Si,77264
+San Miguel,73.2,2,1,6,8,No,117790
+Miraflores,108.2,1,1,2,2,Si,345735
+Surco,78.6,5,5,32,12,Si,189368
+Miraflores,117.9,4,3,44,1,Si,314814
+Lince,72.3,5,4,16,11,No,193221
+San Isidro,85.2,2,1,43,7,Si,172299
+Surco,71.5,4,3,44,5,Si,91743
+Pueblo Libre,97.0,3,3,36,7,No,177252
+Magdalena,151.5,2,2,40,14,Si,304701
+Lince,97.7,4,3,40,7,Si,144326
+Magdalena,91.8,3,2,0,8,Si,220283
+Surco,63.4,5,4,27,9,No,139548
+Miraflores,58.6,2,1,0,10,Si,182922
+Magdalena,136.2,5,4,13,12,No,261753
+Lince,46.1,4,3,5,10,Si,108051
+Miraflores,53.0,1,1,27,12,No,95713
+Magdalena,81.6,1,1,33,9,Si,149243
+San Isidro,70.1,5,5,30,14,No,204349
+Surco,153.5,4,3,10,11,No,367127
+Surco,28.0,1,1,6,11,Si,87295
+Pueblo Libre,97.6,5,5,2,4,No,157771
+Lince,109.9,1,1,34,14,Si,195779
+Magdalena,45.8,2,2,24,9,Si,132830
+Surco,62.4,2,2,13,2,No,127014
+Magdalena,100.1,3,2,14,3,Si,235930
+Surco,142.0,2,2,23,1,Si,287421
+Surco,52.8,5,4,16,12,No,144860
+Surco,29.7,4,4,11,7,Si,71527
+Surco,119.0,2,1,14,12,No,253958
+Barranco,138.3,3,3,12,14,No,306977
+San Isidro,73.3,1,1,43,14,No,205964
+San Isidro,28.0,2,1,39,6,Si,45000
+Surco,135.8,1,1,30,9,No,194672
+Barranco,78.1,4,4,34,2,No,197236
+San Miguel,124.3,2,1,3,1,Si,210754
+San Miguel,83.5,5,5,2,2,No,167319
+Surco,71.9,4,4,7,2,Si,190561
+Pueblo Libre,69.2,4,3,34,4,Si,128540
+San Miguel,136.6,3,3,37,12,Si,204271
+Surco,135.2,4,4,41,13,Si,290011
+Pueblo Libre,28.0,3,3,3,7,Si,90006
+Surco,52.2,5,5,31,6,No,127429
+Pueblo Libre,147.2,5,5,0,15,No,339165
+Lince,72.1,2,1,31,13,Si,107530
+Miraflores,37.4,5,5,12,6,Si,142560
+Lince,85.2,5,5,11,15,Si,210651
+Pueblo Libre,81.2,1,1,6,12,Si,141778
+Magdalena,81.6,1,1,31,12,Si,119511
+Pueblo Libre,68.2,1,1,31,13,No,78590
+San Miguel,74.1,1,1,17,14,No,134249
+Barranco,69.0,1,1,8,12,Si,172291
+Magdalena,96.7,5,4,41,4,Si,214418
+Barranco,56.6,4,4,13,10,No,135611
+Surco,74.9,1,1,31,3,Si,151536
+Magdalena,80.0,4,3,16,11,Si,164875
+San Isidro,130.7,2,2,14,4,No,339959
+Miraflores,98.1,2,2,19,5,Si,268240
+Magdalena,81.2,3,2,39,1,No,134114
+San Miguel,103.8,4,3,14,5,Si,232163
+Pueblo Libre,99.2,1,1,34,14,No,101785
+Barranco,123.1,5,5,35,12,No,318489
+Pueblo Libre,102.7,3,2,9,4,No,220515
+Miraflores,147.8,3,2,26,14,No,414398
+Pueblo Libre,132.1,2,1,9,10,No,214526
+Pueblo Libre,83.6,5,4,2,8,Si,173644
+Pueblo Libre,70.5,1,1,0,5,Si,123658
+Surco,115.9,1,1,19,13,No,226312
+San Isidro,103.1,4,4,34,9,Si,312634
+Magdalena,81.7,5,5,10,15,No,194192
+Surco,33.3,3,2,3,7,Si,111447
+Magdalena,28.0,2,2,19,12,No,45000
+Surco,97.2,1,1,12,11,No,157875
+Miraflores,112.0,3,3,8,4,Si,287146
+Pueblo Libre,113.1,4,4,33,4,No,156252
+Pueblo Libre,39.9,5,4,2,9,Si,114984
+Lince,121.3,3,2,13,5,No,222358
+San Miguel,66.3,2,1,37,13,No,148410
+Miraflores,98.6,1,1,12,3,No,257537
+Magdalena,99.6,5,4,18,13,No,209277
+Barranco,56.9,5,4,2,5,Si,219848
+Magdalena,64.3,1,1,6,4,Si,114338
+Surco,28.0,3,2,2,13,No,79105
+Barranco,52.9,1,1,23,2,Si,147928
+Surco,28.0,1,1,25,15,Si,76167
+Surco,100.3,5,5,19,10,Si,251755
+Magdalena,87.1,2,1,6,1,No,152447
+Pueblo Libre,117.0,5,5,9,6,Si,213060
+Pueblo Libre,97.5,2,2,43,13,No,138418
+Surco,62.8,1,1,33,2,Si,98331
+Pueblo Libre,97.1,1,1,1,12,Si,201933
+Surco,71.3,2,2,44,8,No,113503
+Pueblo Libre,106.3,2,2,14,2,Si,207310
+Surco,96.0,2,2,21,9,No,144244
+Pueblo Libre,50.4,1,1,8,3,Si,119326
+Miraflores,85.1,1,1,21,7,Si,200504
+Surco,86.9,2,1,40,13,Si,126750
+San Isidro,74.2,4,4,8,11,No,195078
+Surco,116.3,4,3,33,3,Si,228198
+Miraflores,145.0,1,1,38,10,No,377401
+Pueblo Libre,72.1,1,1,5,14,No,138854
+San Miguel,72.7,4,3,8,5,Si,119338
+Surco,28.0,1,1,2,9,No,57917
+Miraflores,80.5,3,2,28,7,No,198108
+Pueblo Libre,69.7,1,1,3,15,No,77902
+Miraflores,28.0,5,4,9,11,Si,92203
+San Miguel,95.1,2,1,33,8,Si,97137
+Miraflores,105.7,2,1,44,14,Si,242324
+Surco,59.3,1,1,33,2,No,45000
+Surco,72.0,3,3,33,14,Si,135214
+Miraflores,51.2,3,3,28,10,No,106728
+Barranco,111.7,4,4,20,5,No,257154
+Barranco,31.9,5,4,22,7,Si,87760
+Magdalena,74.0,1,1,27,1,No,144328
+Lince,153.3,5,4,20,2,Si,289750
+Surco,86.8,4,3,2,3,Si,216279
+Magdalena,101.4,3,3,26,13,No,211196
+San Isidro,79.9,5,4,9,15,No,273589
+Pueblo Libre,43.9,4,3,4,14,No,113853
+Surco,83.9,3,2,17,10,Si,174017
+Barranco,99.2,4,4,35,15,Si,228974
+San Miguel,49.2,4,3,22,5,Si,80687
+Magdalena,97.0,4,3,34,10,Si,187996
+Miraflores,128.6,1,1,32,3,Si,323985
+Barranco,122.4,5,5,30,9,Si,322860
+San Miguel,29.6,1,1,9,2,Si,82618
+Lince,50.9,2,2,10,3,No,84533
+Pueblo Libre,28.5,2,1,22,12,Si,101738
+San Miguel,122.5,4,4,9,15,Si,262163
+Lince,106.4,4,3,40,1,Si,178559
+Magdalena,109.6,3,3,44,12,Si,233063
+Pueblo Libre,54.3,3,3,39,13,No,45000
+San Isidro,44.2,4,3,42,11,Si,168412
+Surco,87.7,2,2,30,6,Si,188130
+Pueblo Libre,88.5,4,4,33,11,Si,181210
+Lince,55.1,5,4,26,1,Si,78236
+Barranco,90.0,1,1,35,13,No,254490
+Surco,107.6,4,3,6,14,No,228885
+Miraflores,93.0,5,4,20,6,No,253330
+Magdalena,48.6,3,3,29,6,No,115133
+Surco,28.0,1,1,39,2,Si,45000
+Magdalena,75.9,1,1,30,11,No,100441
+San Isidro,90.8,3,2,31,15,Si,280279
+Pueblo Libre,75.9,3,2,6,4,Si,128091
+Pueblo Libre,70.0,3,2,19,1,No,132491
+Surco,60.8,2,2,17,3,Si,135614
+San Isidro,110.0,5,4,30,5,No,343319
+Surco,83.2,1,1,9,13,Si,148222
+Magdalena,89.3,1,1,3,8,No,199715
+San Isidro,51.0,1,1,14,1,No,134807
+Miraflores,63.3,4,4,17,1,No,224158
+Surco,90.7,1,1,6,3,No,157036
+San Isidro,49.8,2,2,37,5,No,164819
+San Miguel,40.9,4,4,29,3,Si,102328
+San Miguel,73.5,1,1,21,14,Si,140971
+Lince,127.0,5,4,20,8,No,220245
+San Miguel,91.7,2,2,25,10,No,151988
+Pueblo Libre,136.1,1,1,6,15,No,245695
+San Isidro,80.4,4,4,25,9,Si,230170
+San Miguel,74.1,3,3,5,1,No,98671
+Magdalena,36.3,1,1,42,1,Si,45000
+Magdalena,64.8,4,3,42,3,No,147006
+Magdalena,135.2,5,5,9,7,No,289580
+San Miguel,96.5,2,2,7,4,Si,197547
+Barranco,110.7,1,1,30,2,Si,263465
+Pueblo Libre,109.7,3,2,28,4,Si,196860
+Surco,84.7,2,2,20,6,Si,185275
+Barranco,77.8,4,4,37,6,Si,190814
+Barranco,89.2,2,2,10,6,No,245492
+San Isidro,108.5,2,2,40,1,No,280922
+Surco,101.0,1,1,2,7,Si,224045
+Surco,102.2,1,1,40,3,Si,152109
+Surco,90.4,5,5,27,5,Si,219594
+San Miguel,58.1,4,3,2,15,No,99096
+Magdalena,75.8,5,5,8,12,Si,180807
+Magdalena,52.0,1,1,43,13,Si,110896
+Lince,120.2,5,5,26,7,No,197526
+San Isidro,28.0,4,3,25,8,No,76883
+Surco,77.4,1,1,19,14,No,157665
+Miraflores,168.6,3,2,34,14,No,456598
+Surco,73.0,5,5,18,6,Si,171544
+Lince,45.3,3,2,6,8,Si,115234
+Miraflores,84.4,2,1,39,3,No,197638
+Magdalena,130.1,5,4,8,2,Si,258329
+San Miguel,79.4,2,2,4,6,Si,95336
+Surco,106.5,5,5,39,6,Si,185723
+Magdalena,88.5,4,4,25,14,Si,210471
+Surco,71.9,1,1,31,13,No,123608
+Surco,195.3,1,1,18,6,No,341140
+Surco,87.5,1,1,33,15,No,134233
+San Isidro,66.2,1,1,6,13,No,172329
+Barranco,67.9,3,2,33,10,No,143399
+Barranco,98.3,5,5,17,11,No,259533
+Lince,99.3,4,3,42,7,Si,237458
+Barranco,112.0,2,2,39,4,Si,242405
+San Isidro,89.9,4,4,25,2,No,258763
+Lince,34.9,4,3,8,3,No,55083
+Miraflores,103.6,1,1,27,7,No,231581
+Lince,74.2,3,3,30,2,No,97737
+San Miguel,75.0,4,4,43,1,No,102392
+Pueblo Libre,33.1,1,1,12,7,Si,50427
+Surco,64.9,3,3,26,9,Si,155205
+San Isidro,59.6,3,3,23,11,Si,191898
+Miraflores,83.7,3,3,30,6,Si,205984
+Miraflores,34.1,1,1,24,5,Si,134930
+Surco,86.8,4,3,5,2,No,159105
+Surco,89.4,1,1,3,15,Si,205463
+Lince,45.8,4,4,33,11,Si,156130
+Surco,63.1,1,1,36,1,Si,92860
+Lince,55.0,3,2,44,15,No,110898
+Magdalena,116.8,3,3,17,12,No,264561
+San Isidro,28.0,5,5,7,6,Si,134629
+Pueblo Libre,73.0,2,1,9,3,No,71762
+San Isidro,28.0,1,1,5,15,Si,130659
+Miraflores,69.9,2,1,9,15,No,183880
+Lince,114.6,5,4,20,8,No,203157
+Barranco,62.9,5,4,44,2,Si,194737
+San Isidro,89.8,1,1,10,6,No,224106
+Miraflores,55.4,5,4,42,14,No,171615
+Pueblo Libre,152.9,5,4,15,14,Si,285903
+Surco,117.0,4,4,21,7,Si,275768
+Miraflores,124.5,5,5,38,5,No,300286
+Magdalena,38.5,2,2,12,5,No,60914
+San Isidro,46.5,1,1,38,13,Si,96389
+Magdalena,122.8,4,3,31,1,Si,227019
+Surco,78.2,4,4,10,10,Si,200149
+Surco,76.0,4,4,2,4,Si,188811
+Surco,96.7,1,1,0,8,No,198782
+Pueblo Libre,41.1,3,2,38,6,No,85407
+Lince,112.1,3,2,6,10,Si,222425
+Magdalena,85.6,2,1,0,15,No,122118
+Miraflores,101.8,3,3,35,8,Si,265901
+Surco,61.5,2,1,2,15,No,130423
+San Isidro,103.0,4,3,24,9,Si,337487
+Miraflores,60.3,3,3,15,2,Si,203555
+San Isidro,118.4,5,4,28,14,No,367364
+San Isidro,124.5,2,2,20,9,No,337068
+Lince,116.9,3,2,26,15,Si,234232
+Magdalena,103.1,5,4,0,1,Si,204736
+San Miguel,107.2,1,1,19,13,Si,209305
+Magdalena,28.0,3,2,12,2,Si,83169
+Barranco,114.2,2,2,35,2,No,264425
+Surco,75.4,4,3,44,10,Si,148898
+Surco,88.3,1,1,16,1,Si,178904
+Barranco,75.1,5,4,34,8,No,168543
+Surco,36.3,1,1,9,14,Si,99845
+Magdalena,66.1,4,3,2,14,Si,133055
+Miraflores,108.0,3,2,32,12,No,295986
+Barranco,134.6,1,1,39,14,No,307708
+Surco,63.2,3,3,40,14,No,166092
+Pueblo Libre,53.4,2,1,20,3,Si,93877
+Pueblo Libre,135.8,4,4,40,1,Si,237170
+Magdalena,54.1,5,5,44,10,No,110512
+Miraflores,157.6,3,3,5,12,Si,444684
+San Isidro,86.8,1,1,14,13,No,231086
+Barranco,54.1,2,1,3,2,Si,118665
+Barranco,119.5,2,2,13,12,No,259153
+Magdalena,144.3,2,1,12,5,Si,271589
+Lince,34.8,4,3,30,9,Si,71766
+Magdalena,139.6,4,3,40,15,No,227927
+Miraflores,75.2,5,5,21,8,No,185662
+Barranco,137.0,5,5,2,12,Si,375939
+San Miguel,71.7,5,4,12,9,Si,175338
+Lince,29.8,4,4,26,14,No,55464
+Pueblo Libre,102.6,4,3,23,7,No,196223
+Surco,117.4,4,3,25,1,Si,276312
+Surco,158.4,4,4,28,9,Si,360304
+Pueblo Libre,145.3,2,2,44,4,Si,225844
+San Miguel,109.3,2,1,14,14,No,160341
+Surco,76.7,4,3,31,15,Si,123985
+San Isidro,66.8,1,1,37,6,No,139186
+Miraflores,74.7,3,2,43,13,Si,205764
+Miraflores,55.9,4,4,33,7,Si,136066
+San Miguel,75.4,4,4,0,15,Si,202195
+Pueblo Libre,28.0,1,1,33,7,Si,75700
+Lince,91.3,3,3,39,12,Si,157150
+Miraflores,84.0,4,3,29,13,Si,261741
+Surco,174.8,2,1,39,6,No,286407
+Magdalena,111.6,1,1,10,4,No,175061
+Pueblo Libre,68.2,3,3,35,8,Si,115030
+Miraflores,104.8,1,1,31,7,Si,265800
+Surco,42.1,3,2,16,6,No,79851
+Pueblo Libre,63.9,5,5,7,12,Si,137012
+Magdalena,28.0,3,2,16,7,Si,122490
+Surco,135.3,1,1,6,6,No,272431
+San Isidro,105.8,4,4,28,9,No,309451
+Lince,43.9,3,2,22,13,No,92611
+Surco,82.9,3,2,17,3,Si,185779
+Magdalena,118.2,1,1,7,9,No,214376
+Surco,102.3,3,3,21,1,Si,205288
+Miraflores,98.4,5,4,5,2,Si,256438
+San Isidro,55.0,4,3,29,14,No,193946
+Miraflores,62.7,1,1,26,6,No,117907
+San Isidro,88.3,1,1,28,4,No,180181
+San Isidro,117.2,4,3,43,3,No,293237
+Surco,56.0,5,4,7,10,No,99502
+Barranco,45.8,5,5,2,7,Si,213119
+Surco,125.0,1,1,0,7,No,259220
+San Miguel,52.4,2,1,19,6,No,108799
+Miraflores,122.7,4,3,6,13,Si,394340
+Miraflores,93.5,1,1,4,6,No,253612
+San Miguel,115.8,3,2,35,1,Si,199599
+Surco,146.1,1,1,24,13,Si,274554
+Surco,109.1,2,1,21,6,No,203450
+Barranco,112.2,1,1,25,14,Si,253861
+Pueblo Libre,52.9,3,3,44,13,Si,93819
+San Isidro,60.7,4,3,22,12,Si,177509
+San Miguel,107.5,1,1,24,5,Si,201628
+San Miguel,138.7,3,3,1,12,Si,278627
+Barranco,133.7,3,3,41,14,Si,323364
+Miraflores,166.1,5,4,31,14,Si,416414
+San Miguel,95.9,1,1,32,14,Si,165314
+Barranco,92.1,4,3,22,14,Si,269006
+Pueblo Libre,120.2,4,3,0,5,Si,242097
+San Miguel,85.7,3,3,25,3,Si,118045
+Magdalena,82.8,3,2,7,4,Si,192557
+San Miguel,48.3,2,2,30,14,Si,109083
+Surco,119.7,5,4,5,3,No,215587
+San Miguel,47.5,2,2,40,3,No,64549
+Surco,102.9,5,4,33,14,No,167083
+Barranco,35.3,5,4,19,5,No,102033
+Surco,123.4,4,3,7,11,Si,328754
+Barranco,49.0,5,4,41,12,Si,139140
+Magdalena,114.5,2,2,38,2,Si,222798
+San Miguel,29.4,3,3,7,3,No,48339
+San Isidro,69.6,4,3,11,12,No,210908
+San Isidro,126.2,4,3,20,15,Si,440291
+Surco,56.8,4,4,32,1,No,144714
+Surco,87.4,4,4,7,14,No,190187
+Lince,68.3,1,1,43,15,No,77412
+Lince,28.0,2,1,16,1,No,45000
+Lince,95.8,1,1,26,15,No,204792
+Magdalena,100.1,1,1,40,10,No,165515
+Pueblo Libre,46.2,3,3,5,11,Si,140904
+Barranco,105.1,4,4,43,14,No,237559
+Surco,57.2,1,1,15,5,Si,86461
+Miraflores,49.9,5,4,21,9,Si,197988
+San Miguel,85.2,5,4,4,5,Si,179675
+Barranco,61.2,5,4,12,9,No,150600
+Miraflores,165.2,3,2,35,8,Si,416469
+Barranco,30.6,2,1,14,9,No,51438
+Barranco,110.8,3,3,42,10,Si,254858
+Magdalena,119.6,1,1,40,9,Si,175304
+Miraflores,28.0,3,3,23,3,Si,118100
+San Isidro,28.0,2,2,19,9,Si,101238
+San Miguel,104.7,1,1,7,8,No,187357
+San Miguel,68.1,1,1,8,11,No,95796
+Pueblo Libre,98.4,1,1,41,7,No,143214
+Pueblo Libre,124.9,5,5,37,15,Si,242984
+San Isidro,72.0,2,1,1,1,No,231406
+San Miguel,47.8,2,1,22,2,Si,99027
+Magdalena,28.0,3,3,44,14,Si,65129
+Surco,92.2,5,5,19,4,No,186472
+San Isidro,52.5,1,1,27,10,Si,114822
+San Isidro,96.0,2,2,40,1,Si,239145
+Surco,93.1,4,4,4,13,Si,213871
+Barranco,36.5,5,4,33,2,No,75889
+Miraflores,145.3,4,4,23,4,Si,370718
+Surco,122.9,3,3,0,4,Si,321847
+Surco,114.7,5,4,30,15,Si,264263
+Barranco,43.5,5,5,43,14,Si,74710
+Surco,70.7,5,4,29,1,Si,136123
+Barranco,65.9,3,3,20,5,No,124575
+Surco,70.5,2,1,15,11,Si,160066
+Pueblo Libre,45.7,4,3,8,10,No,123408
+Surco,100.2,3,2,29,14,No,168123
+San Isidro,93.0,1,1,40,5,Si,260637
+Magdalena,97.8,5,5,11,12,Si,225997
+Surco,67.3,1,1,18,15,Si,169410
+Surco,130.2,4,3,33,6,Si,308901
+Magdalena,91.6,2,2,30,3,Si,182043
+Magdalena,28.0,1,1,24,9,Si,71545
+San Miguel,62.6,5,5,33,6,Si,126883
+San Miguel,83.0,4,4,44,15,Si,135111
+Pueblo Libre,118.8,5,4,8,6,Si,215225
+Magdalena,74.5,2,1,4,1,Si,165353
+San Isidro,76.2,4,4,44,4,No,201177
+Magdalena,61.8,5,4,10,3,Si,146774
+San Isidro,108.3,3,2,25,2,Si,309703
+San Isidro,69.3,2,1,38,3,No,161034
+Miraflores,63.9,1,1,2,6,No,137398
+Surco,59.0,3,3,29,8,No,100003
+Miraflores,104.5,5,5,24,4,Si,333278
+Pueblo Libre,66.3,2,2,27,9,Si,113498
+Magdalena,28.0,4,3,0,1,No,107306
+Magdalena,106.8,4,3,29,11,No,175463
+Miraflores,60.5,4,4,44,14,No,116759
+Pueblo Libre,97.5,2,1,36,15,No,147180
+San Miguel,98.1,5,4,29,6,No,184630
+Miraflores,127.1,2,1,5,13,Si,334825
+San Isidro,121.6,2,2,17,1,Si,365426
+Barranco,64.9,5,5,14,7,No,204116
+Surco,79.2,4,3,35,10,Si,200597
+San Isidro,39.8,1,1,28,8,Si,104828
+Surco,143.7,4,3,35,8,No,281697
+Surco,100.5,2,2,16,1,Si,169077
+Pueblo Libre,133.8,4,3,31,11,Si,246242
+Surco,73.8,5,5,16,14,No,179911
+Magdalena,28.0,1,1,10,6,Si,98187
+San Isidro,138.6,1,1,17,7,Si,360180
+Magdalena,88.3,4,4,4,3,Si,185235
+Magdalena,89.7,2,1,39,9,Si,138172
+Magdalena,86.9,5,5,38,10,Si,213455
+Miraflores,107.6,4,3,15,14,No,228725
+Lince,103.7,4,3,39,6,Si,163075
+Pueblo Libre,29.3,5,4,13,12,Si,143587
+Barranco,123.0,1,1,15,14,No,301816
+Surco,66.5,2,1,7,11,No,100770
+Surco,68.7,5,4,17,5,No,152783
+Surco,145.5,3,2,22,7,Si,326713
+San Isidro,117.2,1,1,18,4,Si,343490
+Barranco,73.2,1,1,41,14,No,139281
+Surco,28.0,2,2,12,3,Si,50458
+Magdalena,90.7,2,2,25,10,No,184378
+Surco,103.9,5,5,42,4,Si,225840
+Miraflores,82.2,2,1,16,1,No,222094
+Surco,41.4,3,3,23,4,Si,108248
+San Isidro,57.3,5,5,39,7,No,153342
+Miraflores,41.1,2,1,31,8,No,124102
+Lince,92.5,2,1,30,3,No,127369
+Barranco,113.7,5,4,27,6,Si,311372
+Surco,120.9,2,1,10,6,No,222014
+Surco,59.4,4,3,4,15,No,134780
+Miraflores,93.2,4,4,15,10,No,253011
+San Miguel,104.4,1,1,3,4,Si,163736
+Lince,67.1,2,1,25,2,No,104833
+San Isidro,79.8,2,2,6,15,Si,280735
+Surco,159.3,3,3,26,3,No,359860
+Surco,92.2,5,5,22,6,Si,256257
+San Isidro,115.9,1,1,44,3,Si,300070
+Pueblo Libre,69.8,5,5,28,8,Si,187650
+Magdalena,86.5,4,3,42,9,No,165630
+Magdalena,28.0,1,1,44,15,Si,83367
+Pueblo Libre,84.1,1,1,10,7,No,103087
+Miraflores,126.7,3,3,40,12,No,354833
+San Isidro,158.5,5,5,22,8,Si,465698
+Surco,126.9,4,4,33,15,No,285602
+Magdalena,109.0,1,1,17,4,No,179545
+Surco,86.9,2,2,17,9,Si,211526
+Surco,64.0,3,3,0,2,No,135301
+San Miguel,79.4,1,1,15,5,No,66135
+Miraflores,106.4,3,2,11,9,Si,276732
+Barranco,57.5,3,2,31,11,No,123126
+Barranco,117.7,3,2,19,1,No,277591
+Lince,50.6,5,4,15,11,No,54098
+San Isidro,28.0,2,1,4,15,No,51997
+Miraflores,49.6,4,3,34,1,Si,120030
+Surco,28.0,1,1,21,3,No,45000
+Pueblo Libre,37.0,2,2,32,2,No,48266
+San Isidro,124.6,4,4,12,14,Si,365595
+San Miguel,78.0,5,4,5,15,No,116567
+San Isidro,92.7,4,3,7,5,Si,301085
+Magdalena,125.5,4,3,36,11,Si,244288
+San Isidro,129.1,5,4,30,12,Si,411859
+San Miguel,67.3,2,1,4,13,Si,116235
+San Isidro,131.5,1,1,8,6,Si,395255
+Magdalena,98.5,2,1,14,3,Si,173618
+San Miguel,85.1,3,2,25,5,No,135417
+San Isidro,100.5,1,1,43,15,Si,269273
+Miraflores,35.1,3,3,32,13,No,96991
+Pueblo Libre,57.5,3,3,29,5,Si,85534
+Surco,81.2,1,1,14,2,Si,162538
+Surco,106.3,2,2,38,3,Si,184939
+Magdalena,72.0,1,1,42,14,Si,119160
+Surco,80.5,2,2,41,6,No,152071
+Surco,118.9,2,2,36,15,No,295158
+Surco,134.4,5,4,11,6,Si,310089
+Surco,111.8,1,1,2,12,No,242009
+Surco,129.4,4,3,35,1,No,252358
+San Isidro,70.8,4,3,18,4,Si,251206
+Barranco,74.3,3,2,16,13,No,193170
+Barranco,96.1,1,1,33,6,No,229760
+San Isidro,74.5,5,5,2,14,Si,271968
+Magdalena,67.3,3,2,2,2,No,197094
+Miraflores,142.8,4,4,4,3,Si,444872
+San Isidro,78.0,5,5,9,10,No,206398
+Surco,51.2,5,4,5,9,No,139280
+Barranco,102.1,2,2,28,11,No,235649
+San Isidro,149.3,5,4,28,14,Si,392209
+Surco,87.8,4,3,33,2,No,146994
+Surco,128.1,4,4,28,6,Si,266475
+Pueblo Libre,69.7,3,3,23,3,No,96777
+Lince,67.8,4,4,38,8,Si,137171
+San Miguel,60.9,2,2,33,5,No,45000
+Surco,80.0,4,4,13,4,No,193241
+Surco,149.3,3,3,8,5,Si,346250
+Surco,44.6,4,3,34,8,Si,112550
+San Isidro,142.3,3,2,18,13,No,391836
+Lince,49.7,5,4,12,5,No,108086
+Miraflores,76.8,5,5,12,13,Si,234487
+San Isidro,114.3,2,2,14,13,No,348718
+Pueblo Libre,107.1,3,2,3,12,Si,226477
+Pueblo Libre,94.9,2,1,29,3,Si,208421
+Barranco,28.0,4,3,19,4,No,63675
+Lince,97.7,2,2,17,1,Si,216637
+Surco,49.2,1,1,7,9,Si,97740
+Pueblo Libre,174.9,5,5,44,14,No,295967
+Miraflores,77.5,4,4,33,14,No,178008
+San Miguel,91.6,5,5,14,3,Si,199740
+Miraflores,44.9,5,4,7,8,No,142377
+Surco,68.2,3,2,10,9,Si,177431
+San Miguel,39.8,2,2,20,15,Si,114244
+Lince,119.4,3,2,39,11,Si,210485
+San Miguel,75.8,3,2,35,4,Si,132767
+San Miguel,104.7,1,1,39,5,Si,175541
+San Isidro,61.0,2,2,21,11,Si,181667
+Miraflores,67.5,5,4,7,14,Si,208307
+Surco,130.1,5,5,9,10,No,300122
+Miraflores,51.0,4,4,15,6,Si,177588
+Lince,28.0,5,4,4,3,Si,112635
+Miraflores,99.2,5,5,22,3,No,294465
+Barranco,45.1,1,1,0,3,No,88724
+San Isidro,69.6,4,4,2,1,No,227303
+Miraflores,116.9,5,5,29,15,Si,367792
+Surco,56.3,3,2,16,14,No,104322
+Miraflores,115.7,4,3,42,6,Si,316692
+San Miguel,61.2,4,4,34,4,No,80158
+Magdalena,137.2,4,4,12,9,Si,301741
+Surco,131.4,5,5,34,14,No,317323
+San Miguel,68.5,1,1,28,8,Si,110315
+Magdalena,77.5,5,4,6,7,No,150300
+Barranco,55.9,2,1,26,13,No,129200
+San Miguel,92.0,2,1,13,14,No,149381
+Lince,125.2,4,4,2,15,Si,292657
+Pueblo Libre,34.4,3,2,12,2,No,45000
+Surco,117.1,4,3,9,6,Si,244407
+San Miguel,38.7,5,5,30,13,Si,92145
+Lince,54.9,5,4,18,3,No,72007
+Surco,28.0,3,3,5,15,Si,118669
+Miraflores,158.7,4,4,20,12,No,375035
+San Miguel,87.1,5,4,44,11,No,117523
+Pueblo Libre,93.6,5,5,32,11,Si,152675
+San Isidro,61.3,3,2,5,3,Si,180487
+Pueblo Libre,122.3,3,2,9,8,Si,253578
+Barranco,28.0,5,5,23,15,No,102087
+San Miguel,85.9,2,1,23,6,No,146646
+Surco,162.2,1,1,31,13,No,316912
+San Isidro,71.6,1,1,14,10,Si,158519
+Miraflores,85.6,1,1,42,4,Si,212507
+Surco,108.5,3,3,14,5,No,176219
+Lince,56.6,1,1,27,15,No,67026
+San Isidro,85.8,5,5,23,3,No,245290
+Surco,118.6,3,3,38,2,Si,225758
+Lince,91.8,1,1,15,2,Si,175564
+Miraflores,98.0,2,2,23,2,No,221708
+Barranco,72.8,5,4,37,8,No,221314
+San Miguel,96.0,5,5,9,1,Si,211285
+Miraflores,87.0,4,3,22,15,No,263389
+Lince,135.9,5,4,18,9,No,275929
+San Miguel,110.4,2,1,10,11,No,198217
+San Isidro,76.5,1,1,27,7,Si,209636
+Pueblo Libre,28.0,5,5,0,7,Si,150920
+Pueblo Libre,110.1,5,5,23,2,Si,192991
+Magdalena,111.4,3,2,41,6,Si,221824
+Barranco,52.9,3,2,35,8,No,113863
+Surco,28.0,4,4,29,2,Si,68796
+San Isidro,45.0,5,4,24,14,No,148977
+Barranco,117.4,3,3,41,8,Si,266981
+San Isidro,47.7,2,1,17,2,No,143342
+San Miguel,68.9,2,1,7,5,Si,146022
+San Miguel,92.7,4,3,23,10,No,157574
+Surco,127.9,5,4,25,11,Si,306492
+Magdalena,84.4,1,1,23,3,Si,131241
+Surco,81.5,2,1,30,6,Si,116090
+Barranco,65.8,3,2,0,8,Si,176196
+Surco,142.1,2,2,11,13,Si,298678
+Lince,122.3,2,2,14,6,No,273688
+Surco,81.7,4,4,28,11,No,164495
+Pueblo Libre,36.1,2,1,25,5,No,70943
+Lince,57.3,4,4,41,9,Si,135173
+Barranco,105.3,2,2,32,1,No,284894
+San Miguel,59.7,3,2,17,9,No,100357
+Miraflores,116.2,3,2,19,9,No,318815
+Magdalena,97.7,5,4,39,13,No,183800
+San Miguel,95.2,3,2,33,7,Si,136379
+San Miguel,107.9,5,5,2,3,Si,197194
+Lince,102.5,3,3,22,11,Si,180361
+Magdalena,55.1,2,2,11,12,Si,160894
+Lince,73.6,4,3,16,3,Si,161474
+Barranco,166.9,3,3,38,14,No,386528
+Surco,42.7,5,5,10,15,Si,134066
+San Isidro,68.4,5,4,20,7,No,193514
+Miraflores,122.3,5,4,35,1,Si,335064
+Surco,79.4,4,4,35,11,No,159019
+Magdalena,56.6,4,3,41,3,No,111390
+Magdalena,38.7,3,2,31,2,Si,100181
+Miraflores,103.8,2,1,32,10,Si,228553
+Lince,120.7,4,3,18,11,No,227870
+San Isidro,134.0,3,3,9,3,Si,435769
+Barranco,86.9,4,3,31,2,Si,195828
+San Miguel,121.6,3,2,31,4,Si,193528
+San Miguel,48.8,2,1,33,5,Si,77639
+Magdalena,90.9,2,2,22,8,No,192510
+Barranco,61.3,4,3,3,1,No,178595
+Surco,91.1,2,2,41,12,Si,173155
+San Miguel,111.3,5,4,30,11,Si,218850
+Surco,122.4,2,1,0,13,No,278001
+San Miguel,50.4,3,3,8,13,No,104259
+Magdalena,129.4,3,2,34,5,Si,295936
+Surco,68.4,4,3,30,9,Si,165943
+San Miguel,49.1,1,1,20,10,No,45000
+Surco,79.0,3,2,18,10,Si,158233
+Magdalena,33.8,3,2,38,1,Si,58420
+Pueblo Libre,85.2,2,2,28,12,Si,146520
+Barranco,95.1,3,3,27,14,Si,260455
+Surco,78.0,5,4,7,5,Si,208034
+Pueblo Libre,103.8,1,1,0,11,Si,239661
+Surco,74.0,5,4,34,3,No,170490
+Miraflores,85.1,2,2,31,14,No,244922
+Lince,34.6,3,2,41,3,Si,45000
+Lince,86.5,5,4,23,4,No,152375
+Miraflores,55.2,2,2,30,5,No,144458
+Lince,69.3,3,3,10,8,Si,152488
+Surco,81.7,2,2,20,8,No,173021
+Miraflores,91.7,1,1,5,12,No,243010
+San Miguel,28.0,1,1,5,12,No,45000
+Surco,30.3,3,3,17,1,No,103665
+Magdalena,74.4,1,1,3,6,Si,185077
+San Miguel,101.6,4,4,25,13,Si,151016
+Surco,97.6,2,2,11,5,No,178821
+Miraflores,116.2,1,1,21,11,No,288254
+San Miguel,130.5,5,5,32,6,Si,253770
+Magdalena,102.4,3,3,0,12,Si,231132
+San Miguel,84.3,4,4,19,10,No,114984
+Barranco,48.9,2,1,6,3,Si,153832
+Magdalena,51.9,5,5,4,7,Si,144513
+San Miguel,68.6,3,2,30,12,Si,150247
+Surco,94.4,5,4,21,3,No,209077
+Surco,92.7,5,4,24,9,No,224964
+Barranco,85.1,5,5,34,15,No,236357
+Miraflores,79.7,2,2,33,3,Si,227434
+San Isidro,107.1,2,1,3,7,Si,308102
+Barranco,92.3,1,1,18,2,Si,247689
+Miraflores,95.4,5,4,23,10,Si,287193
+Magdalena,95.8,1,1,11,13,Si,162505
+Surco,65.9,2,1,24,10,Si,128208
+Pueblo Libre,48.9,4,4,35,6,Si,91373
+Barranco,102.2,3,3,31,1,No,246383
+Surco,99.6,1,1,9,5,No,208113
+Magdalena,77.3,3,2,28,13,Si,131109
+Surco,70.4,3,3,2,6,Si,193022
+Pueblo Libre,164.7,2,2,8,1,Si,295183
+Surco,58.4,5,4,16,11,Si,130136
+Pueblo Libre,77.4,1,1,23,4,No,132327
+San Miguel,94.3,4,4,20,3,Si,158503
+Barranco,44.6,3,2,10,1,No,79486
+Surco,89.1,4,4,9,3,Si,232545
+Magdalena,147.9,4,3,14,15,No,317832
+Miraflores,117.7,1,1,43,10,Si,275713
+Lince,107.1,3,2,19,15,No,215188
+Surco,105.7,3,3,10,14,Si,267006
+San Isidro,88.9,4,3,28,15,No,239160
+Magdalena,118.5,2,2,5,11,Si,300619
+San Miguel,79.5,3,2,3,1,Si,151642
+Pueblo Libre,70.2,3,2,29,15,Si,136372
+San Miguel,88.6,1,1,0,7,Si,100719
+Miraflores,116.7,1,1,6,5,No,313614
+Surco,96.6,5,4,12,12,Si,220773
+Magdalena,108.6,1,1,12,6,No,207572
+San Miguel,28.0,1,1,27,6,Si,45000
+Pueblo Libre,126.8,5,4,18,6,Si,279871
+Pueblo Libre,166.9,5,4,28,5,Si,346838
+Surco,131.7,5,4,12,6,Si,350814
+Pueblo Libre,73.9,1,1,9,6,Si,62601
+Pueblo Libre,55.3,1,1,29,5,Si,102659
+San Miguel,94.7,1,1,3,12,Si,178425
+San Miguel,50.5,5,4,6,12,Si,53314
+Magdalena,110.4,3,3,22,9,Si,211922
+Lince,66.6,1,1,28,5,No,91286
+Miraflores,118.6,5,5,22,7,Si,380922
+Magdalena,132.7,2,1,5,7,Si,251021
+Surco,28.0,1,1,40,7,Si,47842
+Magdalena,95.2,5,5,26,8,No,196071
+Barranco,60.6,5,4,26,4,Si,182400
+Surco,35.7,5,5,44,15,Si,83116
+San Miguel,63.4,4,3,32,11,Si,141983
+Miraflores,77.3,3,2,35,5,Si,228617
+Barranco,121.2,4,3,4,6,Si,294807
+Surco,31.8,4,4,42,11,No,87878
+San Miguel,121.8,2,2,40,11,No,156147
+Barranco,155.6,2,1,24,5,Si,369825
+San Miguel,105.9,2,2,25,5,No,185954
+San Isidro,104.1,5,5,7,13,Si,345301
+Barranco,84.5,4,3,13,2,Si,245137
+Pueblo Libre,43.9,2,1,16,6,No,86716
+Pueblo Libre,103.7,1,1,20,11,Si,196252
+San Miguel,98.4,2,1,34,1,No,118549
+San Miguel,110.6,4,3,39,15,Si,166064
+San Isidro,174.9,1,1,5,8,Si,522392
+Magdalena,110.5,4,4,25,5,No,235451
+Pueblo Libre,99.9,4,4,29,6,No,182846
+Surco,139.7,5,5,3,6,Si,326601
+Magdalena,37.9,3,2,14,4,Si,113117
+San Miguel,45.0,2,1,41,12,No,46680
+Surco,71.9,5,5,41,5,Si,130505
+San Miguel,62.1,4,4,32,8,No,109543
+Miraflores,109.3,1,1,15,1,Si,299639
+San Isidro,73.9,4,3,10,2,No,238827
+Magdalena,145.9,5,4,14,11,No,278968
+Barranco,138.2,3,3,24,6,No,312183
+Pueblo Libre,112.0,5,4,12,9,No,223625
+Surco,71.5,5,4,19,6,Si,167123
+San Isidro,106.6,4,3,24,10,Si,321898
+Magdalena,113.4,5,5,32,14,Si,270565
+Magdalena,47.7,1,1,42,9,No,69477
+San Isidro,97.2,3,3,2,8,Si,354010
+San Isidro,109.7,1,1,24,6,Si,313793
+San Miguel,92.6,5,5,25,11,No,210202
+San Miguel,140.0,1,1,33,7,Si,243479
+San Miguel,127.5,3,2,7,2,No,273738
+Surco,56.1,2,1,23,8,Si,119354
+Surco,89.4,1,1,5,15,No,176255
+Surco,55.8,4,3,3,14,No,168359
+San Isidro,105.3,4,4,11,7,Si,319774
+Surco,54.6,1,1,26,6,No,77755
+San Isidro,117.3,1,1,20,15,No,322333
+San Isidro,98.6,3,2,26,3,No,277534
+Surco,119.0,1,1,20,7,Si,206793
+Miraflores,79.9,1,1,26,2,Si,209530
+Surco,34.0,3,3,29,8,Si,75566
+Magdalena,146.8,4,4,13,6,Si,313968
+Pueblo Libre,79.0,2,2,8,10,Si,163226
+Lince,133.2,1,1,12,9,No,222025
+San Miguel,100.1,5,5,40,5,Si,209356
+Pueblo Libre,108.6,4,3,14,9,Si,229879
+San Miguel,149.0,3,2,42,8,Si,234821
+Surco,96.9,4,3,1,11,Si,240006
+Magdalena,134.0,2,2,36,8,Si,281394
+Barranco,33.0,1,1,7,10,Si,115311
+Surco,115.5,1,1,4,7,Si,279404
+Lince,76.5,4,4,12,2,No,146493
+Pueblo Libre,80.3,5,4,4,12,Si,191007
+Surco,85.3,2,1,23,6,No,208720
+Magdalena,97.1,2,1,31,2,Si,180482
+Barranco,143.0,3,2,41,6,Si,385724
+San Miguel,28.0,1,1,24,12,No,50957
+Miraflores,86.5,3,2,31,2,Si,220245
+San Isidro,59.9,4,4,30,4,Si,154197
+San Isidro,125.8,2,1,23,9,Si,376360
+San Isidro,70.2,2,1,41,2,Si,168106
+Lince,101.0,3,3,32,12,No,156018
+Miraflores,71.1,4,3,7,8,Si,180358
+Barranco,108.4,4,4,20,1,Si,316828
+Pueblo Libre,120.5,4,3,30,6,No,208105
+Magdalena,71.1,5,5,2,8,No,173243
+Magdalena,86.7,3,3,5,2,Si,205463
+Surco,35.3,5,4,30,2,Si,101585
+San Isidro,95.7,2,1,20,6,Si,279078
+San Miguel,115.0,3,2,31,12,No,190593
+Miraflores,65.6,2,1,11,8,No,163090
+Miraflores,124.2,5,4,29,9,Si,289500
+San Isidro,28.0,3,3,44,7,No,82017
+Surco,28.0,1,1,38,1,Si,52449
+Lince,36.4,4,4,13,5,Si,99976
+Magdalena,68.0,5,4,35,8,Si,193844
+Pueblo Libre,85.7,4,4,40,12,Si,128642
+Surco,82.2,1,1,37,4,Si,81347
+Magdalena,82.7,2,1,30,1,Si,191383
+Pueblo Libre,110.3,5,5,2,4,Si,250608
+Barranco,68.5,1,1,31,14,Si,121423
+Miraflores,40.8,4,3,44,11,No,88373
+San Isidro,41.5,2,1,15,6,Si,144389
+Magdalena,158.9,2,1,26,7,No,258500
+Pueblo Libre,28.0,4,4,14,6,Si,96991
+Magdalena,78.8,4,4,26,14,Si,231113
+Miraflores,136.0,4,4,13,2,Si,421718
+San Miguel,101.9,5,5,27,14,No,181287
+Surco,56.0,2,2,19,5,Si,132933
+Lince,85.1,1,1,12,13,No,120400
+Pueblo Libre,115.2,2,1,32,9,Si,200436
+Pueblo Libre,127.3,4,3,13,7,Si,241278
+San Miguel,53.5,3,3,23,13,Si,83138
+Pueblo Libre,111.6,1,1,39,14,No,129798
+Pueblo Libre,93.8,3,3,40,8,Si,214592
+San Isidro,123.7,4,3,27,2,Si,366913
+Pueblo Libre,133.7,3,2,37,15,Si,208927
+Surco,73.0,1,1,43,12,Si,123752
+Miraflores,34.3,5,4,11,7,Si,169804
+Miraflores,98.9,4,3,9,6,Si,332972
+Surco,147.2,3,2,11,1,Si,300647
+Barranco,109.0,1,1,26,13,No,250257
+Magdalena,93.1,4,4,4,6,No,224607
+Miraflores,169.0,3,2,27,1,Si,439500
+Miraflores,48.6,4,3,12,2,No,109583
+Lince,116.6,5,4,1,9,Si,232943
+Barranco,65.0,4,3,0,13,No,183859
+Surco,86.7,2,1,28,2,No,135825
+San Isidro,88.1,1,1,19,14,Si,221909
+San Isidro,138.0,5,4,17,5,No,400028
+Surco,52.2,1,1,16,2,No,113708
+Magdalena,66.3,3,2,19,9,Si,163592
+Miraflores,29.2,2,2,26,3,No,58119
+San Miguel,102.1,1,1,8,3,Si,221981
+Lince,69.0,3,3,44,2,Si,101016
+Pueblo Libre,99.8,5,5,26,11,Si,205553
+Surco,47.4,2,2,7,8,Si,85471
+San Isidro,72.4,1,1,30,8,No,201179
+San Isidro,121.4,2,2,17,4,Si,350566
+Barranco,78.9,3,3,40,4,No,133960
+San Miguel,106.9,2,1,42,6,Si,141630
+Miraflores,103.5,5,5,37,9,Si,341910
+Magdalena,72.6,2,1,32,5,Si,154287
+Pueblo Libre,30.4,5,4,44,7,Si,71647
+Miraflores,119.5,2,2,18,2,Si,343659
+Miraflores,91.0,3,2,43,1,No,174755
+Magdalena,119.4,2,1,11,13,No,207026
+Pueblo Libre,28.0,2,1,31,11,Si,45000
+Barranco,28.0,2,1,39,15,Si,45000
+San Miguel,28.0,3,2,12,11,No,45000
+San Isidro,54.3,4,3,28,13,No,170238
+Surco,121.5,2,1,24,14,No,258243
+Miraflores,104.8,1,1,37,9,Si,288919
+Pueblo Libre,83.8,2,1,3,15,Si,234124
+Miraflores,89.6,5,5,23,13,Si,260747
+San Isidro,111.6,2,2,25,6,Si,320633
+Magdalena,74.4,5,4,18,10,Si,193997
+Surco,98.9,2,1,13,10,Si,194260
+Pueblo Libre,89.9,1,1,33,11,No,123703
+Magdalena,28.0,1,1,24,10,Si,66537
+Pueblo Libre,71.5,3,3,37,13,Si,110430
+San Isidro,132.6,4,4,33,1,No,381634
+Magdalena,71.1,3,3,37,1,No,151963
+Miraflores,80.0,1,1,2,11,No,183084
+Barranco,63.8,5,5,31,3,Si,125090
+Surco,68.0,3,2,39,5,Si,139708
+Miraflores,124.3,4,4,35,8,Si,317281
+Miraflores,75.6,2,1,1,7,No,207276
+Pueblo Libre,49.2,1,1,0,11,No,76799
+Magdalena,28.0,4,3,22,10,Si,88443
+Surco,65.0,5,4,36,14,Si,183573
+Surco,28.0,3,2,9,8,Si,103961
+San Isidro,28.0,3,3,21,4,No,70783
+Surco,112.8,3,3,1,5,No,214529
+Pueblo Libre,109.8,1,1,20,5,No,109744
+Lince,28.0,4,3,21,14,No,45000
+Miraflores,114.8,4,3,17,3,Si,305404
+San Miguel,101.1,3,2,11,2,No,167883
+Lince,57.6,1,1,30,9,Si,81386
+Surco,110.7,5,5,3,10,No,244204
+Magdalena,28.1,3,3,35,12,Si,45000
+San Miguel,42.8,3,2,37,3,Si,45000
+Pueblo Libre,34.6,4,3,5,15,No,45000
+Barranco,46.1,5,4,11,14,Si,170988
+Pueblo Libre,115.8,5,5,23,12,No,168969
+San Miguel,38.3,5,4,42,15,Si,98046
+Miraflores,44.7,3,2,41,6,No,75691
+Surco,51.7,4,3,27,11,No,121506
+Miraflores,91.8,4,3,2,5,Si,283827
+San Miguel,73.1,2,1,15,14,Si,149907
+Magdalena,115.2,5,4,23,3,Si,278220
+Miraflores,60.1,3,3,2,12,Si,174271
+Magdalena,39.9,5,4,19,8,No,70084
+Magdalena,67.4,1,1,38,10,No,89666
+Miraflores,86.2,2,1,1,13,No,211945
+Surco,52.3,4,4,4,12,Si,165536
+Magdalena,94.6,4,3,34,6,Si,190578
+Barranco,148.4,4,3,34,14,No,354679
+Surco,64.4,2,2,43,11,Si,134275
+Lince,86.3,5,4,23,4,No,151173
+Pueblo Libre,132.0,1,1,14,6,Si,258117
+Surco,62.0,1,1,20,11,Si,82724
+Miraflores,55.0,5,4,15,11,No,171163
+Miraflores,46.3,1,1,3,3,No,127817
+San Miguel,98.5,5,4,40,7,Si,156726
+Magdalena,102.5,4,4,18,7,No,190301
+San Miguel,79.3,1,1,17,5,No,134477
+Pueblo Libre,85.9,4,3,0,6,Si,178518
+Pueblo Libre,129.0,3,2,15,1,Si,187438
+Surco,114.7,1,1,34,10,No,170830
+Magdalena,35.3,2,1,0,13,No,99253
+Barranco,84.0,1,1,31,10,No,157033
+Surco,87.9,1,1,15,2,Si,210880
+Surco,109.4,2,1,6,14,Si,273139
+Pueblo Libre,76.4,2,2,18,11,Si,139562
+San Isidro,61.6,2,1,22,13,No,175454
+Miraflores,68.1,2,1,34,7,Si,152257
+Miraflores,28.0,1,1,8,1,No,52116
+San Isidro,83.2,5,5,36,3,No,219913
+San Miguel,63.2,1,1,32,3,Si,105279
+Magdalena,100.3,3,2,29,1,Si,163168
+Magdalena,48.1,2,2,8,1,No,86408
+Surco,68.7,3,3,8,5,No,148710
+Miraflores,49.7,1,1,7,11,No,138436
+Surco,46.6,4,4,31,7,Si,60467
+San Miguel,108.4,1,1,12,6,No,118493
+Surco,67.6,5,5,33,1,No,118529
+Pueblo Libre,99.4,1,1,43,15,Si,148908
+Surco,44.6,4,3,37,15,No,87941
+San Isidro,87.2,2,1,36,4,Si,240802
+Pueblo Libre,28.0,1,1,27,3,No,73097
+Surco,67.0,4,4,18,15,Si,182702
+Surco,66.1,5,4,14,14,Si,187423
+San Isidro,104.0,4,3,35,12,No,275872
+Magdalena,89.9,5,5,26,12,Si,225270
+Barranco,77.5,4,4,16,12,No,219157
+Pueblo Libre,112.9,5,5,18,11,No,231964
+San Isidro,90.2,3,2,8,10,No,259108
+Magdalena,102.4,4,3,5,13,Si,248801
+Surco,110.3,1,1,40,14,Si,246227
+Surco,81.2,4,4,44,9,Si,153427
+Lince,73.2,1,1,1,4,Si,89150
+Magdalena,94.9,2,1,6,9,Si,219890
+Magdalena,68.9,1,1,35,14,Si,140838
+Barranco,97.0,1,1,18,3,No,209453
+San Miguel,122.2,5,4,43,14,Si,201787
+Surco,113.3,2,1,40,7,Si,285674
+Lince,70.1,5,5,3,10,Si,164407
+San Miguel,38.5,4,4,22,1,Si,54088
+Pueblo Libre,81.5,3,2,38,10,Si,129956
+San Miguel,79.0,5,5,3,12,Si,192117
+Pueblo Libre,122.1,4,3,35,4,No,184834
+Magdalena,70.0,5,4,12,3,No,142479
+Miraflores,76.1,4,4,1,8,No,231882
+Lince,109.1,1,1,29,2,Si,171098
+San Miguel,66.7,5,4,19,9,Si,145602
+San Isidro,77.8,3,3,9,14,Si,247212
+San Isidro,143.3,2,2,11,5,Si,391164
+Pueblo Libre,135.4,1,1,33,11,Si,225166
+Magdalena,105.4,5,4,17,1,Si,203128
+San Isidro,92.7,4,3,38,5,Si,291402
+Lince,49.5,4,3,17,15,Si,92452
+Surco,102.9,3,3,2,9,No,217163
+Lince,85.4,2,2,17,13,Si,119288
+Magdalena,91.1,3,3,7,6,Si,191167
+Surco,65.2,2,1,0,6,No,103143
+Surco,82.9,4,3,40,11,Si,213410
+Miraflores,76.9,1,1,12,8,Si,205484
+Miraflores,94.4,4,3,44,10,Si,265739
+Pueblo Libre,133.2,3,3,13,9,No,191467
+Magdalena,96.0,1,1,43,10,No,118771
+San Miguel,28.0,5,4,29,15,No,50903
+Surco,49.4,3,2,5,13,Si,94643
+Lince,28.0,4,4,31,9,Si,98330
+Barranco,55.6,5,5,0,6,No,158134
+Lince,102.9,1,1,33,11,Si,176868
+San Miguel,97.3,3,2,19,9,Si,180768
+San Isidro,62.4,1,1,28,13,No,150065
+San Miguel,92.6,3,3,3,12,Si,202407
+Magdalena,56.9,2,1,40,2,No,60278
+Magdalena,33.7,5,4,7,12,No,100936
+San Miguel,34.2,1,1,25,9,Si,83114
+Surco,53.3,3,3,2,2,Si,142100
+Surco,132.9,1,1,14,14,Si,277110
+Surco,36.5,5,5,42,3,No,63689
+San Miguel,126.7,4,4,1,13,Si,249765
+San Miguel,129.7,3,2,1,6,Si,254027
+San Isidro,76.9,2,1,32,14,Si,208063
+Magdalena,81.6,2,1,17,13,No,106264
+Barranco,61.9,3,2,25,3,Si,161107
+San Isidro,82.4,1,1,30,9,Si,221716
+San Isidro,106.3,2,2,7,12,No,314020
