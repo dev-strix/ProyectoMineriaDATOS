@@ -1,0 +1,1801 @@
+Customer segment,Contract type,Tenure months,Churn
+Small Business,One Year,49,Yes
+Consumer,One Year,20,No
+Enterprise,Month-to-Month,19,No
+Small Business,One Year,9,No
+Consumer,One Year,0,Yes
+Enterprise,One Year,36,No
+Small Business,Month-to-Month,72,No
+Small Business,Month-to-Month,16,Yes
+Consumer,Month-to-Month,32,No
+Consumer,Month-to-Month,68,No
+Consumer,Month-to-Month,56,No
+Enterprise,Month-to-Month,0,No
+Small Business,One Year,36,No
+Small Business,Month-to-Month,10,Yes
+Consumer,One Year,18,Yes
+Consumer,Month-to-Month,17,Yes
+Consumer,One Year,44,No
+Consumer,Month-to-Month,14,Yes
+Small Business,Month-to-Month,18,No
+Small Business,One Year,16,No
+Small Business,Two Year,26,No
+Consumer,Month-to-Month,47,No
+Enterprise,Month-to-Month,29,No
+Enterprise,One Year,23,No
+Small Business,One Year,37,No
+Consumer,Month-to-Month,44,No
+Consumer,Month-to-Month,1,No
+Consumer,Month-to-Month,64,No
+Consumer,Two Year,66,No
+Small Business,Month-to-Month,43,No
+Small Business,Month-to-Month,41,No
+Enterprise,Two Year,50,No
+Consumer,Month-to-Month,32,No
+Consumer,Month-to-Month,26,No
+Consumer,Month-to-Month,25,No
+Consumer,Month-to-Month,11,Yes
+Consumer,Month-to-Month,61,No
+Consumer,Month-to-Month,23,No
+Consumer,One Year,20,No
+Small Business,One Year,70,No
+Consumer,Month-to-Month,36,Yes
+Small Business,One Year,45,Yes
+Small Business,Month-to-Month,17,No
+Consumer,Two Year,20,No
+Small Business,Month-to-Month,53,No
+Small Business,One Year,32,No
+Consumer,Month-to-Month,10,No
+Consumer,One Year,60,No
+Small Business,Month-to-Month,29,No
+Consumer,One Year,48,No
+Consumer,Month-to-Month,24,Yes
+Consumer,Two Year,40,No
+Small Business,Month-to-Month,56,Yes
+Small Business,One Year,64,No
+Small Business,One Year,15,No
+Small Business,Two Year,49,No
+Consumer,Month-to-Month,66,No
+Consumer,Month-to-Month,46,No
+Consumer,Month-to-Month,10,Yes
+Consumer,Month-to-Month,13,No
+Small Business,One Year,14,No
+Consumer,Two Year,7,No
+Consumer,Two Year,55,No
+Small Business,Month-to-Month,70,No
+Small Business,One Year,37,No
+Consumer,Two Year,43,No
+Consumer,Two Year,56,No
+Consumer,Month-to-Month,30,Yes
+Consumer,Month-to-Month,34,No
+Consumer,One Year,42,No
+Consumer,Month-to-Month,22,Yes
+Consumer,Month-to-Month,4,No
+Enterprise,Two Year,41,No
+Consumer,Two Year,60,No
+Consumer,Two Year,5,No
+Consumer,One Year,15,No
+Consumer,Month-to-Month,19,No
+Small Business,Month-to-Month,58,Yes
+Consumer,Month-to-Month,36,No
+Small Business,One Year,39,No
+Small Business,Month-to-Month,47,No
+Consumer,One Year,20,No
+Small Business,Month-to-Month,52,No
+Consumer,One Year,2,No
+Consumer,Month-to-Month,8,No
+Consumer,Month-to-Month,59,No
+Small Business,Month-to-Month,48,No
+Consumer,Month-to-Month,12,No
+Consumer,Two Year,32,No
+Consumer,Month-to-Month,3,No
+Consumer,Month-to-Month,49,Yes
+Small Business,One Year,55,No
+Consumer,One Year,20,No
+Consumer,Month-to-Month,25,Yes
+Consumer,Month-to-Month,17,Yes
+Small Business,Month-to-Month,28,No
+Consumer,One Year,19,No
+Consumer,Month-to-Month,18,Yes
+Consumer,Month-to-Month,31,Yes
+Enterprise,Month-to-Month,62,No
+Enterprise,One Year,55,No
+Small Business,Month-to-Month,21,No
+Consumer,One Year,68,No
+Enterprise,Month-to-Month,15,No
+Small Business,One Year,66,No
+Small Business,Month-to-Month,22,Yes
+Consumer,Month-to-Month,39,No
+Consumer,Month-to-Month,14,Yes
+Consumer,One Year,55,No
+Enterprise,Two Year,23,No
+Consumer,Month-to-Month,63,No
+Consumer,Month-to-Month,6,Yes
+Consumer,Two Year,36,No
+Consumer,Month-to-Month,11,No
+Consumer,Month-to-Month,64,No
+Enterprise,Month-to-Month,30,Yes
+Small Business,One Year,49,No
+Small Business,One Year,64,No
+Consumer,One Year,39,No
+Small Business,Two Year,4,No
+Consumer,Month-to-Month,16,Yes
+Small Business,Month-to-Month,15,No
+Consumer,Month-to-Month,66,No
+Consumer,Month-to-Month,66,No
+Consumer,Month-to-Month,34,Yes
+Consumer,Month-to-Month,64,No
+Consumer,Month-to-Month,17,No
+Consumer,One Year,49,No
+Consumer,Month-to-Month,28,Yes
+Consumer,Month-to-Month,17,Yes
+Consumer,One Year,18,No
+Enterprise,One Year,30,No
+Consumer,One Year,24,No
+Consumer,One Year,15,No
+Consumer,One Year,24,No
+Consumer,Month-to-Month,9,Yes
+Enterprise,Month-to-Month,70,No
+Consumer,One Year,27,No
+Small Business,Month-to-Month,7,Yes
+Consumer,Month-to-Month,42,Yes
+Consumer,Month-to-Month,64,Yes
+Consumer,Month-to-Month,26,Yes
+Enterprise,Month-to-Month,61,No
+Consumer,Month-to-Month,44,Yes
+Consumer,One Year,53,No
+Consumer,Two Year,21,No
+Consumer,Month-to-Month,2,No
+Consumer,Two Year,25,No
+Consumer,Month-to-Month,67,No
+Consumer,Two Year,57,No
+Small Business,Two Year,57,No
+Enterprise,Month-to-Month,64,No
+Consumer,One Year,27,No
+Consumer,Two Year,23,No
+Consumer,Two Year,67,No
+Small Business,Two Year,41,No
+Consumer,One Year,21,No
+Small Business,Month-to-Month,20,Yes
+Small Business,One Year,64,No
+Small Business,One Year,3,Yes
+Consumer,One Year,4,No
+Enterprise,Month-to-Month,53,No
+Consumer,One Year,0,No
+Consumer,Month-to-Month,12,Yes
+Consumer,One Year,72,No
+Consumer,Month-to-Month,31,No
+Small Business,One Year,53,No
+Small Business,One Year,35,No
+Consumer,Month-to-Month,6,No
+Enterprise,Month-to-Month,13,Yes
+Consumer,Month-to-Month,55,Yes
+Consumer,Two Year,6,No
+Consumer,One Year,43,Yes
+Enterprise,Month-to-Month,25,Yes
+Consumer,Month-to-Month,27,No
+Consumer,Month-to-Month,69,Yes
+Consumer,Month-to-Month,44,Yes
+Enterprise,Two Year,44,No
+Enterprise,One Year,25,No
+Small Business,Month-to-Month,27,No
+Enterprise,Two Year,50,No
+Enterprise,Month-to-Month,2,Yes
+Consumer,Two Year,17,No
+Consumer,Month-to-Month,43,No
+Small Business,One Year,45,No
+Small Business,Two Year,6,No
+Consumer,Month-to-Month,57,No
+Consumer,One Year,39,No
+Small Business,Two Year,17,No
+Consumer,Month-to-Month,54,No
+Enterprise,Month-to-Month,72,No
+Consumer,One Year,30,No
+Consumer,Month-to-Month,20,No
+Small Business,Month-to-Month,21,No
+Consumer,Month-to-Month,43,No
+Consumer,One Year,3,No
+Consumer,Month-to-Month,35,No
+Enterprise,Month-to-Month,1,No
+Consumer,One Year,2,No
+Consumer,Month-to-Month,31,No
+Small Business,One Year,54,No
+Enterprise,Month-to-Month,64,No
+Consumer,Two Year,6,No
+Consumer,One Year,17,No
+Consumer,Month-to-Month,30,Yes
+Consumer,Two Year,41,No
+Consumer,Month-to-Month,72,Yes
+Small Business,Month-to-Month,49,No
+Consumer,Month-to-Month,39,Yes
+Consumer,One Year,4,No
+Small Business,Month-to-Month,5,No
+Consumer,Month-to-Month,11,Yes
+Consumer,Month-to-Month,48,No
+Small Business,Month-to-Month,24,No
+Small Business,Month-to-Month,17,No
+Small Business,Month-to-Month,48,Yes
+Consumer,Month-to-Month,59,No
+Consumer,Month-to-Month,32,No
+Enterprise,One Year,64,No
+Consumer,Month-to-Month,53,Yes
+Consumer,One Year,52,No
+Consumer,Month-to-Month,63,No
+Small Business,Month-to-Month,13,Yes
+Enterprise,Month-to-Month,55,No
+Consumer,Month-to-Month,69,Yes
+Enterprise,Month-to-Month,72,No
+Consumer,One Year,42,No
+Consumer,Month-to-Month,55,Yes
+Small Business,Month-to-Month,64,No
+Consumer,One Year,62,No
+Consumer,Month-to-Month,65,No
+Consumer,Month-to-Month,60,No
+Enterprise,Month-to-Month,27,No
+Consumer,Month-to-Month,53,Yes
+Enterprise,Month-to-Month,29,No
+Small Business,One Year,58,No
+Consumer,Two Year,59,No
+Small Business,Month-to-Month,68,Yes
+Consumer,One Year,42,No
+Consumer,One Year,34,No
+Small Business,Month-to-Month,12,Yes
+Small Business,One Year,46,No
+Consumer,One Year,41,No
+Consumer,Two Year,37,No
+Small Business,Two Year,49,No
+Enterprise,Month-to-Month,62,Yes
+Small Business,Month-to-Month,10,No
+Consumer,Month-to-Month,31,No
+Consumer,Month-to-Month,52,No
+Consumer,Month-to-Month,59,Yes
+Small Business,Two Year,56,No
+Enterprise,Month-to-Month,58,No
+Consumer,Month-to-Month,62,No
+Consumer,One Year,70,No
+Consumer,Month-to-Month,44,No
+Small Business,Month-to-Month,18,No
+Small Business,Two Year,41,No
+Consumer,Month-to-Month,51,No
+Consumer,Month-to-Month,7,Yes
+Consumer,Month-to-Month,55,No
+Consumer,Two Year,39,No
+Small Business,Month-to-Month,68,No
+Consumer,Month-to-Month,15,No
+Consumer,Month-to-Month,66,No
+Enterprise,Month-to-Month,32,No
+Consumer,Two Year,41,No
+Consumer,Month-to-Month,48,No
+Consumer,Two Year,42,No
+Consumer,Month-to-Month,65,Yes
+Consumer,Month-to-Month,12,No
+Consumer,Two Year,53,No
+Consumer,Month-to-Month,71,No
+Consumer,Month-to-Month,16,Yes
+Consumer,Two Year,18,No
+Small Business,Month-to-Month,34,Yes
+Consumer,Month-to-Month,52,Yes
+Consumer,Two Year,70,No
+Consumer,Month-to-Month,58,Yes
+Enterprise,Month-to-Month,57,No
+Enterprise,Month-to-Month,32,No
+Consumer,Month-to-Month,47,Yes
+Consumer,Month-to-Month,15,No
+Consumer,One Year,33,No
+Consumer,Month-to-Month,13,No
+Consumer,One Year,1,No
+Consumer,Month-to-Month,62,No
+Consumer,Month-to-Month,58,No
+Consumer,Month-to-Month,37,No
+Consumer,One Year,1,Yes
+Consumer,Month-to-Month,6,No
+Small Business,Month-to-Month,8,No
+Consumer,Two Year,52,Yes
+Enterprise,One Year,14,No
+Consumer,Month-to-Month,18,No
+Small Business,Two Year,62,No
+Enterprise,Month-to-Month,63,Yes
+Enterprise,Month-to-Month,55,Yes
+Small Business,Month-to-Month,22,No
+Small Business,Month-to-Month,42,No
+Small Business,Month-to-Month,14,No
+Small Business,One Year,62,No
+Consumer,Month-to-Month,6,Yes
+Consumer,One Year,54,No
+Consumer,Two Year,37,No
+Enterprise,One Year,55,No
+Consumer,One Year,32,No
+Consumer,One Year,11,No
+Small Business,Two Year,54,No
+Consumer,Month-to-Month,46,No
+Consumer,Month-to-Month,33,No
+Consumer,Month-to-Month,27,No
+Consumer,Month-to-Month,25,No
+Consumer,Month-to-Month,35,No
+Consumer,One Year,19,No
+Consumer,Month-to-Month,20,No
+Consumer,Two Year,20,Yes
+Consumer,Month-to-Month,0,Yes
+Small Business,Month-to-Month,67,No
+Consumer,Month-to-Month,17,No
+Enterprise,Month-to-Month,12,No
+Enterprise,Month-to-Month,11,No
+Consumer,Month-to-Month,72,No
+Consumer,Month-to-Month,34,No
+Consumer,Month-to-Month,23,No
+Small Business,Month-to-Month,29,No
+Small Business,Month-to-Month,6,Yes
+Small Business,Month-to-Month,22,Yes
+Consumer,Month-to-Month,18,No
+Small Business,Month-to-Month,58,No
+Consumer,Month-to-Month,4,No
+Small Business,Month-to-Month,31,No
+Consumer,One Year,57,No
+Small Business,Two Year,60,No
+Enterprise,Two Year,37,No
+Consumer,Month-to-Month,16,Yes
+Small Business,Month-to-Month,24,No
+Consumer,Month-to-Month,16,Yes
+Small Business,One Year,48,Yes
+Consumer,One Year,21,Yes
+Enterprise,One Year,46,No
+Consumer,Two Year,47,No
+Enterprise,Month-to-Month,68,No
+Small Business,One Year,27,No
+Consumer,One Year,70,No
+Small Business,Month-to-Month,29,No
+Small Business,Two Year,49,No
+Enterprise,Month-to-Month,48,Yes
+Consumer,Two Year,59,No
+Consumer,One Year,34,No
+Consumer,Month-to-Month,57,No
+Small Business,One Year,25,No
+Consumer,Month-to-Month,35,No
+Consumer,One Year,36,No
+Consumer,One Year,51,No
+Consumer,One Year,45,No
+Consumer,Two Year,5,No
+Small Business,Month-to-Month,59,No
+Small Business,Month-to-Month,55,No
+Consumer,Month-to-Month,7,Yes
+Consumer,Month-to-Month,70,No
+Enterprise,Month-to-Month,48,No
+Consumer,Month-to-Month,6,No
+Consumer,Month-to-Month,35,Yes
+Consumer,Month-to-Month,61,No
+Small Business,Two Year,20,No
+Consumer,Month-to-Month,68,Yes
+Small Business,Two Year,30,No
+Small Business,Month-to-Month,16,Yes
+Consumer,Month-to-Month,26,No
+Enterprise,Month-to-Month,38,No
+Small Business,Month-to-Month,50,No
+Consumer,Month-to-Month,67,Yes
+Consumer,Month-to-Month,14,No
+Consumer,Month-to-Month,70,No
+Consumer,Month-to-Month,38,No
+Consumer,One Year,9,No
+Enterprise,Month-to-Month,67,No
+Consumer,One Year,25,No
+Consumer,Month-to-Month,45,No
+Small Business,Two Year,50,No
+Consumer,One Year,0,Yes
+Enterprise,Two Year,16,No
+Small Business,One Year,50,No
+Consumer,Month-to-Month,23,Yes
+Consumer,Month-to-Month,0,No
+Enterprise,Month-to-Month,1,No
+Small Business,One Year,60,No
+Enterprise,One Year,11,No
+Consumer,Month-to-Month,7,Yes
+Enterprise,Two Year,41,No
+Small Business,Month-to-Month,8,Yes
+Consumer,One Year,47,No
+Consumer,One Year,39,No
+Small Business,Month-to-Month,47,Yes
+Consumer,One Year,35,No
+Consumer,One Year,56,No
+Small Business,Month-to-Month,47,Yes
+Consumer,Month-to-Month,30,No
+Consumer,Month-to-Month,1,No
+Consumer,One Year,19,No
+Consumer,Month-to-Month,9,No
+Enterprise,Two Year,1,No
+Small Business,Two Year,19,No
+Consumer,Month-to-Month,15,No
+Enterprise,Month-to-Month,5,No
+Enterprise,One Year,22,No
+Consumer,One Year,36,No
+Small Business,Month-to-Month,13,Yes
+Consumer,Month-to-Month,19,No
+Enterprise,Month-to-Month,1,Yes
+Small Business,Two Year,3,No
+Small Business,Month-to-Month,11,No
+Consumer,Two Year,33,No
+Enterprise,Month-to-Month,48,No
+Consumer,Two Year,57,No
+Consumer,Month-to-Month,45,No
+Consumer,Month-to-Month,45,No
+Small Business,Two Year,68,No
+Consumer,Two Year,18,No
+Enterprise,Month-to-Month,58,No
+Small Business,Month-to-Month,68,No
+Consumer,Month-to-Month,41,Yes
+Consumer,Month-to-Month,61,No
+Consumer,Month-to-Month,10,No
+Small Business,Two Year,64,No
+Small Business,Month-to-Month,41,No
+Consumer,One Year,16,No
+Small Business,Month-to-Month,4,No
+Consumer,Month-to-Month,52,No
+Small Business,One Year,31,No
+Enterprise,Month-to-Month,22,No
+Small Business,One Year,28,No
+Small Business,Month-to-Month,72,No
+Small Business,Two Year,31,No
+Consumer,One Year,5,No
+Consumer,Two Year,20,No
+Consumer,Month-to-Month,10,Yes
+Consumer,Month-to-Month,50,No
+Small Business,Month-to-Month,58,No
+Small Business,Month-to-Month,61,Yes
+Enterprise,Month-to-Month,46,No
+Consumer,Month-to-Month,56,Yes
+Small Business,Month-to-Month,30,No
+Consumer,Month-to-Month,45,No
+Consumer,Month-to-Month,7,No
+Small Business,Month-to-Month,39,No
+Enterprise,Month-to-Month,40,No
+Small Business,One Year,2,No
+Consumer,Month-to-Month,40,No
+Small Business,Month-to-Month,52,No
+Consumer,Month-to-Month,26,Yes
+Enterprise,One Year,39,No
+Small Business,Month-to-Month,20,Yes
+Consumer,One Year,19,No
+Consumer,Two Year,9,No
+Consumer,Month-to-Month,23,Yes
+Enterprise,Two Year,58,No
+Consumer,One Year,68,No
+Small Business,Month-to-Month,46,No
+Small Business,Month-to-Month,45,No
+Consumer,One Year,44,No
+Consumer,Two Year,34,No
+Enterprise,Month-to-Month,30,No
+Consumer,Month-to-Month,45,Yes
+Consumer,One Year,57,No
+Small Business,Month-to-Month,30,Yes
+Small Business,One Year,41,No
+Enterprise,Month-to-Month,34,No
+Consumer,One Year,20,Yes
+Consumer,Two Year,21,No
+Consumer,One Year,5,No
+Consumer,One Year,32,Yes
+Consumer,One Year,52,No
+Consumer,One Year,50,No
+Consumer,Two Year,71,No
+Consumer,Month-to-Month,2,Yes
+Consumer,One Year,55,No
+Small Business,Month-to-Month,58,Yes
+Small Business,Two Year,31,No
+Consumer,One Year,20,No
+Consumer,Month-to-Month,26,No
+Consumer,Month-to-Month,49,Yes
+Consumer,Month-to-Month,62,No
+Consumer,One Year,46,No
+Consumer,Month-to-Month,37,Yes
+Consumer,Month-to-Month,47,No
+Consumer,Two Year,5,No
+Consumer,One Year,44,No
+Consumer,Month-to-Month,3,No
+Consumer,Month-to-Month,70,Yes
+Small Business,Two Year,64,Yes
+Small Business,One Year,37,No
+Small Business,One Year,27,No
+Consumer,Month-to-Month,53,No
+Small Business,Month-to-Month,46,No
+Consumer,Month-to-Month,51,Yes
+Consumer,One Year,37,No
+Small Business,Month-to-Month,17,No
+Consumer,Month-to-Month,5,Yes
+Consumer,One Year,20,No
+Small Business,Two Year,38,No
+Enterprise,One Year,30,No
+Enterprise,Month-to-Month,36,No
+Consumer,Month-to-Month,20,Yes
+Consumer,Month-to-Month,68,Yes
+Small Business,Month-to-Month,26,No
+Consumer,Month-to-Month,61,No
+Small Business,Month-to-Month,28,No
+Consumer,One Year,32,No
+Consumer,Two Year,44,No
+Consumer,Two Year,19,No
+Small Business,Month-to-Month,16,No
+Consumer,Month-to-Month,27,Yes
+Consumer,Month-to-Month,58,No
+Consumer,Month-to-Month,10,Yes
+Consumer,Month-to-Month,31,Yes
+Consumer,Month-to-Month,49,No
+Small Business,One Year,51,No
+Consumer,Month-to-Month,31,No
+Small Business,Two Year,5,No
+Enterprise,Month-to-Month,1,No
+Consumer,Month-to-Month,34,No
+Consumer,Month-to-Month,59,No
+Small Business,Month-to-Month,2,No
+Consumer,Month-to-Month,64,No
+Consumer,Two Year,49,No
+Enterprise,Month-to-Month,0,No
+Enterprise,Month-to-Month,25,Yes
+Small Business,One Year,16,No
+Consumer,Month-to-Month,69,Yes
+Small Business,One Year,40,Yes
+Small Business,Month-to-Month,23,No
+Consumer,One Year,20,Yes
+Small Business,Month-to-Month,41,No
+Consumer,Month-to-Month,0,No
+Consumer,One Year,18,No
+Consumer,Two Year,12,No
+Consumer,Month-to-Month,45,Yes
+Consumer,One Year,48,No
+Small Business,Month-to-Month,34,No
+Enterprise,Month-to-Month,10,Yes
+Consumer,Month-to-Month,27,Yes
+Small Business,One Year,61,No
+Enterprise,Month-to-Month,14,No
+Consumer,One Year,11,No
+Consumer,Month-to-Month,8,No
+Consumer,Two Year,59,No
+Consumer,One Year,8,No
+Small Business,Month-to-Month,42,Yes
+Consumer,Month-to-Month,72,No
+Consumer,Month-to-Month,46,Yes
+Consumer,Two Year,30,No
+Consumer,Month-to-Month,15,No
+Enterprise,Month-to-Month,0,Yes
+Consumer,Month-to-Month,11,No
+Consumer,One Year,69,No
+Consumer,Month-to-Month,10,No
+Consumer,Month-to-Month,1,No
+Consumer,Two Year,59,No
+Consumer,Month-to-Month,30,Yes
+Consumer,One Year,26,No
+Consumer,Month-to-Month,52,Yes
+Small Business,Month-to-Month,38,Yes
+Small Business,Two Year,66,No
+Small Business,One Year,34,No
+Small Business,One Year,52,No
+Small Business,Month-to-Month,64,No
+Consumer,Month-to-Month,33,No
+Consumer,Month-to-Month,20,Yes
+Consumer,Month-to-Month,71,No
+Consumer,Month-to-Month,16,Yes
+Small Business,Month-to-Month,2,Yes
+Consumer,Month-to-Month,42,No
+Small Business,Month-to-Month,72,No
+Enterprise,Month-to-Month,6,No
+Consumer,Month-to-Month,62,Yes
+Enterprise,Two Year,60,No
+Consumer,One Year,67,No
+Enterprise,Month-to-Month,30,No
+Consumer,One Year,18,No
+Consumer,One Year,37,No
+Consumer,Month-to-Month,10,No
+Consumer,Month-to-Month,61,No
+Consumer,Month-to-Month,48,Yes
+Enterprise,Month-to-Month,35,No
+Small Business,One Year,37,No
+Consumer,Two Year,51,No
+Consumer,Month-to-Month,38,No
+Consumer,One Year,61,No
+Consumer,Month-to-Month,67,No
+Enterprise,One Year,69,No
+Consumer,One Year,45,No
+Consumer,Month-to-Month,54,No
+Consumer,Month-to-Month,22,Yes
+Consumer,One Year,2,No
+Consumer,Two Year,29,No
+Small Business,Month-to-Month,63,No
+Small Business,Month-to-Month,9,No
+Enterprise,Month-to-Month,39,No
+Small Business,One Year,14,No
+Consumer,One Year,31,No
+Small Business,One Year,10,No
+Enterprise,One Year,53,No
+Small Business,Two Year,59,No
+Enterprise,One Year,55,No
+Small Business,Month-to-Month,51,No
+Enterprise,One Year,17,No
+Consumer,Month-to-Month,38,Yes
+Small Business,Month-to-Month,7,No
+Consumer,Two Year,27,No
+Consumer,One Year,36,No
+Small Business,Two Year,48,No
+Enterprise,Month-to-Month,7,No
+Enterprise,Month-to-Month,59,No
+Consumer,Month-to-Month,33,Yes
+Small Business,Month-to-Month,64,No
+Small Business,Month-to-Month,38,No
+Consumer,Month-to-Month,39,No
+Consumer,Month-to-Month,50,Yes
+Consumer,Two Year,59,No
+Small Business,Month-to-Month,11,No
+Consumer,Month-to-Month,37,Yes
+Enterprise,One Year,2,No
+Consumer,Month-to-Month,34,No
+Enterprise,Two Year,59,No
+Consumer,One Year,63,No
+Small Business,Month-to-Month,20,No
+Consumer,One Year,28,No
+Consumer,One Year,40,No
+Small Business,One Year,28,No
+Enterprise,One Year,12,No
+Small Business,One Year,22,No
+Consumer,One Year,29,No
+Consumer,Month-to-Month,37,No
+Consumer,One Year,67,No
+Consumer,Two Year,39,No
+Small Business,One Year,28,Yes
+Small Business,One Year,48,No
+Small Business,Month-to-Month,56,Yes
+Enterprise,One Year,31,No
+Small Business,Two Year,35,No
+Small Business,Month-to-Month,15,No
+Consumer,Month-to-Month,63,No
+Consumer,Month-to-Month,63,No
+Small Business,Month-to-Month,12,Yes
+Enterprise,One Year,25,No
+Consumer,Month-to-Month,19,No
+Consumer,Month-to-Month,67,No
+Small Business,One Year,4,No
+Consumer,One Year,15,No
+Consumer,One Year,22,No
+Enterprise,One Year,40,No
+Small Business,One Year,18,No
+Consumer,One Year,39,No
+Enterprise,One Year,54,No
+Consumer,Month-to-Month,60,Yes
+Enterprise,One Year,7,No
+Consumer,Month-to-Month,10,No
+Consumer,Month-to-Month,6,No
+Consumer,Month-to-Month,66,No
+Consumer,Two Year,47,No
+Enterprise,One Year,38,No
+Consumer,Month-to-Month,57,Yes
+Consumer,One Year,42,No
+Consumer,Month-to-Month,17,No
+Small Business,One Year,37,No
+Small Business,One Year,51,No
+Enterprise,One Year,2,No
+Consumer,One Year,44,No
+Consumer,Month-to-Month,36,Yes
+Consumer,Month-to-Month,5,No
+Consumer,Two Year,19,No
+Enterprise,One Year,32,No
+Small Business,Month-to-Month,25,Yes
+Consumer,Month-to-Month,21,Yes
+Consumer,Month-to-Month,47,Yes
+Enterprise,Month-to-Month,29,Yes
+Consumer,Month-to-Month,36,Yes
+Consumer,Month-to-Month,58,No
+Consumer,Two Year,6,No
+Consumer,Month-to-Month,26,No
+Consumer,Month-to-Month,5,Yes
+Consumer,Month-to-Month,67,Yes
+Consumer,Month-to-Month,13,No
+Small Business,One Year,59,No
+Consumer,Month-to-Month,13,No
+Consumer,One Year,23,Yes
+Enterprise,One Year,44,No
+Small Business,Month-to-Month,60,No
+Consumer,One Year,12,No
+Consumer,Two Year,15,No
+Enterprise,Month-to-Month,64,No
+Consumer,Month-to-Month,23,Yes
+Consumer,Two Year,15,No
+Enterprise,Two Year,54,No
+Consumer,Month-to-Month,6,No
+Small Business,One Year,63,No
+Consumer,Month-to-Month,63,No
+Small Business,One Year,62,No
+Consumer,Month-to-Month,21,No
+Consumer,Month-to-Month,8,Yes
+Consumer,One Year,31,No
+Consumer,Two Year,24,No
+Enterprise,One Year,70,No
+Consumer,Month-to-Month,46,Yes
+Consumer,Month-to-Month,68,Yes
+Small Business,Two Year,54,No
+Small Business,Two Year,52,No
+Consumer,Month-to-Month,8,Yes
+Consumer,One Year,5,Yes
+Enterprise,Month-to-Month,3,No
+Small Business,Month-to-Month,43,Yes
+Small Business,Month-to-Month,14,No
+Enterprise,Month-to-Month,72,No
+Small Business,Month-to-Month,9,No
+Consumer,One Year,69,No
+Consumer,Month-to-Month,48,No
+Consumer,Month-to-Month,7,Yes
+Small Business,Month-to-Month,4,Yes
+Enterprise,Month-to-Month,28,Yes
+Consumer,Month-to-Month,24,Yes
+Consumer,One Year,23,No
+Consumer,Month-to-Month,38,Yes
+Enterprise,One Year,9,Yes
+Consumer,Two Year,9,No
+Consumer,Month-to-Month,50,No
+Consumer,Two Year,72,No
+Consumer,Two Year,19,Yes
+Consumer,One Year,68,No
+Consumer,One Year,25,No
+Consumer,One Year,24,No
+Consumer,One Year,6,No
+Consumer,One Year,30,No
+Consumer,Month-to-Month,36,No
+Consumer,Two Year,48,No
+Small Business,One Year,11,No
+Consumer,One Year,13,No
+Consumer,Month-to-Month,31,Yes
+Consumer,Month-to-Month,5,No
+Consumer,Month-to-Month,10,No
+Consumer,Month-to-Month,45,Yes
+Consumer,Month-to-Month,69,No
+Enterprise,Month-to-Month,41,No
+Consumer,Month-to-Month,10,Yes
+Consumer,Month-to-Month,72,No
+Consumer,Month-to-Month,38,No
+Consumer,Two Year,52,No
+Consumer,Month-to-Month,14,Yes
+Small Business,Month-to-Month,42,Yes
+Small Business,Month-to-Month,5,No
+Consumer,Month-to-Month,45,No
+Consumer,Month-to-Month,14,Yes
+Consumer,One Year,66,No
+Consumer,Two Year,3,No
+Small Business,Month-to-Month,47,No
+Consumer,One Year,10,No
+Consumer,Month-to-Month,50,No
+Enterprise,Month-to-Month,36,No
+Consumer,Month-to-Month,70,No
+Consumer,Month-to-Month,47,Yes
+Small Business,One Year,27,No
+Consumer,One Year,6,No
+Consumer,One Year,43,No
+Consumer,Month-to-Month,32,No
+Enterprise,One Year,3,No
+Consumer,Month-to-Month,42,Yes
+Consumer,Month-to-Month,15,Yes
+Consumer,Month-to-Month,17,No
+Consumer,One Year,0,No
+Small Business,Two Year,27,No
+Consumer,Month-to-Month,15,No
+Consumer,One Year,5,No
+Consumer,One Year,31,No
+Small Business,One Year,16,No
+Consumer,Month-to-Month,9,Yes
+Enterprise,One Year,34,No
+Small Business,One Year,4,No
+Consumer,Two Year,72,No
+Small Business,Month-to-Month,34,Yes
+Enterprise,Two Year,72,No
+Consumer,Month-to-Month,64,No
+Enterprise,One Year,71,No
+Consumer,Month-to-Month,39,No
+Small Business,Month-to-Month,30,No
+Enterprise,Month-to-Month,52,Yes
+Consumer,Month-to-Month,5,Yes
+Small Business,Month-to-Month,61,No
+Consumer,Month-to-Month,23,No
+Small Business,Month-to-Month,0,Yes
+Small Business,Month-to-Month,17,No
+Consumer,One Year,17,No
+Consumer,Two Year,1,No
+Consumer,One Year,48,No
+Consumer,Month-to-Month,6,No
+Consumer,Month-to-Month,61,No
+Consumer,Two Year,33,No
+Consumer,Month-to-Month,52,No
+Consumer,Month-to-Month,24,Yes
+Small Business,Two Year,9,No
+Small Business,Two Year,13,No
+Small Business,Month-to-Month,47,No
+Consumer,One Year,52,No
+Enterprise,Month-to-Month,19,No
+Consumer,One Year,26,No
+Consumer,Month-to-Month,68,Yes
+Consumer,Month-to-Month,62,No
+Small Business,One Year,30,No
+Consumer,Month-to-Month,17,Yes
+Consumer,One Year,21,No
+Enterprise,Month-to-Month,39,Yes
+Consumer,Two Year,41,No
+Consumer,One Year,13,No
+Enterprise,Month-to-Month,4,Yes
+Consumer,One Year,36,No
+Consumer,Month-to-Month,58,No
+Enterprise,Month-to-Month,11,No
+Enterprise,Month-to-Month,29,Yes
+Consumer,Two Year,11,No
+Small Business,One Year,17,No
+Consumer,Two Year,44,No
+Consumer,Two Year,20,No
+Consumer,Two Year,19,No
+Consumer,Month-to-Month,72,No
+Small Business,Two Year,12,Yes
+Small Business,One Year,13,No
+Consumer,Month-to-Month,67,Yes
+Consumer,One Year,40,No
+Consumer,Month-to-Month,3,No
+Enterprise,Month-to-Month,31,No
+Consumer,Month-to-Month,41,No
+Small Business,Month-to-Month,18,No
+Consumer,Month-to-Month,40,No
+Consumer,Two Year,47,No
+Small Business,One Year,18,No
+Small Business,Month-to-Month,59,No
+Consumer,Month-to-Month,33,No
+Small Business,Month-to-Month,70,No
+Enterprise,Month-to-Month,6,No
+Consumer,One Year,23,No
+Consumer,Month-to-Month,52,Yes
+Consumer,One Year,65,No
+Small Business,One Year,16,Yes
+Consumer,One Year,71,No
+Consumer,Two Year,14,No
+Consumer,Month-to-Month,30,Yes
+Enterprise,Two Year,22,No
+Consumer,One Year,30,No
+Small Business,One Year,65,No
+Consumer,One Year,53,No
+Enterprise,One Year,58,No
+Consumer,Two Year,18,No
+Consumer,Month-to-Month,69,No
+Enterprise,One Year,31,No
+Enterprise,One Year,47,No
+Consumer,Month-to-Month,50,No
+Consumer,Two Year,48,No
+Small Business,Month-to-Month,43,No
+Enterprise,One Year,35,No
+Consumer,Month-to-Month,47,No
+Consumer,Month-to-Month,66,No
+Small Business,One Year,28,No
+Small Business,Month-to-Month,37,Yes
+Small Business,Month-to-Month,13,Yes
+Consumer,Month-to-Month,25,No
+Consumer,Month-to-Month,56,No
+Enterprise,One Year,46,No
+Enterprise,Two Year,15,No
+Small Business,Month-to-Month,39,No
+Consumer,One Year,59,No
+Consumer,Month-to-Month,9,Yes
+Small Business,One Year,4,Yes
+Consumer,Month-to-Month,28,No
+Enterprise,Month-to-Month,47,Yes
+Consumer,Month-to-Month,22,No
+Small Business,One Year,59,No
+Enterprise,Month-to-Month,61,No
+Consumer,Month-to-Month,38,Yes
+Consumer,One Year,27,No
+Small Business,One Year,3,No
+Consumer,Month-to-Month,59,No
+Consumer,One Year,65,No
+Small Business,Two Year,32,No
+Enterprise,Month-to-Month,37,No
+Consumer,One Year,55,No
+Consumer,Month-to-Month,50,Yes
+Consumer,One Year,9,No
+Consumer,Month-to-Month,49,Yes
+Consumer,One Year,67,No
+Consumer,Month-to-Month,54,No
+Small Business,Month-to-Month,35,No
+Consumer,Two Year,38,No
+Enterprise,Month-to-Month,18,No
+Consumer,Two Year,48,No
+Consumer,Two Year,17,No
+Small Business,Two Year,24,No
+Enterprise,Month-to-Month,19,No
+Consumer,One Year,24,No
+Consumer,Month-to-Month,26,Yes
+Consumer,Month-to-Month,6,No
+Consumer,Two Year,52,No
+Consumer,One Year,32,No
+Consumer,Month-to-Month,69,Yes
+Consumer,Month-to-Month,13,Yes
+Consumer,One Year,48,No
+Enterprise,One Year,13,No
+Small Business,Month-to-Month,39,No
+Consumer,Two Year,35,No
+Consumer,Month-to-Month,32,Yes
+Consumer,Month-to-Month,47,Yes
+Consumer,One Year,60,No
+Small Business,Two Year,23,No
+Enterprise,Month-to-Month,62,No
+Enterprise,Month-to-Month,13,Yes
+Enterprise,Month-to-Month,21,Yes
+Enterprise,Two Year,22,No
+Enterprise,Month-to-Month,69,No
+Consumer,Month-to-Month,8,Yes
+Consumer,Two Year,28,No
+Consumer,Month-to-Month,30,Yes
+Consumer,One Year,58,No
+Consumer,Month-to-Month,35,No
+Small Business,One Year,70,No
+Small Business,Month-to-Month,54,No
+Consumer,Month-to-Month,51,Yes
+Consumer,Month-to-Month,54,No
+Consumer,One Year,11,No
+Consumer,One Year,32,No
+Enterprise,Month-to-Month,42,No
+Consumer,Month-to-Month,15,No
+Small Business,Two Year,8,No
+Consumer,Month-to-Month,9,Yes
+Consumer,Month-to-Month,57,No
+Consumer,One Year,47,No
+Small Business,Month-to-Month,20,No
+Small Business,Month-to-Month,53,No
+Consumer,Month-to-Month,50,Yes
+Enterprise,Month-to-Month,59,No
+Consumer,Month-to-Month,66,Yes
+Enterprise,One Year,64,No
+Consumer,One Year,13,Yes
+Consumer,Month-to-Month,56,Yes
+Small Business,One Year,28,No
+Consumer,Month-to-Month,29,No
+Consumer,One Year,47,No
+Consumer,Month-to-Month,43,No
+Consumer,One Year,30,No
+Small Business,Month-to-Month,72,No
+Enterprise,Month-to-Month,12,Yes
+Enterprise,Month-to-Month,7,No
+Consumer,Month-to-Month,2,No
+Consumer,Month-to-Month,59,Yes
+Consumer,One Year,29,No
+Consumer,One Year,31,No
+Consumer,Month-to-Month,47,Yes
+Enterprise,Two Year,31,No
+Enterprise,One Year,41,No
+Small Business,Two Year,4,No
+Consumer,One Year,11,No
+Consumer,One Year,68,No
+Consumer,Month-to-Month,32,Yes
+Consumer,One Year,12,No
+Consumer,Two Year,26,No
+Consumer,Month-to-Month,24,Yes
+Consumer,Month-to-Month,20,No
+Enterprise,Month-to-Month,21,Yes
+Consumer,Two Year,53,No
+Enterprise,Month-to-Month,7,No
+Consumer,One Year,22,No
+Consumer,One Year,34,No
+Consumer,Two Year,39,No
+Consumer,Month-to-Month,64,No
+Consumer,One Year,67,No
+Consumer,Two Year,21,No
+Enterprise,Month-to-Month,39,Yes
+Consumer,One Year,1,No
+Small Business,Month-to-Month,45,Yes
+Consumer,One Year,11,No
+Consumer,Month-to-Month,5,No
+Consumer,Month-to-Month,49,No
+Consumer,Month-to-Month,13,No
+Enterprise,Month-to-Month,34,Yes
+Small Business,Month-to-Month,7,Yes
+Small Business,One Year,54,No
+Consumer,Month-to-Month,55,No
+Consumer,Month-to-Month,41,No
+Enterprise,One Year,61,No
+Consumer,One Year,31,No
+Consumer,Month-to-Month,13,Yes
+Consumer,Two Year,11,No
+Small Business,Month-to-Month,16,No
+Small Business,One Year,14,No
+Small Business,Month-to-Month,23,No
+Small Business,One Year,15,No
+Consumer,Two Year,43,No
+Enterprise,One Year,10,No
+Consumer,One Year,45,No
+Small Business,One Year,24,No
+Consumer,Month-to-Month,50,No
+Enterprise,One Year,37,Yes
+Consumer,One Year,66,No
+Consumer,Two Year,32,No
+Consumer,Month-to-Month,21,No
+Consumer,Month-to-Month,43,Yes
+Consumer,One Year,48,No
+Small Business,Month-to-Month,32,No
+Consumer,Month-to-Month,40,No
+Enterprise,Month-to-Month,34,Yes
+Consumer,One Year,22,No
+Small Business,Month-to-Month,22,No
+Consumer,Month-to-Month,66,No
+Small Business,Month-to-Month,49,Yes
+Consumer,Two Year,6,No
+Consumer,One Year,70,No
+Enterprise,Month-to-Month,51,No
+Consumer,Month-to-Month,3,Yes
+Consumer,One Year,53,No
+Small Business,Month-to-Month,43,Yes
+Small Business,One Year,66,No
+Consumer,Month-to-Month,35,Yes
+Consumer,Two Year,37,No
+Enterprise,Month-to-Month,22,No
+Small Business,One Year,23,No
+Enterprise,Month-to-Month,45,No
+Consumer,Two Year,60,No
+Small Business,Two Year,65,No
+Consumer,One Year,56,No
+Enterprise,Month-to-Month,44,No
+Consumer,Month-to-Month,36,Yes
+Small Business,One Year,24,No
+Consumer,One Year,56,No
+Consumer,Month-to-Month,23,Yes
+Small Business,Month-to-Month,19,No
+Consumer,Month-to-Month,63,No
+Enterprise,One Year,43,No
+Consumer,One Year,25,No
+Small Business,One Year,63,No
+Consumer,One Year,70,No
+Consumer,Month-to-Month,23,No
+Consumer,Month-to-Month,38,No
+Consumer,Month-to-Month,35,Yes
+Consumer,One Year,51,No
+Small Business,Month-to-Month,69,No
+Small Business,Month-to-Month,40,No
+Small Business,Month-to-Month,58,No
+Consumer,Month-to-Month,43,No
+Consumer,One Year,64,No
+Consumer,Month-to-Month,29,No
+Small Business,Month-to-Month,28,No
+Enterprise,One Year,30,No
+Consumer,Month-to-Month,72,No
+Small Business,Month-to-Month,44,Yes
+Consumer,Month-to-Month,11,Yes
+Consumer,One Year,2,No
+Consumer,Month-to-Month,37,Yes
+Consumer,One Year,58,No
+Small Business,Two Year,34,No
+Enterprise,One Year,40,No
+Consumer,Month-to-Month,58,No
+Consumer,One Year,37,No
+Small Business,Month-to-Month,66,Yes
+Enterprise,Month-to-Month,46,No
+Small Business,Month-to-Month,53,No
+Consumer,Month-to-Month,57,Yes
+Small Business,Month-to-Month,45,Yes
+Consumer,Month-to-Month,3,No
+Enterprise,Month-to-Month,31,Yes
+Consumer,Month-to-Month,10,No
+Small Business,One Year,37,No
+Consumer,Two Year,10,No
+Consumer,Month-to-Month,37,No
+Enterprise,One Year,25,No
+Small Business,Month-to-Month,1,Yes
+Consumer,Month-to-Month,9,No
+Enterprise,Month-to-Month,36,No
+Enterprise,Month-to-Month,5,Yes
+Consumer,Month-to-Month,62,Yes
+Consumer,Month-to-Month,55,No
+Consumer,Month-to-Month,51,No
+Small Business,Month-to-Month,12,No
+Consumer,Month-to-Month,58,No
+Consumer,Month-to-Month,46,No
+Enterprise,Month-to-Month,28,No
+Enterprise,Month-to-Month,0,Yes
+Small Business,Month-to-Month,38,No
+Enterprise,Month-to-Month,58,No
+Small Business,Month-to-Month,2,No
+Small Business,Month-to-Month,3,No
+Small Business,Two Year,27,No
+Consumer,Month-to-Month,37,No
+Consumer,Month-to-Month,34,No
+Consumer,Month-to-Month,31,No
+Small Business,Two Year,18,No
+Consumer,One Year,4,No
+Consumer,One Year,2,Yes
+Consumer,Two Year,7,No
+Consumer,Month-to-Month,50,No
+Consumer,Two Year,57,No
+Small Business,Month-to-Month,31,No
+Enterprise,One Year,5,No
+Consumer,Month-to-Month,30,No
+Consumer,Month-to-Month,71,No
+Consumer,Two Year,18,No
+Small Business,Month-to-Month,35,No
+Small Business,Two Year,39,No
+Consumer,Month-to-Month,24,No
+Small Business,One Year,31,No
+Consumer,Two Year,34,No
+Consumer,Month-to-Month,34,No
+Enterprise,Two Year,52,No
+Consumer,One Year,42,No
+Consumer,One Year,3,Yes
+Consumer,Month-to-Month,0,No
+Small Business,Month-to-Month,29,Yes
+Enterprise,One Year,66,No
+Enterprise,Month-to-Month,2,No
+Consumer,Month-to-Month,5,Yes
+Consumer,Month-to-Month,49,No
+Small Business,Two Year,32,No
+Consumer,Month-to-Month,16,No
+Enterprise,One Year,15,Yes
+Small Business,Two Year,48,No
+Consumer,Month-to-Month,38,Yes
+Small Business,Month-to-Month,46,No
+Consumer,One Year,20,No
+Consumer,Month-to-Month,38,Yes
+Consumer,One Year,62,No
+Consumer,One Year,23,No
+Small Business,One Year,28,No
+Small Business,Month-to-Month,11,Yes
+Enterprise,One Year,46,No
+Enterprise,One Year,2,No
+Consumer,Month-to-Month,18,Yes
+Consumer,One Year,52,No
+Small Business,Two Year,1,Yes
+Enterprise,One Year,72,No
+Consumer,Month-to-Month,29,No
+Consumer,Month-to-Month,29,Yes
+Consumer,Month-to-Month,39,No
+Consumer,Month-to-Month,46,Yes
+Small Business,Month-to-Month,33,No
+Consumer,Two Year,64,No
+Small Business,Month-to-Month,70,No
+Small Business,One Year,14,No
+Small Business,Month-to-Month,51,No
+Consumer,Month-to-Month,21,No
+Consumer,Month-to-Month,72,Yes
+Small Business,Month-to-Month,18,No
+Small Business,One Year,21,Yes
+Consumer,Two Year,52,No
+Enterprise,Two Year,57,No
+Consumer,Month-to-Month,9,No
+Enterprise,One Year,40,No
+Consumer,Month-to-Month,25,No
+Consumer,Two Year,44,No
+Consumer,Month-to-Month,40,Yes
+Consumer,Month-to-Month,71,Yes
+Consumer,Month-to-Month,68,No
+Consumer,Month-to-Month,47,No
+Consumer,Month-to-Month,49,Yes
+Small Business,Two Year,65,No
+Consumer,One Year,13,No
+Small Business,Two Year,52,Yes
+Small Business,Month-to-Month,56,No
+Consumer,One Year,9,Yes
+Consumer,Month-to-Month,64,Yes
+Enterprise,Month-to-Month,51,No
+Small Business,Month-to-Month,25,Yes
+Consumer,Month-to-Month,35,No
+Small Business,One Year,35,No
+Consumer,Month-to-Month,67,No
+Consumer,Month-to-Month,70,No
+Small Business,One Year,58,No
+Consumer,Month-to-Month,47,No
+Small Business,Two Year,7,No
+Consumer,Month-to-Month,66,No
+Small Business,One Year,9,No
+Consumer,One Year,12,No
+Consumer,One Year,5,No
+Consumer,One Year,69,No
+Consumer,Two Year,36,No
+Small Business,One Year,17,No
+Consumer,Month-to-Month,5,Yes
+Consumer,Month-to-Month,30,Yes
+Consumer,One Year,52,No
+Consumer,Month-to-Month,72,No
+Small Business,Month-to-Month,40,Yes
+Consumer,Month-to-Month,44,Yes
+Enterprise,Month-to-Month,61,Yes
+Consumer,Month-to-Month,65,No
+Small Business,One Year,20,No
+Consumer,One Year,72,No
+Consumer,One Year,37,No
+Enterprise,Month-to-Month,67,No
+Enterprise,Month-to-Month,8,No
+Enterprise,One Year,7,No
+Consumer,Month-to-Month,64,No
+Consumer,One Year,49,No
+Small Business,Month-to-Month,12,No
+Consumer,Two Year,65,No
+Small Business,Month-to-Month,7,Yes
+Consumer,One Year,49,No
+Consumer,One Year,14,Yes
+Small Business,Month-to-Month,5,Yes
+Small Business,One Year,58,No
+Consumer,Month-to-Month,61,No
+Consumer,One Year,7,No
+Small Business,One Year,6,No
+Consumer,Month-to-Month,44,No
+Consumer,Month-to-Month,2,Yes
+Consumer,One Year,54,No
+Small Business,Month-to-Month,66,No
+Small Business,Two Year,54,No
+Consumer,One Year,16,No
+Consumer,One Year,13,No
+Consumer,Month-to-Month,49,Yes
+Consumer,One Year,4,No
+Consumer,Two Year,39,No
+Consumer,Month-to-Month,32,No
+Small Business,Month-to-Month,54,Yes
+Consumer,Month-to-Month,14,Yes
+Consumer,Month-to-Month,55,No
+Consumer,One Year,51,No
+Enterprise,Month-to-Month,17,Yes
+Small Business,One Year,26,No
+Consumer,Month-to-Month,4,No
+Enterprise,Month-to-Month,32,No
+Consumer,Month-to-Month,19,No
+Consumer,Two Year,8,No
+Enterprise,One Year,40,No
+Consumer,Month-to-Month,41,Yes
+Consumer,One Year,6,No
+Consumer,Month-to-Month,13,No
+Consumer,Month-to-Month,6,No
+Small Business,Month-to-Month,49,No
+Consumer,Two Year,24,No
+Consumer,One Year,5,No
+Consumer,One Year,13,No
+Consumer,Month-to-Month,71,No
+Consumer,Month-to-Month,18,No
+Consumer,One Year,49,No
+Enterprise,Month-to-Month,34,No
+Consumer,Two Year,13,No
+Consumer,One Year,22,No
+Consumer,Month-to-Month,1,No
+Consumer,One Year,54,No
+Consumer,Two Year,24,No
+Small Business,Month-to-Month,36,Yes
+Consumer,One Year,11,No
+Enterprise,Two Year,60,No
+Enterprise,Month-to-Month,15,No
+Consumer,Two Year,41,No
+Consumer,Month-to-Month,63,No
+Consumer,One Year,52,No
+Small Business,One Year,44,No
+Consumer,One Year,64,No
+Enterprise,Month-to-Month,12,No
+Small Business,One Year,70,No
+Small Business,Month-to-Month,40,No
+Consumer,Month-to-Month,29,Yes
+Enterprise,Month-to-Month,18,Yes
+Consumer,One Year,54,No
+Consumer,Month-to-Month,71,No
+Consumer,Month-to-Month,50,No
+Enterprise,Two Year,2,No
+Consumer,Month-to-Month,34,No
+Small Business,Month-to-Month,53,No
+Consumer,Month-to-Month,29,Yes
+Enterprise,Month-to-Month,56,No
+Consumer,One Year,51,No
+Consumer,Month-to-Month,4,No
+Enterprise,Month-to-Month,40,No
+Consumer,Two Year,12,No
+Consumer,One Year,35,No
+Consumer,One Year,28,No
+Consumer,Two Year,58,No
+Consumer,Two Year,63,No
+Consumer,Month-to-Month,33,No
+Consumer,One Year,39,No
+Enterprise,One Year,45,No
+Consumer,Month-to-Month,47,Yes
+Consumer,Month-to-Month,46,No
+Consumer,Month-to-Month,57,No
+Consumer,One Year,71,No
+Small Business,One Year,60,No
+Enterprise,One Year,9,No
+Enterprise,Month-to-Month,34,No
+Consumer,Month-to-Month,33,No
+Consumer,Month-to-Month,37,No
+Consumer,Month-to-Month,38,No
+Consumer,Two Year,52,No
+Consumer,Two Year,30,No
+Small Business,Two Year,19,No
+Consumer,Two Year,33,No
+Consumer,Two Year,62,No
+Consumer,Month-to-Month,22,No
+Consumer,Month-to-Month,1,No
+Consumer,Month-to-Month,71,No
+Consumer,Month-to-Month,14,No
+Small Business,Month-to-Month,44,No
+Consumer,Month-to-Month,58,No
+Consumer,Two Year,20,No
+Consumer,Month-to-Month,24,No
+Small Business,Two Year,20,No
+Consumer,One Year,10,No
+Small Business,One Year,11,No
+Enterprise,One Year,13,No
+Consumer,Month-to-Month,33,No
+Small Business,One Year,38,No
+Consumer,Month-to-Month,1,Yes
+Enterprise,Two Year,61,No
+Consumer,Month-to-Month,49,No
+Enterprise,Month-to-Month,5,Yes
+Consumer,One Year,61,No
+Consumer,One Year,2,No
+Consumer,Month-to-Month,40,No
+Small Business,One Year,33,No
+Consumer,Month-to-Month,36,Yes
+Consumer,One Year,69,No
+Small Business,Month-to-Month,67,No
+Enterprise,Month-to-Month,20,No
+Consumer,Month-to-Month,42,No
+Consumer,Month-to-Month,70,No
+Consumer,Month-to-Month,53,No
+Small Business,Month-to-Month,64,Yes
+Consumer,Month-to-Month,31,No
+Enterprise,Month-to-Month,20,Yes
+Consumer,Month-to-Month,37,No
+Consumer,Month-to-Month,59,Yes
+Consumer,One Year,67,No
+Consumer,Two Year,50,No
+Small Business,Month-to-Month,51,No
+Consumer,Two Year,37,No
+Consumer,Month-to-Month,23,Yes
+Enterprise,Month-to-Month,30,No
+Enterprise,One Year,36,No
+Enterprise,One Year,59,No
+Consumer,One Year,40,No
+Consumer,Month-to-Month,57,No
+Enterprise,One Year,1,No
+Consumer,Month-to-Month,55,Yes
+Consumer,Month-to-Month,37,No
+Small Business,Month-to-Month,72,No
+Consumer,Two Year,34,No
+Consumer,Month-to-Month,34,No
+Enterprise,One Year,9,No
+Small Business,One Year,58,No
+Consumer,One Year,51,No
+Consumer,One Year,62,No
+Consumer,Two Year,6,No
+Consumer,Month-to-Month,15,No
+Small Business,Month-to-Month,64,No
+Small Business,One Year,3,No
+Consumer,Month-to-Month,37,Yes
+Consumer,Month-to-Month,29,Yes
+Enterprise,Month-to-Month,68,Yes
+Consumer,Month-to-Month,62,No
+Consumer,Month-to-Month,65,No
+Consumer,Month-to-Month,21,No
+Small Business,Two Year,42,No
+Consumer,Month-to-Month,51,Yes
+Small Business,Two Year,70,No
+Consumer,Two Year,0,Yes
+Small Business,Month-to-Month,71,No
+Consumer,One Year,25,No
+Consumer,One Year,9,No
+Consumer,One Year,44,No
+Consumer,Month-to-Month,57,No
+Consumer,Month-to-Month,9,No
+Consumer,Month-to-Month,2,Yes
+Consumer,One Year,65,No
+Consumer,Two Year,68,No
+Enterprise,One Year,11,No
+Consumer,One Year,65,No
+Small Business,Two Year,66,No
+Enterprise,One Year,72,No
+Consumer,Month-to-Month,15,No
+Small Business,Two Year,42,No
+Enterprise,Month-to-Month,72,Yes
+Small Business,Month-to-Month,65,No
+Consumer,Month-to-Month,44,Yes
+Consumer,Two Year,14,No
+Consumer,Month-to-Month,6,Yes
+Consumer,Month-to-Month,18,No
+Enterprise,Month-to-Month,4,No
+Enterprise,Month-to-Month,14,No
+Consumer,Month-to-Month,5,Yes
+Small Business,One Year,55,No
+Consumer,Two Year,43,No
+Enterprise,Month-to-Month,37,No
+Consumer,Month-to-Month,59,Yes
+Enterprise,Month-to-Month,29,No
+Small Business,Month-to-Month,29,No
+Consumer,One Year,15,No
+Consumer,One Year,32,No
+Small Business,One Year,12,Yes
+Consumer,Month-to-Month,43,No
+Consumer,One Year,72,No
+Enterprise,Month-to-Month,38,No
+Consumer,Month-to-Month,21,No
+Consumer,Two Year,50,No
+Consumer,One Year,59,No
+Consumer,Two Year,34,No
+Enterprise,Two Year,18,No
+Consumer,One Year,52,No
+Consumer,Two Year,13,No
+Consumer,Month-to-Month,72,No
+Enterprise,Month-to-Month,23,No
+Consumer,Month-to-Month,25,No
+Enterprise,Month-to-Month,53,No
+Small Business,Month-to-Month,0,Yes
+Small Business,Month-to-Month,14,No
+Enterprise,One Year,9,Yes
+Small Business,One Year,28,No
+Enterprise,One Year,40,No
+Consumer,Month-to-Month,13,Yes
+Small Business,One Year,25,No
+Consumer,Month-to-Month,56,No
+Consumer,Month-to-Month,68,No
+Enterprise,Month-to-Month,1,No
+Enterprise,Month-to-Month,45,No
+Small Business,Month-to-Month,1,No
+Consumer,One Year,37,Yes
+Consumer,One Year,64,No
+Consumer,One Year,58,No
+Consumer,Month-to-Month,16,No
+Consumer,One Year,18,No
+Consumer,One Year,57,No
+Consumer,Month-to-Month,59,No
+Small Business,One Year,20,No
+Consumer,Month-to-Month,0,Yes
+Enterprise,Month-to-Month,32,No
+Small Business,Month-to-Month,45,Yes
+Consumer,Month-to-Month,32,Yes
+Consumer,Month-to-Month,68,No
+Consumer,Month-to-Month,59,Yes
+Enterprise,Month-to-Month,57,No
+Consumer,Two Year,1,No
+Consumer,Month-to-Month,62,No
+Enterprise,Month-to-Month,55,No
+Enterprise,Month-to-Month,28,No
+Consumer,Two Year,43,No
+Consumer,One Year,60,No
+Consumer,Two Year,66,No
+Consumer,Month-to-Month,40,No
+Consumer,Month-to-Month,3,Yes
+Consumer,One Year,45,No
+Enterprise,Month-to-Month,49,Yes
+Consumer,One Year,4,No
+Small Business,Two Year,59,No
+Consumer,Month-to-Month,14,No
+Small Business,Two Year,65,No
+Small Business,One Year,40,No
+Enterprise,Month-to-Month,23,No
+Enterprise,Month-to-Month,4,Yes
+Consumer,Month-to-Month,1,Yes
+Consumer,One Year,54,No
+Consumer,Month-to-Month,27,No
+Consumer,Month-to-Month,61,Yes
+Enterprise,One Year,16,No
+Consumer,Month-to-Month,67,No
+Small Business,Month-to-Month,68,Yes
+Consumer,One Year,7,Yes
+Consumer,Month-to-Month,47,No
+Consumer,Month-to-Month,68,No
+Small Business,Month-to-Month,23,No
+Small Business,Month-to-Month,4,Yes
+Consumer,Month-to-Month,63,No
+Consumer,One Year,34,No
+Small Business,Two Year,1,No
+Consumer,Month-to-Month,61,No
+Enterprise,Two Year,49,No
+Consumer,One Year,5,Yes
+Consumer,One Year,18,No
+Consumer,One Year,1,No
+Consumer,One Year,69,No
+Consumer,One Year,1,No
+Consumer,Month-to-Month,58,No
+Enterprise,Month-to-Month,37,No
+Consumer,Month-to-Month,42,Yes
+Consumer,Month-to-Month,59,No
+Consumer,One Year,65,No
+Consumer,Month-to-Month,9,No
+Consumer,Month-to-Month,1,No
+Consumer,Month-to-Month,9,Yes
+Small Business,Month-to-Month,49,No
+Consumer,One Year,41,No
+Enterprise,One Year,6,Yes
+Consumer,Month-to-Month,17,Yes
+Enterprise,Month-to-Month,39,No
+Consumer,Month-to-Month,53,No
+Consumer,Month-to-Month,25,Yes
+Small Business,One Year,69,No
+Small Business,One Year,72,No
+Small Business,Month-to-Month,55,No
+Consumer,Month-to-Month,33,No
+Small Business,Two Year,64,No
+Enterprise,One Year,53,No
+Small Business,Month-to-Month,37,No
+Consumer,Month-to-Month,32,No
+Small Business,Month-to-Month,60,No
+Small Business,Two Year,40,No
+Enterprise,Month-to-Month,13,Yes
+Consumer,Month-to-Month,72,No
+Consumer,Two Year,4,No
+Small Business,One Year,50,No
+Consumer,Month-to-Month,47,No
+Small Business,Month-to-Month,42,No
+Consumer,Month-to-Month,3,No
+Consumer,One Year,35,No
+Small Business,Month-to-Month,65,No
+Consumer,Two Year,17,No
+Consumer,Two Year,50,No
+Small Business,Month-to-Month,62,Yes
+Small Business,One Year,69,No
+Enterprise,Month-to-Month,37,Yes
+Consumer,Month-to-Month,22,Yes
+Consumer,One Year,51,No
+Enterprise,Month-to-Month,35,No
+Consumer,Month-to-Month,45,No
+Consumer,Month-to-Month,54,No
+Consumer,Month-to-Month,51,No
+Consumer,Month-to-Month,17,No
+Enterprise,One Year,55,No
+Small Business,One Year,39,No
+Small Business,One Year,67,No
+Consumer,One Year,48,No
+Consumer,Month-to-Month,65,Yes
+Consumer,One Year,71,No
+Consumer,Month-to-Month,72,No
+Consumer,Month-to-Month,54,Yes
+Consumer,Two Year,43,No
+Consumer,Month-to-Month,8,No
+Consumer,Month-to-Month,28,Yes
+Small Business,Month-to-Month,34,Yes
+Consumer,Month-to-Month,56,No
+Consumer,Month-to-Month,42,No
+Small Business,Month-to-Month,32,No
+Small Business,Two Year,10,No
+Small Business,Month-to-Month,52,Yes
+Consumer,Month-to-Month,31,No
+Small Business,Month-to-Month,2,No
+Consumer,One Year,20,Yes
+Consumer,Month-to-Month,64,No
+Consumer,Month-to-Month,8,No
+Consumer,Month-to-Month,29,No
+Consumer,One Year,37,No
+Consumer,One Year,6,No
+Small Business,One Year,12,Yes
+Consumer,One Year,68,No
+Consumer,Month-to-Month,43,No
+Consumer,Month-to-Month,15,No
+Consumer,Month-to-Month,12,No
+Consumer,Month-to-Month,31,No
+Consumer,Month-to-Month,52,Yes
+Consumer,Month-to-Month,53,Yes
+Small Business,Month-to-Month,14,Yes
+Enterprise,One Year,52,No
+Consumer,Month-to-Month,65,No
+Small Business,One Year,16,No
+Enterprise,One Year,1,No
+Enterprise,Month-to-Month,69,No
+Small Business,Month-to-Month,38,No
+Enterprise,One Year,56,No
+Enterprise,One Year,23,No
+Small Business,Month-to-Month,21,Yes
+Consumer,Month-to-Month,16,No
+Consumer,One Year,15,No
+Consumer,One Year,34,No
+Consumer,Month-to-Month,7,Yes
+Consumer,Month-to-Month,61,Yes
+Consumer,Two Year,37,No
+Consumer,Month-to-Month,66,Yes
+Consumer,Two Year,36,Yes
+Small Business,Month-to-Month,22,Yes
+Consumer,Month-to-Month,37,No
+Consumer,Month-to-Month,11,No
+Small Business,Month-to-Month,60,No
+Small Business,Two Year,52,No
+Enterprise,Month-to-Month,10,Yes
+Enterprise,Two Year,42,No
+Enterprise,Month-to-Month,39,Yes
+Consumer,Two Year,14,Yes
+Consumer,Two Year,8,No
+Consumer,One Year,55,No
+Small Business,Month-to-Month,19,Yes
+Enterprise,One Year,37,No
+Consumer,Month-to-Month,18,No
+Consumer,Two Year,47,No
+Consumer,Month-to-Month,3,Yes
+Consumer,Month-to-Month,26,No
+Consumer,Month-to-Month,39,Yes
+Consumer,One Year,32,No
+Enterprise,Two Year,44,No
+Consumer,Month-to-Month,13,No
+Small Business,One Year,32,No
+Small Business,Two Year,55,No
+Consumer,Month-to-Month,24,Yes
+Consumer,Month-to-Month,11,No
+Small Business,One Year,61,No
+Consumer,One Year,56,No
+Enterprise,Month-to-Month,49,No
+Consumer,One Year,58,No
+Small Business,Month-to-Month,56,No
+Small Business,Two Year,54,No
+Consumer,Two Year,37,No
+Consumer,One Year,1,No
+Enterprise,Month-to-Month,43,No
+Consumer,Month-to-Month,19,Yes
+Consumer,Month-to-Month,56,No
+Consumer,Month-to-Month,34,No
+Consumer,One Year,66,No
+Small Business,Month-to-Month,43,No
+Small Business,Month-to-Month,40,Yes
+Consumer,Month-to-Month,67,No
+Small Business,Month-to-Month,34,No
+Consumer,Month-to-Month,27,No
+Consumer,One Year,27,No
+Consumer,One Year,63,No
+Enterprise,Month-to-Month,55,No
+Consumer,Two Year,11,Yes
+Consumer,Two Year,35,No
+Consumer,Month-to-Month,27,Yes
+Small Business,One Year,47,No
+Consumer,Month-to-Month,3,Yes
+Consumer,Month-to-Month,52,Yes
+Small Business,Month-to-Month,54,No
+Consumer,Month-to-Month,16,Yes
+Consumer,Two Year,10,Yes
+Consumer,Two Year,45,No
+Consumer,One Year,18,Yes
+Consumer,One Year,68,No
+Enterprise,One Year,56,No
+Small Business,Two Year,69,No
+Small Business,Month-to-Month,39,Yes
+Enterprise,Month-to-Month,68,No
+Consumer,One Year,1,No
+Consumer,Month-to-Month,21,No
+Enterprise,Month-to-Month,0,Yes
+Consumer,Month-to-Month,49,Yes
+Small Business,One Year,37,No
+Small Business,Month-to-Month,20,Yes
+Consumer,Month-to-Month,22,Yes
+Consumer,Month-to-Month,46,Yes
+Consumer,Month-to-Month,13,No
+Consumer,Two Year,37,No
+Consumer,Month-to-Month,44,No
+Consumer,One Year,17,No
+Small Business,One Year,16,No
+Enterprise,Month-to-Month,25,No
+Small Business,One Year,43,No
+Consumer,One Year,18,No
+Consumer,One Year,27,No
+Consumer,Month-to-Month,39,No
+Consumer,Month-to-Month,13,Yes
+Enterprise,Two Year,41,No
+Consumer,One Year,10,Yes
+Consumer,Two Year,10,No
+Small Business,Two Year,17,No
+Consumer,Month-to-Month,20,Yes
+Consumer,One Year,2,No
+Consumer,Month-to-Month,70,No
+Small Business,One Year,22,No
+Small Business,Month-to-Month,58,No
+Consumer,Month-to-Month,65,No
+Enterprise,One Year,58,No
+Enterprise,One Year,60,No
+Small Business,One Year,7,No
+Consumer,Month-to-Month,27,No
+Consumer,Month-to-Month,54,No
+Enterprise,Two Year,42,No
+Consumer,Month-to-Month,0,No
+Small Business,Month-to-Month,41,No
+Small Business,One Year,58,No
+Consumer,Month-to-Month,60,No
+Small Business,One Year,28,No
+Enterprise,Month-to-Month,17,No
+Small Business,One Year,22,No
+Consumer,Two Year,21,No
+Enterprise,Two Year,25,No
+Consumer,One Year,22,No
+Small Business,Month-to-Month,33,Yes
+Small Business,One Year,2,No
+Small Business,One Year,20,No
+Consumer,One Year,22,No
+Consumer,One Year,11,No
+Consumer,One Year,64,No
+Consumer,One Year,49,No
+Consumer,One Year,66,No
+Consumer,Month-to-Month,40,No
+Consumer,Month-to-Month,8,No
+Small Business,One Year,66,No
+Enterprise,Month-to-Month,33,Yes
+Consumer,Two Year,49,No
+Small Business,One Year,27,No
+Small Business,Month-to-Month,36,Yes
+Consumer,One Year,35,No
+Consumer,One Year,20,No
+Small Business,One Year,40,No
+Enterprise,Month-to-Month,53,No
+Small Business,Two Year,1,No
+Enterprise,Month-to-Month,9,No
+Enterprise,One Year,61,No
+Consumer,Month-to-Month,41,No
+Small Business,One Year,71,No
+Consumer,One Year,44,No
+Enterprise,One Year,47,No
+Consumer,Month-to-Month,65,No
+Consumer,One Year,48,No
+Enterprise,One Year,24,Yes
+Consumer,Month-to-Month,38,No
+Small Business,Two Year,17,No
+Consumer,One Year,24,No
+Enterprise,Two Year,49,No
+Enterprise,Two Year,10,No
+Consumer,Two Year,49,No
+Small Business,One Year,42,No
+Consumer,One Year,22,No
+Small Business,Month-to-Month,3,No
+Small Business,Month-to-Month,51,Yes
+Small Business,One Year,60,No
+Consumer,Month-to-Month,53,No
+Consumer,Two Year,30,No
+Small Business,Month-to-Month,47,No
+Consumer,Month-to-Month,30,Yes
+Consumer,Month-to-Month,26,No
+Consumer,Month-to-Month,23,Yes
+Consumer,Month-to-Month,15,No
+Enterprise,Month-to-Month,70,No
+Consumer,One Year,48,No
+Consumer,Month-to-Month,12,No
+Enterprise,Month-to-Month,63,No
+Consumer,Month-to-Month,11,No
+Small Business,Month-to-Month,43,No
+Consumer,Month-to-Month,12,Yes
+Enterprise,One Year,26,No
+Small Business,One Year,48,No
+Enterprise,Month-to-Month,72,No
+Consumer,One Year,72,No
+Consumer,Month-to-Month,65,No
+Small Business,Month-to-Month,17,No
+Consumer,Two Year,6,No
+Consumer,Month-to-Month,66,Yes
+Consumer,Two Year,67,No
+Enterprise,Month-to-Month,20,No
+Small Business,Month-to-Month,1,Yes
+Small Business,Month-to-Month,47,Yes
+Small Business,Month-to-Month,5,No
+Consumer,Two Year,2,No
+Consumer,Month-to-Month,68,No
+Consumer,Two Year,36,No
+Small Business,Two Year,8,No
+Consumer,One Year,47,No
+Enterprise,Month-to-Month,26,No
+Small Business,Month-to-Month,39,No
+Consumer,Month-to-Month,65,No
+Consumer,One Year,17,No
+Consumer,Month-to-Month,47,No
+Enterprise,Two Year,60,No
+Enterprise,One Year,30,No
+Enterprise,Month-to-Month,70,No
+Consumer,One Year,32,No
+Consumer,Month-to-Month,33,Yes
+Consumer,Two Year,64,No
+Consumer,Month-to-Month,46,No
+Consumer,Two Year,63,No
+Consumer,One Year,57,No
+Enterprise,Two Year,52,No
+Consumer,Month-to-Month,17,No
+Consumer,One Year,29,Yes
+Small Business,Month-to-Month,63,Yes
+Consumer,One Year,44,No
+Small Business,Month-to-Month,20,Yes
+Small Business,Month-to-Month,23,No
+Enterprise,Month-to-Month,56,Yes
+Small Business,Month-to-Month,13,Yes
+Consumer,Month-to-Month,8,No
+Small Business,One Year,55,No
+Consumer,Month-to-Month,21,No
+Consumer,One Year,55,No
+Consumer,Month-to-Month,38,Yes
+Consumer,One Year,72,No
+Small Business,One Year,38,No
+Consumer,Month-to-Month,63,No
+Consumer,One Year,62,No
+Consumer,Two Year,15,No
+Small Business,One Year,72,No
+Consumer,Month-to-Month,54,No
+Small Business,Month-to-Month,7,No
+Enterprise,One Year,0,No
+Consumer,Month-to-Month,19,No
+Small Business,One Year,1,No
+Consumer,Month-to-Month,26,No
+Consumer,One Year,72,No
+Small Business,Month-to-Month,34,No
+Enterprise,Month-to-Month,1,Yes
+Consumer,Two Year,36,No
+Consumer,Two Year,15,No
+Consumer,Two Year,62,No
+Consumer,Two Year,6,No
+Small Business,Month-to-Month,56,No
